@@ -1,0 +1,1104 @@
+{
+ "chunk": "hh-b",
+ "authors": {
+  "Dan Abnett": "Дэн Абнетт",
+  "Chris Wraight": "Крис Райт",
+  "Nick Kyme": "Ник Кайм",
+  "Graham McNeill": "Грэм Макнилл",
+  "Guy Haley": "Гай Хейли",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "John French": "Джон Френч",
+  "Gav Thorpe": "Гэв Торп",
+  "James Swallow": "Джеймс Сваллоу",
+  "David Annandale": "Дэвид Аннандейл"
+ },
+ "series": [
+  {
+   "id": "horus-heresy",
+   "name": "Ересь Хоруса",
+   "nameEn": "The Horus Heresy",
+   "setting": "hh"
+  },
+  {
+   "id": "hh-characters",
+   "name": "Ересь Хоруса. Персонажи",
+   "nameEn": "The Horus Heresy Characters",
+   "setting": "hh"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 1219199,
+   "id": "valdor-birth-of-the-imperium",
+   "titleEn": "Valdor: Birth of the Imperium",
+   "titleRu": "Вальдор. Рождение Империума",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "hh-characters",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "custodes",
+    "imperium"
+   ],
+   "era": "dark-age",
+   "tl": 29700,
+   "tlLabel": "конец M30",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "lore",
+    "war",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Константин Вальдор",
+    "Император"
+   ],
+   "desc": "Задолго до Ереси Терра расколота на враждующие царства. Константин Вальдор, первый из Кустодиев, ведёт войска Императора в последние битвы Объединения. Книга показывает, на чём на самом деле построен Империум и сколько крови скрыто под его золотом.",
+   "hook": "Как рождался Империум — глазами его главного стража.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1359415,
+   "id": "luther-first-of-the-fallen",
+   "titleEn": "Luther: First of the Fallen",
+   "titleRu": "Лютер. Первый из Падших",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2020,
+   "setting": "hh",
+   "series": "hh-characters",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "dark-angels"
+   ],
+   "era": "great-crusade",
+   "tl": 29900,
+   "tlLabel": "~M30–M31",
+   "tlApprox": true,
+   "place": "Калибан",
+   "segmentum": "obscurus",
+   "tags": [
+    "character",
+    "betrayal",
+    "lore"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Лютер",
+    "Лев Эль'Джонсон"
+   ],
+   "desc": "Лютер сидит в темнице и рассказывает свою жизнь. Как рос рядом со Львом на Калибане, как стал вечно вторым и где всё сломалось. Почти вся книга — монолог от первого лица. Это не боевик, а исповедь человека, которого считают первым предателем Тёмных Ангелов.",
+   "hook": "Исповедь главного предателя Тёмных Ангелов. Или его оправдание?",
+   "prereq": [
+    "fallen-angels"
+   ],
+   "note": "Лучше читать после «Падших ангелов»."
+  },
+  {
+   "fantlabId": 1538853,
+   "id": "sigismund-the-eternal-crusader",
+   "titleEn": "Sigismund: The Eternal Crusader",
+   "titleRu": "Сигизмунд. Вечный крестоносец",
+   "ru": "fan",
+   "authors": [
+    "John French"
+   ],
+   "year": 2022,
+   "setting": "hh",
+   "series": "hh-characters",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "imperial-fists"
+   ],
+   "era": "great-crusade",
+   "tl": 30002,
+   "tlLabel": "ок. 002.M31",
+   "tlApprox": true,
+   "place": "Фронты крестового похода",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Сигизмунд"
+   ],
+   "desc": "Сигизмунд — лучший мечник Имперских Кулаков и будущий отец Чёрных Храмовников. Великий крестовый поход подходит к концу, а он ищет, ради чего сражаться дальше. Джон Френч рисует воина, который превращает войну в обет. Мрачно, сдержанно и без лишних слов.",
+   "hook": "Как рождается самый упрямый рыцарь Империума.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 777864,
+   "id": "scars",
+   "titleEn": "Scars",
+   "titleRu": "Шрамы",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2013,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 28,
+   "format": "novel",
+   "factions": [
+    "white-scars",
+    "space-wolves"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "ок. 006–007.M31",
+   "tlApprox": true,
+   "place": "Чондакс и туманность Алаксес",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "character",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Джагатай-хан",
+    "Шибан",
+    "Таргутай Есугэй"
+   ],
+   "desc": "Белые Шрамы воюют на краю галактики и узнают о мятеже последними. Обе стороны зовут их к себе, а Джагатай-хан молчит. Крис Райт впервые по-настоящему раскрывает этот легион: степную гордость, внутренние тайны и выбор, от которого зависит ход всей войны.",
+   "hook": "Чью сторону выберет Хан? Этого не знает даже его легион.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 777931,
+   "id": "the-damnation-of-pythos",
+   "titleEn": "The Damnation of Pythos",
+   "titleRu": "Проклятие Пифоса",
+   "ru": "official",
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2014,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 30,
+   "format": "novel",
+   "factions": [
+    "iron-hands",
+    "raven-guard",
+    "salamanders"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "ок. 006.M31",
+   "tlApprox": true,
+   "place": "Пифос",
+   "segmentum": "ultima",
+   "tags": [
+    "horror",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [],
+   "desc": "Уцелевшие после Исствана V Железные Руки и их союзники находят убежище на диком мире Пифос. Там живут беженцы-люди и огромные хищные ящеры. Но в самой планете есть что-то ещё, и оно медленно сводит всех с ума. Мрачный хоррор, который многие считают слабым местом серии.",
+   "hook": "Хоррор на планете-ловушке среди уцелевших после Исствана.",
+   "prereq": [],
+   "note": "Можно пропустить без потерь для сюжета."
+  },
+  {
+   "fantlabId": 2219741,
+   "id": "dropsite-massacre",
+   "titleEn": "Dropsite Massacre",
+   "titleRu": "Резня в зоне высадки",
+   "ru": "fan",
+   "authors": [
+    "John French"
+   ],
+   "year": 2025,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "iron-hands",
+    "raven-guard",
+    "salamanders",
+    "sons-of-horus"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "006.M31",
+   "tlApprox": false,
+   "place": "Исстван V",
+   "segmentum": "ultima",
+   "tags": [
+    "betrayal",
+    "war",
+    "tragedy",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Малогарст",
+    "Кхарн"
+   ],
+   "desc": "Исстван V. Семь легионов летят наказать Хоруса, но четыре из них уже на его стороне. Джон Френч заново рассказывает день, когда верные легионы попали в западню. Взгляд с обеих сторон, от примархов до простых бойцов. Читатели Black Library выбрали роман книгой 2025 года.",
+   "hook": "Главное предательство Ереси — глазами тех, кто был на поле.",
+   "prereq": [],
+   "note": "Отдельный роман 2025 года, вне нумерации серии."
+  },
+  {
+   "fantlabId": 709616,
+   "id": "vulkan-lives",
+   "titleEn": "Vulkan Lives",
+   "titleRu": "Вулкан жив",
+   "ru": "official",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2013,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 26,
+   "format": "novel",
+   "factions": [
+    "salamanders",
+    "night-lords"
+   ],
+   "era": "heresy",
+   "tl": 30007,
+   "tlLabel": "ок. 007.M31",
+   "tlApprox": true,
+   "place": "Исстван V и застенки Курца",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Вулкан",
+    "Конрад Курц",
+    "Артеллус Нумеон"
+   ],
+   "desc": "Вулкан выбрался из бойни на Исстване V, но попал в руки Конрада Курца. Повелитель Ночи день за днём пытается сломать брата. Тем временем уцелевшие Саламандры ищут своего примарха. Мрачная история о стойкости, где пленник человечнее палача.",
+   "hook": "Два примарха в одной темнице. Один мучает, другой держится.",
+   "prereq": [],
+   "note": "Первая часть линии Саламандр Ника Кайма."
+  },
+  {
+   "fantlabId": 596776,
+   "id": "the-unremembered-empire",
+   "titleEn": "The Unremembered Empire",
+   "titleRu": "Забытая Империя",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2013,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 27,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "dark-angels",
+    "blood-angels",
+    "night-lords"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 008.M31",
+   "tlApprox": true,
+   "place": "Макрагг",
+   "segmentum": "ultima",
+   "tags": [
+    "intrigue",
+    "epic",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Лев Эль'Джонсон",
+    "Сангвиний"
+   ],
+   "desc": "После Калта Ультрамар отрезан от Терры живым варп-штормом. Робаут Гиллиман решает: если Империум пал, нужен запасной. Он зовёт братьев-примархов на Макрагг и готовит новый трон. Но в тенях столицы уже прячется убийца. Большая политическая драма Абнетта о том, кто имеет право править.",
+   "hook": "Три примарха, один пустой трон и Курц в тенях Макрагга.",
+   "prereq": [
+    "know-no-fear"
+   ],
+   "note": "Лучше читать после «Не ведая страха»."
+  },
+  {
+   "fantlabId": 801187,
+   "id": "deathfire",
+   "titleEn": "Deathfire",
+   "titleRu": "Смертельный огонь",
+   "ru": "official",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2015,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 32,
+   "format": "novel",
+   "factions": [
+    "salamanders",
+    "word-bearers",
+    "death-guard"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 008.M31",
+   "tlApprox": true,
+   "place": "Путь из Ультрамара на Ноктюрн",
+   "segmentum": "many",
+   "tags": [
+    "survival",
+    "tragedy",
+    "sorcery"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Артеллус Нумеон"
+   ],
+   "desc": "Артеллус Нумеон везёт тело Вулкана домой, на Ноктюрн. Он верит, что пламя родной горы вернёт примарха к жизни. Путь лежит через варп-шторм, засады Несущих Слово и Гвардию Смерти. Книга об упрямой вере горстки Саламандр, когда надежды почти не осталось.",
+   "hook": "Горстка Саламандр несёт мёртвого отца сквозь шторм.",
+   "prereq": [
+    "vulkan-lives"
+   ],
+   "note": "Читать после «Вулкан жив»."
+  },
+  {
+   "fantlabId": 914482,
+   "id": "pharos",
+   "titleEn": "Pharos",
+   "titleRu": "Фарос",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2015,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 34,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "night-lords",
+    "imperial-fists"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 008.M31",
+   "tlApprox": true,
+   "place": "Сота",
+   "segmentum": "ultima",
+   "tags": [
+    "siege",
+    "war",
+    "space"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Алексис Полукс",
+    "Барабас Дантиох",
+    "Крукеш Бледный"
+   ],
+   "desc": "На далёкой Соте стоит Фарос — древний маяк чужаков, который светит сквозь варп-шторм. Без него новый Империум ослепнет. Повелители Ночи нападают внезапно, и защитникам приходится держаться среди лесов и скал. Ультрамарины, Имперский Кулак и верный Железный Воин против ночного ужаса.",
+   "hook": "Осада маяка, без которого погаснет новый Империум.",
+   "prereq": [
+    "the-unremembered-empire"
+   ],
+   "note": "Читать после «Забытой Империи»."
+  },
+  {
+   "fantlabId": 989157,
+   "id": "garro",
+   "titleEn": "Garro",
+   "titleRu": "Гарро",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 42,
+   "format": "novel",
+   "factions": [
+    "death-guard",
+    "imperium"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 007–012.M31",
+   "tlApprox": true,
+   "place": "Терра и дальние миры",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "adventure",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Натаниэль Гарро",
+    "Малкадор"
+   ],
+   "desc": "Натаниэль Гарро — капитан Гвардии Смерти, который не предал. Теперь он выполняет тайные поручения Малкадора и ищет по галактике тех, кто ещё верен Императору. Роман собран из аудиопьес и читается как цепочка миссий. Путь от одинокого беглеца к рыцарю нового ордена.",
+   "hook": "Верный сын предательского легиона на тайной службе Малкадора.",
+   "prereq": [
+    "the-flight-of-the-eisenstein"
+   ],
+   "note": "Собран из аудиопьес. Читать после «Полёта „Эйзенштейна“»."
+  },
+  {
+   "fantlabId": 777929,
+   "id": "vengeful-spirit",
+   "titleEn": "Vengeful Spirit",
+   "titleRu": "Дух мщения",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2014,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 29,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "knights",
+    "guard"
+   ],
+   "era": "heresy",
+   "tl": 30009,
+   "tlLabel": "009.M31",
+   "tlApprox": false,
+   "place": "Молех",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "sorcery",
+    "epic",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Хорус",
+    "Гарвель Локен"
+   ],
+   "desc": "Хорус ведёт армию на Молех — мир рыцарских домов, который Император когда-то покорил лично. Воитель ищет там нечто важнее простой победы. А по его следу идёт Гарвель Локен с тайным отрядом Малкадора. Битвы титанов и рыцарей сплетаются с колдовством и старыми секретами.",
+   "hook": "Хорус на пике силы и тайна, ради которой он пришёл на Молех.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 865458,
+   "id": "angels-of-caliban",
+   "titleEn": "Angels of Caliban",
+   "titleRu": "Ангелы Калибана",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2016,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 38,
+   "format": "novel",
+   "factions": [
+    "dark-angels",
+    "night-lords"
+   ],
+   "era": "heresy",
+   "tl": 30009,
+   "tlLabel": "ок. 009.M31",
+   "tlApprox": true,
+   "place": "Ультрамар и Калибан",
+   "segmentum": "many",
+   "tags": [
+    "betrayal",
+    "intrigue",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Лев Эль'Джонсон",
+    "Лютер"
+   ],
+   "desc": "Лев Эль'Джонсон охотится на Конрада Курца в землях нового Империума. А на далёком Калибане его приёмный отец Лютер всё дальше уходит от легиона. Две линии складываются в историю о верности, гордости и старой обиде. Важная книга для тех, кто любит Тёмных Ангелов.",
+   "hook": "Лев против Курца, Лютер против Льва. Корни тайны Тёмных Ангелов.",
+   "prereq": [
+    "fallen-angels",
+    "the-unremembered-empire"
+   ],
+   "note": "Лучше читать после «Падших ангелов»."
+  },
+  {
+   "fantlabId": 941814,
+   "id": "the-path-of-heaven",
+   "titleEn": "The Path of Heaven",
+   "titleRu": "Путь Небес",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2016,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 36,
+   "format": "novel",
+   "factions": [
+    "white-scars",
+    "death-guard"
+   ],
+   "era": "heresy",
+   "tl": 30010,
+   "tlLabel": "ок. 010.M31",
+   "tlApprox": true,
+   "place": "Флот Белых Шрамов",
+   "segmentum": "many",
+   "tags": [
+    "space",
+    "war",
+    "character"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Джагатай-хан",
+    "Шибан",
+    "Таргутай Есугэй"
+   ],
+   "desc": "Белые Шрамы сделали выбор и теперь воюют с предателями почти в одиночку. Хан ведёт быстрые набеги, но враги сжимают кольцо, а дорога к Терре закрыта. Продолжение «Шрамов»: яркие космические бои, степная честь и цена, которую легион платит за верность.",
+   "hook": "Самый быстрый легион пытается прорваться к Терре.",
+   "prereq": [
+    "scars"
+   ],
+   "note": "Читать после «Шрамов»."
+  },
+  {
+   "fantlabId": 942740,
+   "id": "the-crimson-king",
+   "titleEn": "The Crimson King",
+   "titleRu": "Алый король",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 44,
+   "format": "novel",
+   "factions": [
+    "thousand-sons",
+    "daemons"
+   ],
+   "era": "heresy",
+   "tl": 30010,
+   "tlLabel": "ок. 010.M31",
+   "tlApprox": true,
+   "place": "Планета Колдунов",
+   "segmentum": "eye",
+   "tags": [
+    "sorcery",
+    "character",
+    "villain-pov"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Магнус Красный",
+    "Азек Ариман"
+   ],
+   "desc": "После падения Просперо Магнус сломлен не только телом, но и душой. Его осколки разбросаны по варпу, а Тысяча Сынов прячется на Планете Колдунов. Азек Ариман ищет способ вернуть повелителя. Продолжение «Тысячи Сынов»: колдовство, вина и попытка собрать себя заново.",
+   "hook": "Падший примарх-колдун собирает себя по кусочкам.",
+   "prereq": [
+    "a-thousand-sons"
+   ],
+   "note": "Читать после «Тысячи Сынов»."
+  },
+  {
+   "fantlabId": 989154,
+   "id": "tallarn",
+   "titleEn": "Tallarn",
+   "titleRu": "Талларн",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 45,
+   "format": "anthology",
+   "factions": [
+    "guard",
+    "iron-warriors"
+   ],
+   "era": "heresy",
+   "tl": 30010,
+   "tlLabel": "010–011.M31",
+   "tlApprox": false,
+   "place": "Талларн",
+   "segmentum": "tempestus",
+   "tags": [
+    "war",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Железные Воины отравляют Талларн, и цветущий мир за часы превращается в мёртвую пустыню. Выжившие прячутся в бункерах и выходят наружу только в танках. Так начинается крупнейшая танковая битва Ереси. Повести и рассказы сшиты в одну историю о людях без брони Астартес.",
+   "hook": "Мёртвая планета, тысячи танков и война на выживание.",
+   "prereq": [],
+   "note": "Повести и рассказы, собранные в один сюжет.",
+   "ruYear": 2021
+  },
+  {
+   "fantlabId": 989152,
+   "id": "ruinstorm",
+   "titleEn": "Ruinstorm",
+   "titleRu": "Гибельный шторм",
+   "ru": "official",
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 46,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "ultramarines",
+    "dark-angels",
+    "daemons"
+   ],
+   "era": "heresy",
+   "tl": 30010,
+   "tlLabel": "ок. 010.M31",
+   "tlApprox": true,
+   "place": "Гибельный шторм у Ультрамара",
+   "segmentum": "ultima",
+   "tags": [
+    "sorcery",
+    "space",
+    "epic"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Сангвиний",
+    "Робаут Гиллиман",
+    "Лев Эль'Джонсон"
+   ],
+   "desc": "Новый Империум рушится, а варп-шторм всё ещё отрезает Ультрамар от Терры. Три легиона уходят с Макрагга, чтобы пробиться домой. Но шторм живой, и в нём ждут демоны. Много масштаба и примархов, но мало глубины — книга нужна в основном тем, кто хочет закрыть эту линию.",
+   "hook": "Три примарха против живого варп-шторма.",
+   "prereq": [
+    "the-unremembered-empire"
+   ],
+   "note": "Для тех, кто хочет закрыть линию Империума Секундус."
+  },
+  {
+   "fantlabId": 942739,
+   "id": "the-master-of-mankind",
+   "titleEn": "The Master of Mankind",
+   "titleRu": "Повелитель человечества",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2016,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 41,
+   "format": "novel",
+   "factions": [
+    "custodes",
+    "mechanicus",
+    "daemons"
+   ],
+   "era": "heresy",
+   "tl": 30011,
+   "tlLabel": "ок. 011.M31",
+   "tlApprox": true,
+   "place": "Паутина под Императорским дворцом",
+   "segmentum": "beyond",
+   "tags": [
+    "lore",
+    "epic",
+    "war",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Император",
+    "Константин Вальдор",
+    "Диоклетиан Корос"
+   ],
+   "desc": "Под Императорским дворцом идёт тайная война. Кустодии, Сёстры Безмолвия и Механикум удерживают Паутину от демонов. Здесь же сам Император — не икона, а почти бог с холодным расчётом. Одна из сильнейших книг серии и ключ к пониманию всего Империума.",
+   "hook": "Император вблизи и война, о которой не знает даже Терра.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 941819,
+   "id": "praetorian-of-dorn",
+   "titleEn": "Praetorian of Dorn",
+   "titleRu": "Преторианец Дорна",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2016,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 39,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "alpha-legion"
+   ],
+   "era": "heresy",
+   "tl": 30012,
+   "tlLabel": "ок. 012.M31",
+   "tlApprox": true,
+   "place": "Терра и Солнечная система",
+   "segmentum": "solar",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "betrayal",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Рогал Дорн",
+    "Архам"
+   ],
+   "desc": "Рогал Дорн готовит Терру к обороне, но враг уже внутри. Альфа-Легион бьёт по Солнечной системе изнутри, и никто не знает, кому верить. Старый воин Архам ведёт охоту на агентов, которые умеют носить любое лицо. Шпионский триллер с одними из лучших злодеев Ереси.",
+   "hook": "Альфа-Легион у ворот Терры. Кто из своих — чужой?",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 989153,
+   "id": "old-earth",
+   "titleEn": "Old Earth",
+   "titleRu": "Старая Земля",
+   "ru": "official",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 47,
+   "format": "novel",
+   "factions": [
+    "salamanders",
+    "iron-hands",
+    "sons-of-horus",
+    "aeldari"
+   ],
+   "era": "heresy",
+   "tl": 30012,
+   "tlLabel": "ок. 012.M31",
+   "tlApprox": true,
+   "place": "Паутина и Терра",
+   "segmentum": "many",
+   "tags": [
+    "adventure",
+    "war",
+    "sorcery"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Вулкан",
+    "Шадрак Медузон",
+    "Эльдрад Ультран"
+   ],
+   "desc": "Вулкан вернулся из мёртвых и пробирается к Терре. Его путь лежит через войну Разбитых легионов и опасные тропы Паутины. А эльдар Эльдрад Ультран ведёт свою игру. Книга закрывает линию Саламандр Ника Кайма и историю таинственной Каббалы.",
+   "hook": "Воскресший примарх спешит домой до начала Осады.",
+   "prereq": [
+    "deathfire"
+   ],
+   "note": "Читать после «Вулкан жив» и «Смертельного огня»."
+  },
+  {
+   "fantlabId": 997353,
+   "id": "wolfsbane",
+   "titleEn": "Wolfsbane",
+   "titleRu": "Волчья Погибель",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2018,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 49,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "sons-of-horus",
+    "mechanicus"
+   ],
+   "era": "heresy",
+   "tl": 30012,
+   "tlLabel": "ок. 012.M31",
+   "tlApprox": true,
+   "place": "Фенрис, Терра, Трисолиан",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "war",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Леман Русс",
+    "Хорус",
+    "Велизарий Коул"
+   ],
+   "desc": "Леман Русс не хочет ждать братьев. Он уводит Космических Волков на охоту: найти Хоруса и убить, пока тот не двинулся на Терру. Гай Хейли заглядывает в тайны Фенриса и самого Русса. Умная книга, где Волк Императора — не карикатурный дикарь, а расчётливый палач.",
+   "hook": "Палач Императора идёт за головой Хоруса.",
+   "prereq": [
+    "vengeful-spirit"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1054845,
+   "id": "slaves-to-darkness",
+   "titleEn": "Slaves to Darkness",
+   "titleRu": "Рабы тьмы",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2018,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 51,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "word-bearers",
+    "iron-warriors",
+    "daemons"
+   ],
+   "era": "heresy",
+   "tl": 30013,
+   "tlLabel": "ок. 013.M31",
+   "tlApprox": true,
+   "place": "«Дух мщения», Бета-Гармон",
+   "segmentum": "solar",
+   "tags": [
+    "villain-pov",
+    "intrigue",
+    "sorcery",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Малогарст",
+    "Лоргар",
+    "Пертурабо"
+   ],
+   "desc": "Хорус тяжело ранен и лежит на борту «Духа мщения». Пока Воитель между жизнью и смертью, его союзники грызутся за власть. Лоргар, Пертурабо и боги Хаоса тянут армию каждый в свою сторону. Вся книга показана глазами предателей — последний шаг перед походом на Терру.",
+   "hook": "Вождь предателей при смерти. Кто поведёт их на Терру?",
+   "prereq": [
+    "wolfsbane"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1083289,
+   "id": "titandeath",
+   "titleEn": "Titandeath",
+   "titleRu": "Бойня титанов",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2018,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 53,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "chaos"
+   ],
+   "era": "heresy",
+   "tl": 30013,
+   "tlLabel": "ок. 013.M31",
+   "tlApprox": true,
+   "place": "Бета-Гармон",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "epic"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [],
+   "desc": "Бета-Гармон — ворота к Терре, и за них дерутся целые легионы титанов. Гай Хейли показывает войну богомашин изнутри: экипажи, связь с машинным духом, гибель гигантов. Сюжет простой, зато это самая смертоносная битва титанов за всю Ересь.",
+   "hook": "Сотни титанов в одной битве за ворота к Терре.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1127493,
+   "id": "the-buried-dagger",
+   "titleEn": "The Buried Dagger",
+   "titleRu": "Погребённый кинжал",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 54,
+   "format": "novel",
+   "factions": [
+    "death-guard",
+    "daemons",
+    "imperium"
+   ],
+   "era": "heresy",
+   "tl": 30013,
+   "tlLabel": "ок. 013.M31",
+   "tlApprox": true,
+   "place": "Флот Гвардии Смерти и Терра",
+   "segmentum": "many",
+   "tags": [
+    "horror",
+    "tragedy",
+    "sorcery",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Мортарион",
+    "Натаниэль Гарро"
+   ],
+   "desc": "Флот Гвардии Смерти застрял в варпе, и на кораблях начинается мор. Мортарион, который всю жизнь ненавидел колдовство, оказывается перед страшным выбором. А на Терре Гарро и рыцари Малкадора ведут свою опасную охоту. Последний номерной роман перед «Осадой Терры».",
+   "hook": "Как Гвардия Смерти стала легионом чумы.",
+   "prereq": [
+    "garro"
+   ],
+   "note": "Последний номерной роман серии."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-imperium-secundus",
+   "name": "Империум Секундус",
+   "about": "Что творилось в Ультрамаре, пока Терра была отрезана штормом.",
+   "steps": [
+    {
+     "id": "know-no-fear",
+     "note": "Предательство на Калте — с него всё начинается."
+    },
+    {
+     "id": "the-unremembered-empire",
+     "note": "Гиллиман строит запасной Империум."
+    },
+    {
+     "id": "pharos",
+     "note": "Битва за маяк, на котором держится новый Империум."
+    },
+    {
+     "id": "angels-of-caliban",
+     "note": "Лев против Курца и первые трещины на Калибане."
+    },
+    {
+     "id": "ruinstorm",
+     "note": "Примархи пробиваются сквозь шторм. По желанию."
+    }
+   ]
+  },
+  {
+   "id": "path-road-to-terra",
+   "name": "Дорога к Осаде",
+   "about": "Последние годы Ереси: как обе стороны готовятся к битве за Терру.",
+   "steps": [
+    {
+     "id": "vengeful-spirit",
+     "note": "Хорус берёт Молех и получает то, за чем шёл."
+    },
+    {
+     "id": "the-path-of-heaven",
+     "note": "Белые Шрамы рвутся домой."
+    },
+    {
+     "id": "the-master-of-mankind",
+     "note": "Тайная война под дворцом и сам Император."
+    },
+    {
+     "id": "praetorian-of-dorn",
+     "note": "Дорн и Альфа-Легион у стен Терры."
+    },
+    {
+     "id": "wolfsbane",
+     "note": "Русс пытается убить Хоруса до похода."
+    },
+    {
+     "id": "slaves-to-darkness",
+     "note": "Предатели делят власть у постели раненого Воителя."
+    },
+    {
+     "id": "the-buried-dagger",
+     "note": "Гвардия Смерти падает. Дальше — «Осада Терры»."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Tallarn: год русского издания 2016 → 2021. В 2016-м по-русски вышла только повесть «Палач», сборник целиком — в 2021-м."
+ ]
+}

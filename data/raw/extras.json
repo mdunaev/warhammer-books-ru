@@ -1,0 +1,691 @@
+{
+  "chunk": "extras",
+  "authors": {
+    "Dan Abnett": "Дэн Абнетт",
+    "Alex Stewart": "Алекс Стюарт",
+    "Nick Kyme": "Ник Кайм",
+    "Lindsey Priestley": "Линдси Пристли",
+    "Christian Dunn": "Кристиан Данн",
+    "Gav Thorpe": "Гэв Торп",
+    "Justin D. Hill": "Джастин Д. Хилл",
+    "Laurie Goulding": "Лори Голдинг"
+  },
+  "series": [
+    {
+      "id": "gaunts-ghosts",
+      "name": "Призраки Гаунта",
+      "nameEn": "Gaunt's Ghosts",
+      "setting": "40k"
+    },
+    {
+      "id": "ciaphas-cain",
+      "name": "Кайафас Каин",
+      "nameEn": "Ciaphas Cain",
+      "setting": "40k"
+    },
+    {
+      "id": "dawn-of-fire",
+      "name": "Огненная Заря",
+      "nameEn": "Dawn of Fire",
+      "setting": "40k"
+    },
+    {
+      "id": "minka-lesk",
+      "name": "Минка Леск",
+      "nameEn": "Minka Lesk",
+      "setting": "40k"
+    },
+    {
+      "id": "horus-heresy",
+      "name": "Ересь Хоруса",
+      "nameEn": "The Horus Heresy",
+      "setting": "hh"
+    }
+  ],
+  "books": [
+    {
+      "fantlabId": 36149,
+      "id": "his-last-command",
+      "titleEn": "His Last Command",
+      "titleRu": "Его последняя команда",
+      "ru": "official",
+      "authors": [
+        "Dan Abnett"
+      ],
+      "year": 2005,
+      "setting": "40k",
+      "series": "gaunts-ghosts",
+      "seriesNo": 9,
+      "format": "novel",
+      "factions": [
+        "guard",
+        "chaos"
+      ],
+      "era": "dark-millennium",
+      "tl": 40776,
+      "tlLabel": "ок. 776.M41",
+      "tlApprox": true,
+      "place": "Анкреон Секстус, город-зиккурат Спаршад-Монс",
+      "segmentum": "pacificus",
+      "tags": [
+        "war",
+        "character",
+        "intrigue"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Ибрам Гаунт",
+        "Элим Роун",
+        "Мколл"
+      ],
+      "desc": "Гаунт и его люди больше года воевали в тылу врага на Гереоне. Их давно списали, а теперь встречают косо. Полка больше нет: Призраков влили в чужую часть, а Гаунта понизили в звании. Вернуть своих он может только одним способом — снова повести их в бой, на штурм ступенчатого города.",
+      "hook": "Выжить в аду — полдела. Теперь надо вернуть себе свой полк.",
+      "prereq": [
+        "traitor-general"
+      ],
+      "note": null
+    },
+    {
+      "fantlabId": 183163,
+      "id": "blood-pact",
+      "titleEn": "Blood Pact",
+      "titleRu": "Кровавый Договор",
+      "ru": "fan",
+      "authors": [
+        "Dan Abnett"
+      ],
+      "year": 2009,
+      "setting": "40k",
+      "series": "gaunts-ghosts",
+      "seriesNo": 12,
+      "format": "novel",
+      "factions": [
+        "guard",
+        "chaos"
+      ],
+      "era": "dark-millennium",
+      "tl": 40780,
+      "tlLabel": "ок. 780.M41",
+      "tlApprox": true,
+      "place": "Балхаут",
+      "segmentum": "pacificus",
+      "tags": [
+        "intrigue",
+        "mystery",
+        "war",
+        "character"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Ибрам Гаунт",
+        "Вик Харк",
+        "Элим Роун"
+      ],
+      "desc": "Призраков впервые снимают с фронта и ставят в гарнизон на Балхауте — там, где когда-то началась слава Гаунта. Его зовут к пленному офицеру Кровавого Договора, и тот почему-то хочет иметь дело только с ним. Скоро на тихих тыловых улицах начинается настоящая охота.",
+      "hook": "Тыловой гарнизон оказывается опаснее любой передовой.",
+      "prereq": [
+        "only-in-death"
+      ],
+      "note": null
+    },
+    {
+      "fantlabId": 299994,
+      "id": "salvations-reach",
+      "titleEn": "Salvations Reach",
+      "titleRu": "Последнее Пристанище",
+      "ru": "fan",
+      "authors": [
+        "Dan Abnett"
+      ],
+      "year": 2011,
+      "setting": "40k",
+      "series": "gaunts-ghosts",
+      "seriesNo": 13,
+      "format": "novel",
+      "factions": [
+        "guard",
+        "chaos",
+        "astartes"
+      ],
+      "era": "dark-millennium",
+      "tl": 40781,
+      "tlLabel": "ок. 781.M41",
+      "tlApprox": true,
+      "place": "Космический скиталец «Последнее Пристанище»",
+      "segmentum": "pacificus",
+      "tags": [
+        "war",
+        "space",
+        "adventure"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Ибрам Гаунт",
+        "Элим Роун",
+        "Вик Харк"
+      ],
+      "desc": "Призраки снова в деле. Их везут к Последнему Пристанищу — огромному космическому скитальцу, где враг устроил тайную базу. Надо пробраться внутрь, добыть сведения и разнести всё к чертям. В помощь дают трёх космодесантников, но в таких вылазках гладко не бывает.",
+      "hook": "Абордаж космического скитальца: Призраки лезут в самое логово врага.",
+      "prereq": [
+        "blood-pact"
+      ],
+      "note": null
+    },
+    {
+      "fantlabId": 1764659,
+      "id": "vainglorious",
+      "titleEn": "Vainglorious",
+      "titleRu": "Тщеславный",
+      "ru": "fan",
+      "authors": [
+        "Alex Stewart"
+      ],
+      "year": 2023,
+      "setting": "40k",
+      "series": "ciaphas-cain",
+      "seriesNo": 11,
+      "format": "novel",
+      "factions": [
+        "guard",
+        "mechanicus"
+      ],
+      "era": "dark-millennium",
+      "tl": 40992,
+      "tlLabel": "ок. 992.M41",
+      "tlApprox": true,
+      "place": "Залив Дамокла, молодой мир-кузница",
+      "segmentum": "ultima",
+      "tags": [
+        "humor",
+        "adventure",
+        "intrigue"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [
+        "Кайафас Каин",
+        "Юрген"
+      ],
+      "desc": "У Гвардии в заливе Дамокла вдруг иссякли поставки: новый мир-кузница перестал слать оружие. Разбираться едет Кайафас Каин, который мечтает о тихой отставке. Вместо покоя его ждут покушения, бунт скитариев и гниль среди жрецов Механикус. Всё тот же ироничный Каин и верный Юрген.",
+      "hook": "Каин едет проверить поставки, а попадает в бунт машин и заговор.",
+      "prereq": [
+        "for-the-emperor"
+      ],
+      "note": null
+    },
+    {
+      "fantlabId": 283135,
+      "id": "tales-of-heresy",
+      "titleEn": "Tales of Heresy",
+      "titleRu": "Легенды Ереси",
+      "ru": "official",
+      "authors": [
+        "Nick Kyme",
+        "Lindsey Priestley"
+      ],
+      "year": 2009,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 10,
+      "format": "anthology",
+      "factions": [
+        "custodes",
+        "world-eaters",
+        "space-wolves",
+        "dark-angels"
+      ],
+      "era": "great-crusade",
+      "tl": 29950,
+      "tlLabel": "кон. M30",
+      "tlApprox": true,
+      "place": "Терра и миры Великого крестового похода",
+      "segmentum": "many",
+      "tags": [
+        "lore",
+        "character",
+        "war"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [],
+      "desc": "Семь рассказов о временах, когда легионы ещё верны Императору. Кустодий ищет убийцу во дворце, Сёстры Безмолвия уходят на опасное задание, а сам Император спорит с последним священником Терры. Ещё одна история показывает, как Ангрон впервые встретил свой легион.",
+      "hook": "Ересь ещё не началась, но трещины уже видны.",
+      "prereq": [],
+      "note": "Сборник рассказов, можно пропустить. Чаще всего хвалят «Последний храм» и «После Деш'эа»."
+    },
+    {
+      "fantlabId": 458716,
+      "id": "the-primarchs",
+      "titleEn": "The Primarchs",
+      "titleRu": "Примархи",
+      "ru": "official",
+      "authors": [
+        "Christian Dunn",
+        "Nick Kyme"
+      ],
+      "year": 2012,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 20,
+      "format": "anthology",
+      "factions": [
+        "emperors-children",
+        "iron-hands",
+        "dark-angels",
+        "alpha-legion"
+      ],
+      "era": "heresy",
+      "tl": 30007,
+      "tlLabel": "ок. 005–008.M31",
+      "tlApprox": true,
+      "place": "Разные миры Галактики",
+      "segmentum": "many",
+      "tags": [
+        "character",
+        "lore",
+        "betrayal"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [
+        "Фулгрим",
+        "Феррус Манус",
+        "Лев Эль'Джонсон"
+      ],
+      "desc": "Четыре повести, и в центре каждой — примарх. Фулгрим после Исствана уже не хозяин собственному телу. Феррус Манус ведёт Железных Рук в поход ещё до Ереси, Лев ищет своё место в новой войне, а Альфа-Легион прячет правду за чужими масками.",
+      "hook": "Четыре сына Императора крупным планом.",
+      "prereq": [
+        "fulgrim"
+      ],
+      "note": "Сборник повестей, необязателен. «Расколотое отражение» важно для линии Фулгрима."
+    },
+    {
+      "fantlabId": 1491322,
+      "id": "the-wolftime",
+      "titleEn": "The Wolftime",
+      "titleRu": "Время волка",
+      "ru": "fan",
+      "authors": [
+        "Gav Thorpe"
+      ],
+      "year": 2021,
+      "setting": "40k",
+      "series": "dawn-of-fire",
+      "seriesNo": 3,
+      "format": "novel",
+      "factions": [
+        "space-wolves",
+        "orks",
+        "imperium"
+      ],
+      "era": "indomitus",
+      "tl": 41002,
+      "tlLabel": "нач. M42",
+      "tlApprox": true,
+      "place": "Фенрис",
+      "segmentum": "obscurus",
+      "tags": [
+        "war",
+        "epic",
+        "space"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Логан Гримнар",
+        "Газгкулл Трака",
+        "Робаут Гиллиман"
+      ],
+      "desc": "Орочий Ваагх Газгкулла катится прямо к Фенрису, родному миру Космических Волков. Логан Гримнар собирает орден на войну, которая может стать для него последней. На помощь идёт флот Гиллимана, а самим Волкам, похоже, придётся забыть старые счёты. Большая война во льдах и в космосе.",
+      "hook": "Газгкулл у ворот Фенриса. Волкам пора показать зубы.",
+      "prereq": [
+        "avenging-son"
+      ],
+      "note": "Почти отдельная история о Космических Волках внутри цикла."
+    },
+    {
+      "fantlabId": 1445376,
+      "id": "traitor-rock",
+      "titleEn": "Traitor Rock",
+      "titleRu": "Скала Предателя",
+      "ru": "fan",
+      "authors": [
+        "Justin D. Hill"
+      ],
+      "year": 2021,
+      "setting": "40k",
+      "series": "minka-lesk",
+      "seriesNo": 3,
+      "format": "novel",
+      "factions": [
+        "guard",
+        "chaos"
+      ],
+      "era": "indomitus",
+      "tl": 41002,
+      "tlLabel": "нач. M42",
+      "tlApprox": true,
+      "place": "Малори, крепость Кранног",
+      "segmentum": "obscurus",
+      "tags": [
+        "siege",
+        "war",
+        "character"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [
+        "Минка Леск"
+      ],
+      "desc": "Кадии больше нет, но её солдаты всё ещё воюют за Империум. Минку Леск и её полк бросают на Малори, где предатели засели в крепости на скале Кранног. Осада тянется давно, и кадийцам велено её закончить. Штурм оборачивается проверкой на прочность для всех.",
+      "hook": "Скала, которую надо взять любой ценой. Кадийцы идут на штурм.",
+      "prereq": [
+        "cadian-honour"
+      ],
+      "note": "Третья книга о Минке Леск. Читать после «Чести Кадии»."
+    },
+    {
+      "fantlabId": 2387171,
+      "id": "hive-part-two",
+      "titleEn": "Hive. Part Two",
+      "titleRu": null,
+      "ru": null,
+      "authors": [
+        "Dan Abnett"
+      ],
+      "year": 2026,
+      "setting": "40k",
+      "series": null,
+      "seriesNo": null,
+      "format": "novel",
+      "factions": [
+        "arbites",
+        "imperium"
+      ],
+      "era": "dark-millennium",
+      "tl": 40900,
+      "tlLabel": "~M41",
+      "tlApprox": true,
+      "place": "Сакраментус",
+      "segmentum": "beyond",
+      "tags": [
+        "intrigue",
+        "mystery",
+        "character",
+        "epic"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [],
+      "desc": "Вторая половина большого романа Абнетта о городе-улье Сакраментус. Напряжение на улицах растёт, а разрозненные линии героев начинают сходиться. Арбитры, банды, знать и тайные культы оказываются в одном котле. Читать сразу после первой части.",
+      "hook": "Продолжение большой истории об улье на грани взрыва.",
+      "prereq": [
+        "hive-part-one"
+      ],
+      "note": "Вторая половина романа Hive. Сначала прочитайте первую часть."
+    },
+    {
+      "fantlabId": 757233,
+      "id": "mark-of-calth",
+      "titleEn": "Mark of Calth",
+      "titleRu": "Отметка Калта",
+      "ru": "official",
+      "authors": [
+        "Laurie Goulding"
+      ],
+      "year": 2013,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 25,
+      "format": "anthology",
+      "factions": [
+        "ultramarines",
+        "word-bearers",
+        "daemons"
+      ],
+      "era": "heresy",
+      "tl": 30008,
+      "tlLabel": "007.M31 и позже",
+      "tlApprox": true,
+      "place": "Калт",
+      "segmentum": "ultima",
+      "tags": [
+        "war",
+        "survival",
+        "sorcery",
+        "lore"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Олл Перссон"
+      ],
+      "desc": "Несущие Слово ударили по Калту, и мир Ультрамаринов сгорает под взбесившимся солнцем. Восемь историй о том, что было дальше: война в подземных пещерах, колдовство, попытки просто выжить. Здесь же продолжается история загадочного ветерана Олла Перссона из «Не ведая страха».",
+      "hook": "Битва за Калт кончилась. Подземная война только начинается.",
+      "prereq": [
+        "know-no-fear"
+      ],
+      "note": "Сборник рассказов, необязателен. Но «Неотмеченный» Абнетта продолжает линию Олла Перссона из «Не ведая страха»."
+    },
+    {
+      "fantlabId": 801172,
+      "id": "legacies-of-betrayal",
+      "titleEn": "Legacies of Betrayal",
+      "titleRu": "Заветы предательства",
+      "ru": "official",
+      "authors": [
+        "Laurie Goulding"
+      ],
+      "year": 2014,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 31,
+      "format": "anthology",
+      "factions": [
+        "white-scars",
+        "world-eaters",
+        "emperors-children",
+        "space-wolves"
+      ],
+      "era": "heresy",
+      "tl": 30008,
+      "tlLabel": "ок. 005–010.M31",
+      "tlApprox": true,
+      "place": "Разные миры Галактики",
+      "segmentum": "many",
+      "tags": [
+        "war",
+        "betrayal",
+        "lore"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [],
+      "desc": "Девятнадцать коротких историй со всех фронтов Ереси. Белые Шрамы решают, кому они верны, Кхарн шагает к безумию, а Люций ищет достойного соперника. Многие рассказы раньше выходили по отдельности, в электронном виде и как аудио, а здесь собраны под одной обложкой.",
+      "hook": "Ересь в коротком формате: легион за легионом, рассказ за рассказом.",
+      "prereq": [
+        "galaxy-in-flames"
+      ],
+      "note": "Сборник коротких рассказов, можно пропустить."
+    },
+    {
+      "fantlabId": 914458,
+      "id": "war-without-end",
+      "titleEn": "War Without End",
+      "titleRu": "Нет войне конца",
+      "ru": "official",
+      "authors": [
+        "Laurie Goulding"
+      ],
+      "year": 2016,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 33,
+      "format": "anthology",
+      "factions": [
+        "emperors-children",
+        "dark-angels",
+        "space-wolves"
+      ],
+      "era": "heresy",
+      "tl": 30009,
+      "tlLabel": "ок. 005–011.M31",
+      "tlApprox": true,
+      "place": "Разные миры Галактики",
+      "segmentum": "many",
+      "tags": [
+        "war",
+        "character",
+        "lore"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [],
+      "desc": "Двадцать одна короткая история о Ереси. Почти все раньше выходили отдельно, как аудиорассказы и электронные новинки. Фулгрим и Фабий, Тёмные Ангелы Льва, Космические Волки и другие легионы появляются по очереди. Сборник пёстрый: рядом с сильными вещами есть и проходные.",
+      "hook": "Большая горсть коротких историй — от отличных до проходных.",
+      "prereq": [
+        "galaxy-in-flames"
+      ],
+      "note": "Сборник коротких рассказов, можно пропустить."
+    },
+    {
+      "fantlabId": 961793,
+      "id": "eye-of-terra",
+      "titleEn": "Eye of Terra",
+      "titleRu": "Око Терры",
+      "ru": "official",
+      "authors": [
+        "Laurie Goulding"
+      ],
+      "year": 2016,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 35,
+      "format": "anthology",
+      "factions": [
+        "word-bearers",
+        "night-lords",
+        "space-wolves",
+        "dark-angels"
+      ],
+      "era": "heresy",
+      "tl": 30009,
+      "tlLabel": "ок. 005–011.M31",
+      "tlApprox": true,
+      "place": "Разные миры, Око Ужаса",
+      "segmentum": "many",
+      "tags": [
+        "lore",
+        "sorcery",
+        "war"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Лоргар",
+        "Севатар",
+        "Леман Русс"
+      ],
+      "desc": "Шестнадцать коротких историй о Ереси. Главная из них — повесть «Аврелиан»: Лоргар уходит в Око Ужаса и видит, каким силам отдал свой легион. Рядом — Леман Русс после Просперо и Севатар в плену у Тёмных Ангелов.",
+      "hook": "Ради «Аврелиана» этот сборник стоит открыть даже скептикам.",
+      "prereq": [
+        "the-first-heretic"
+      ],
+      "note": "Сборник, необязателен. Но «Аврелиан» и «Долгая ночь» — одни из лучших коротких вещей Ереси."
+    },
+    {
+      "fantlabId": 989160,
+      "id": "shattered-legions",
+      "titleEn": "Shattered Legions",
+      "titleRu": "Разбитые легионы",
+      "ru": "official",
+      "authors": [
+        "Laurie Goulding"
+      ],
+      "year": 2017,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 43,
+      "format": "anthology",
+      "factions": [
+        "iron-hands",
+        "raven-guard",
+        "salamanders"
+      ],
+      "era": "heresy",
+      "tl": 30009,
+      "tlLabel": "ок. 006–012.M31",
+      "tlApprox": true,
+      "place": "Разные миры Галактики",
+      "segmentum": "many",
+      "tags": [
+        "war",
+        "survival",
+        "betrayal"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [
+        "Шадрак Медузон"
+      ],
+      "desc": "После резни на Исстване V от трёх легионов остались осколки. Железные Руки, Гвардия Ворона и Саламандры сбиваются в стаи и ведут свою партизанскую войну. Сборник о Шадраке Медузоне и его людях: о мести, долге и о том, каково воевать без примарха.",
+      "hook": "Без отцов, без флотов, без надежды — но всё ещё в бою.",
+      "prereq": [
+        "fulgrim"
+      ],
+      "note": "Сборник, необязателен. Связывает линию Разбитых легионов в романах."
+    },
+    {
+      "fantlabId": 1036606,
+      "id": "born-of-flame",
+      "titleEn": "Born of Flame",
+      "titleRu": "Рождённые в пламени",
+      "ru": "official",
+      "authors": [
+        "Nick Kyme"
+      ],
+      "year": 2018,
+      "setting": "hh",
+      "series": "horus-heresy",
+      "seriesNo": 50,
+      "format": "anthology",
+      "factions": [
+        "salamanders"
+      ],
+      "era": "heresy",
+      "tl": 30007,
+      "tlLabel": "ок. 000–010.M31",
+      "tlApprox": true,
+      "place": "Разные миры Галактики",
+      "segmentum": "many",
+      "tags": [
+        "war",
+        "character",
+        "lore"
+      ],
+      "rec": 3,
+      "entry": false,
+      "heroes": [
+        "Вулкан"
+      ],
+      "desc": "Пять повестей и рассказов Ника Кайма о Саламандрах. Первая показывает Вулкана и его легион ещё в Великом крестовом походе. Остальные — о том, что стало с Саламандрами после Исствана: примарх пропал, легион разбит, но воины не бросают ни оружия, ни людей, которых защищают.",
+      "hook": "Кузнецы, воины, защитники людей — Саламандры крупным планом.",
+      "prereq": [
+        "fulgrim"
+      ],
+      "note": "Сборник для фанатов Саламандр. Многое уже выходило отдельно."
+    }
+  ],
+  "paths": [],
+  "fixes": [
+    "Salvations Reach: официальное английское название — Salvation’s Reach (с апострофом). titleEn оставлен как во входе, id = salvations-reach.",
+    "Legacies of Betrayal: год 2014 оставлен как на Фантлабе; в англ. Википедии указан 2015 (вероятно, дата твёрдого переплёта).",
+    "The Primarchs: во входе составители Christian Dunn и Nick Kyme; Википедия называет только Christian Dunn. Оставлено как во входе.",
+    "Другие пачки: примечания у the-armour-of-contempt, the-warmaster (guard-a) и throne-of-light (modern-misc) говорят, что His Last Command / Blood Pact / Salvation’s Reach / The Wolftime «нет в списке» — теперь они есть, примечания стоит обновить.",
+    "hive-part-one (inquisition): segmentum = beyond для города-улья выглядит странно; для второй части взяты те же место и дата ради единообразия.",
+    "Vainglorious: дата ~940.M41 → ок. 992.M41 (Lexicanum: 487.992.M41)."
+  ]
+}

@@ -1,0 +1,326 @@
+{
+ "chunk": "hh-a",
+ "authors": {
+  "Ben Counter": "Бен Каунтер",
+  "Graham McNeill": "Грэм Макнилл",
+  "Dan Abnett": "Дэн Абнетт",
+  "James Swallow": "Джеймс Сваллоу",
+  "Mike Lee": "Майк Ли",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Christian Dunn": "Кристиан Данн",
+  "Nick Kyme": "Ник Кайм",
+  "Gav Thorpe": "Гэв Торп",
+  "Mitchel Scanlon": "Митчелл Сканлон"
+ },
+ "books": [
+  {
+   "fantlabId": 58546,
+   "titleEn": "Galaxy in Flames",
+   "titleRu": "Галактика в огне",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.1,
+   "fantlabVoters": 784
+  },
+  {
+   "fantlabId": 36311,
+   "titleEn": "False Gods",
+   "titleRu": "Лживые боги",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.92,
+   "fantlabVoters": 851
+  },
+  {
+   "fantlabId": 36166,
+   "titleEn": "Horus Rising",
+   "titleRu": "Возвышение Хоруса",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.84,
+   "fantlabVoters": 1186
+  },
+  {
+   "fantlabId": 65013,
+   "titleEn": "The Flight of the Eisenstein",
+   "titleRu": "Полёт «Эйзенштейна»",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.94,
+   "fantlabVoters": 707
+  },
+  {
+   "fantlabId": 55737,
+   "titleEn": "Fulgrim",
+   "titleRu": "Фулгрим",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 597
+  },
+  {
+   "fantlabId": 65016,
+   "titleEn": "Legion",
+   "titleRu": "Легион",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.97,
+   "fantlabVoters": 533
+  },
+  {
+   "fantlabId": 127949,
+   "titleEn": "Mechanicum",
+   "titleRu": "Механикум",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.83,
+   "fantlabVoters": 377
+  },
+  {
+   "fantlabId": 283118,
+   "titleEn": "Fallen Angels",
+   "titleRu": "Падшие Ангелы",
+   "ru": "official",
+   "authors": [
+    "Mike Lee"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.5,
+   "fantlabVoters": 300
+  },
+  {
+   "fantlabId": 283119,
+   "titleEn": "A Thousand Sons",
+   "titleRu": "Тысяча сынов",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.36,
+   "fantlabVoters": 373
+  },
+  {
+   "fantlabId": 283122,
+   "titleEn": "The First Heretic",
+   "titleRu": "Первый Еретик",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.37,
+   "fantlabVoters": 346
+  },
+  {
+   "fantlabId": 283121,
+   "titleEn": "Prospero Burns",
+   "titleRu": "Сожжение Просперо",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.93,
+   "fantlabVoters": 356
+  },
+  {
+   "fantlabId": 283120,
+   "titleEn": "Nemesis",
+   "titleRu": "Немезида",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.85,
+   "fantlabVoters": 291
+  },
+  {
+   "fantlabId": 356585,
+   "titleEn": "Age of Darkness",
+   "titleRu": "Эпоха тьмы",
+   "ru": "official",
+   "authors": [
+    "Christian Dunn"
+   ],
+   "year": 2011,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.62,
+   "fantlabVoters": 229
+  },
+  {
+   "fantlabId": 310302,
+   "titleEn": "The Outcast Dead",
+   "titleRu": "Отверженные мертвецы",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2011,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.44,
+   "fantlabVoters": 239
+  },
+  {
+   "fantlabId": 572386,
+   "titleEn": "Betrayer",
+   "titleRu": "Предатель",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.46,
+   "fantlabVoters": 202
+  },
+  {
+   "fantlabId": 345065,
+   "titleEn": "Know No Fear",
+   "titleRu": "Не ведая страха",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.35,
+   "fantlabVoters": 268
+  },
+  {
+   "fantlabId": 391369,
+   "titleEn": "Fear to Tread",
+   "titleRu": "Где Ангел не решится сделать шаг",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.11,
+   "fantlabVoters": 219
+  },
+  {
+   "fantlabId": 426614,
+   "titleEn": "Angel Exterminatus",
+   "titleRu": "Ангел Экстерминатус",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 8.05,
+   "fantlabVoters": 194
+  },
+  {
+   "fantlabId": 458257,
+   "titleEn": "Shadows of Treachery",
+   "titleRu": "Тени предательства",
+   "ru": "official",
+   "authors": [
+    "Christian Dunn",
+    "Nick Kyme"
+   ],
+   "year": 2012,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.87,
+   "fantlabVoters": 172
+  },
+  {
+   "fantlabId": 310768,
+   "titleEn": "Deliverance Lost",
+   "titleRu": "Потерянное освобождение",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.72,
+   "fantlabVoters": 229
+  },
+  {
+   "fantlabId": 73236,
+   "titleEn": "Descent of Angels",
+   "titleRu": "Сошествие Ангелов",
+   "ru": "official",
+   "authors": [
+    "Mitchel Scanlon"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.04,
+   "fantlabVoters": 473
+  },
+  {
+   "fantlabId": 63661,
+   "titleEn": "Battle for the Abyss",
+   "titleRu": "Битва за «Бездну»",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 6.87,
+   "fantlabVoters": 349
+  }
+ ]
+}

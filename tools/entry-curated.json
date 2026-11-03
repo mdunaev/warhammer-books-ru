@@ -1,0 +1,33 @@
+{
+  "about": "Книги, с которых можно начинать знакомство с миром Warhammer 40,000: первые книги серий и сильные отдельные романы, понятные без подготовки. Переопределяет поле entry из исследования. Собирается в data/books.js скриптом tools/build-data.mjs.",
+  "ids": [
+    "horus-rising",
+    "xenos",
+    "first-only",
+    "fifteen-hours",
+    "dead-men-walking",
+    "gunheads",
+    "fire-caste",
+    "for-the-emperor",
+    "helsreach",
+    "space-wolf",
+    "deathwatch",
+    "angels-of-darkness",
+    "spear-of-the-emperor",
+    "soul-hunter",
+    "lord-of-the-night",
+    "the-talon-of-horus",
+    "storm-of-iron",
+    "the-lords-of-silence",
+    "the-infinite-and-the-divine",
+    "the-twice-dead-king-ruin",
+    "path-of-the-renegade",
+    "brutal-kunnin",
+    "vaults-of-terra-the-carrion-throne",
+    "watchers-of-the-throne-the-emperors-legion",
+    "titanicus",
+    "bloodlines",
+    "dark-imperium",
+    "avenging-son"
+  ]
+}

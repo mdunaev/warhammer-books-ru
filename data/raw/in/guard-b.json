@@ -1,0 +1,299 @@
+{
+ "chunk": "guard-b",
+ "authors": {
+  "Andy Clark": "Энди Кларк",
+  "Steven B. Fischer": "Стивен Б. Фишер",
+  "Mitchel Scanlon": "Митчелл Сканлон",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Steve Parker": "Стив Паркер",
+  "Steve Lyons": "Стив Лайонс",
+  "Justin D. Hill": "Джастин Д. Хилл",
+  "William King": "Уильям Кинг",
+  "Gordon Rennie": "Гордон Ренни",
+  "Denny Flowers": "Дэнни Флауэрс",
+  "Guy Haley": "Гай Хейли",
+  "Peter Fehervari": "Петер Фехервари"
+ },
+ "books": [
+  {
+   "fantlabId": 1503418,
+   "titleEn": "Steel Tread",
+   "titleRu": "Стальная поступь",
+   "ru": "fan",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Астра Милитарум / Хадейя Эцул",
+   "fantlabRating": 5.67,
+   "fantlabVoters": 3
+  },
+  {
+   "fantlabId": 1653877,
+   "titleEn": "Witchbringer",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Steven B. Fischer"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Астра Милитарум",
+   "fantlabRating": 0,
+   "fantlabVoters": 0
+  },
+  {
+   "fantlabId": 316075,
+   "titleEn": "Fifteen Hours",
+   "titleRu": "Пятнадцать часов",
+   "ru": "official",
+   "authors": [
+    "Mitchel Scanlon"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Имперская Гвардия",
+   "fantlabRating": 7.78,
+   "fantlabVoters": 179
+  },
+  {
+   "fantlabId": 398530,
+   "titleEn": "Cadian Blood",
+   "titleRu": "Кровь Кадии",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Имперская Гвардия",
+   "fantlabRating": 8.06,
+   "fantlabVoters": 113
+  },
+  {
+   "fantlabId": 391044,
+   "titleEn": "Gunheads",
+   "titleRu": "Безбашенные",
+   "ru": "official",
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Имперская Гвардия",
+   "fantlabRating": 7.86,
+   "fantlabVoters": 56
+  },
+  {
+   "fantlabId": 422342,
+   "titleEn": "Dead Men Walking",
+   "titleRu": "Мертвецы идут",
+   "ru": "official",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Имперская Гвардия",
+   "fantlabRating": 7.82,
+   "fantlabVoters": 131
+  },
+  {
+   "fantlabId": 1060505,
+   "titleEn": "Cadia Stands",
+   "titleRu": "Кадия стоит",
+   "ru": "fan",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кадия",
+   "fantlabRating": 7.39,
+   "fantlabVoters": 23
+  },
+  {
+   "fantlabId": 1105331,
+   "titleEn": "Cadian Honour",
+   "titleRu": "Честь Кадии",
+   "ru": "fan",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кадия",
+   "fantlabRating": 7.36,
+   "fantlabVoters": 14
+  },
+  {
+   "fantlabId": 450105,
+   "titleEn": "Angel of Fire",
+   "titleRu": "Ангел Огня",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Крестовый поход Махариуса",
+   "fantlabRating": 8.02,
+   "fantlabVoters": 47
+  },
+  {
+   "fantlabId": 437961,
+   "titleEn": "Fist of Demetrius",
+   "titleRu": "Кулак Деметрия",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Крестовый поход Махариуса",
+   "fantlabRating": 7.79,
+   "fantlabVoters": 43
+  },
+  {
+   "fantlabId": 763523,
+   "titleEn": "Fall of Macharius",
+   "titleRu": "Закат Махариуса",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Крестовый поход Махариуса",
+   "fantlabRating": 7.74,
+   "fantlabVoters": 43
+  },
+  {
+   "fantlabId": 59107,
+   "titleEn": "Execution Hour",
+   "titleRu": "Час казни",
+   "ru": "official",
+   "authors": [
+    "Gordon Rennie"
+   ],
+   "year": 2001,
+   "fantlabType": "novel",
+   "fantlabSeries": "Лорд Солар Махариус",
+   "fantlabRating": 7.85,
+   "fantlabVoters": 244
+  },
+  {
+   "fantlabId": 59111,
+   "titleEn": "Shadowpoint",
+   "titleRu": "Перекрёсток Судеб",
+   "ru": "official",
+   "authors": [
+    "Gordon Rennie"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Лорд Солар Махариус",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 219
+  },
+  {
+   "fantlabId": 1610868,
+   "titleEn": "Outgunned",
+   "titleRu": "Неравный бой",
+   "ru": "fan",
+   "authors": [
+    "Denny Flowers"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Люсиль фон Шард",
+   "fantlabRating": 8.22,
+   "fantlabVoters": 18
+  },
+  {
+   "fantlabId": 326549,
+   "titleEn": "Baneblade",
+   "titleRu": "Гибельный клинок",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Сверхтяжёлые танки",
+   "fantlabRating": 8.32,
+   "fantlabVoters": 59
+  },
+  {
+   "fantlabId": 958548,
+   "titleEn": "Shadowsword",
+   "titleRu": "Теневой меч",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2016,
+   "fantlabType": "novel",
+   "fantlabSeries": "Сверхтяжёлые танки",
+   "fantlabRating": 8.39,
+   "fantlabVoters": 51
+  },
+  {
+   "fantlabId": 436826,
+   "titleEn": "Fire Caste",
+   "titleRu": "Каста огня",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный клубок",
+   "fantlabRating": 8.56,
+   "fantlabVoters": 133
+  },
+  {
+   "fantlabId": 802056,
+   "titleEn": "Fire and Ice",
+   "titleRu": "Огонь и лёд",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2015,
+   "fantlabType": "novella",
+   "fantlabSeries": "Тёмный клубок",
+   "fantlabRating": 8.16,
+   "fantlabVoters": 64
+  },
+  {
+   "fantlabId": 1142243,
+   "titleEn": "Requiem Infernal",
+   "titleRu": "Инфернальный реквием",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный клубок",
+   "fantlabRating": 8.27,
+   "fantlabVoters": 86
+  },
+  {
+   "fantlabId": 1358846,
+   "titleEn": "The Reverie",
+   "titleRu": "Грёза",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный клубок",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 69
+  }
+ ]
+}

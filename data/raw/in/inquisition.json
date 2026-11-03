@@ -1,0 +1,481 @@
+{
+ "chunk": "inquisition",
+ "authors": {
+  "Matthew Farrer": "Мэтью Фаррер",
+  "Robert Rath": "Роберт Раф",
+  "Guy Haley": "Гай Хейли",
+  "Dan Abnett": "Дэн Абнетт",
+  "Chris Wraight": "Крис Райт",
+  "Graham McNeill": "Грэм Макнилл",
+  "Denny Flowers": "Дэнни Флауэрс",
+  "Danie Ware": "Дени Уэйр",
+  "Alex Stewart": "Алекс Стюарт",
+  "David Annandale": "Дэвид Аннандейл",
+  "Marc Collins": "Марк Коллинз",
+  "Nick Kyme": "Ник Кайм"
+ },
+ "books": [
+  {
+   "fantlabId": 443089,
+   "titleEn": "Crossfire",
+   "titleRu": "Перекрёстный огонь",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Арбитр",
+   "fantlabRating": 7.58,
+   "fantlabVoters": 59
+  },
+  {
+   "fantlabId": 443090,
+   "titleEn": "Legacy",
+   "titleRu": "Наследие",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Арбитр",
+   "fantlabRating": 8.02,
+   "fantlabVoters": 47
+  },
+  {
+   "fantlabId": 443091,
+   "titleEn": "Blind",
+   "titleRu": "Слепцы",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Арбитр",
+   "fantlabRating": 7.86,
+   "fantlabVoters": 44
+  },
+  {
+   "fantlabId": 1550297,
+   "titleEn": "Assassinorum: Kingmaker",
+   "titleRu": "Ассасинорум. Делатель королей",
+   "ru": "fan",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ассасинорум",
+   "fantlabRating": 7.5,
+   "fantlabVoters": 12
+  },
+  {
+   "fantlabId": 1201390,
+   "titleEn": "Belisarius Cawl: The Great Work",
+   "titleRu": "Велизарий Коул. Великий труд",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Велизарий Коул",
+   "fantlabRating": 7.92,
+   "fantlabVoters": 48
+  },
+  {
+   "fantlabId": 1779051,
+   "titleEn": "Genefather",
+   "titleRu": "Генный отец",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Велизарий Коул",
+   "fantlabRating": 8.1,
+   "fantlabVoters": 21
+  },
+  {
+   "fantlabId": 36123,
+   "titleEn": "Malleus",
+   "titleRu": "Инквизитор. Ордо Маллеус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Эйзенхорн",
+   "fantlabRating": 8.24,
+   "fantlabVoters": 1032
+  },
+  {
+   "fantlabId": 36124,
+   "titleEn": "Xenos",
+   "titleRu": "Инквизитор. Ордо Ксенос",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Эйзенхорн",
+   "fantlabRating": 8.12,
+   "fantlabVoters": 1206
+  },
+  {
+   "fantlabId": 36128,
+   "titleEn": "Hereticus",
+   "titleRu": "Инквизитор. Ордо Еретикус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Эйзенхорн",
+   "fantlabRating": 8.33,
+   "fantlabVoters": 983
+  },
+  {
+   "fantlabId": 36151,
+   "titleEn": "Ravenor",
+   "titleRu": "Рейвенор",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Рейвенор",
+   "fantlabRating": 7.95,
+   "fantlabVoters": 644
+  },
+  {
+   "fantlabId": 36152,
+   "titleEn": "Ravenor Returned",
+   "titleRu": "Возвращение Рейвенора",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Рейвенор",
+   "fantlabRating": 8.23,
+   "fantlabVoters": 578
+  },
+  {
+   "fantlabId": 36155,
+   "titleEn": "Ravenor Rogue",
+   "titleRu": "Рейвенор — отступник",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Рейвенор",
+   "fantlabRating": 8.15,
+   "fantlabVoters": 503
+  },
+  {
+   "fantlabId": 410868,
+   "titleEn": "Pariah",
+   "titleRu": "Пария",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Биквин",
+   "fantlabRating": 8.01,
+   "fantlabVoters": 184
+  },
+  {
+   "fantlabId": 1013161,
+   "titleEn": "The Magos​",
+   "titleRu": "Магос",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор",
+   "fantlabRating": 7.98,
+   "fantlabVoters": 121
+  },
+  {
+   "fantlabId": 1402628,
+   "titleEn": "Penitent",
+   "titleRu": "Покаянница",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Инквизитор / Биквин",
+   "fantlabRating": 8.12,
+   "fantlabVoters": 80
+  },
+  {
+   "fantlabId": 1016811,
+   "titleEn": "Vaults of Terra: The Carrion Throne",
+   "titleRu": "Крипты Терры. Прогнивший Трон",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Крипты Терры",
+   "fantlabRating": 8.08,
+   "fantlabVoters": 113
+  },
+  {
+   "fantlabId": 1177584,
+   "titleEn": "Vaults of Terra: The Hollow Mountain",
+   "titleRu": "Крипты Терры. Полая гора",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Крипты Терры",
+   "fantlabRating": 8.07,
+   "fantlabVoters": 61
+  },
+  {
+   "fantlabId": 388201,
+   "titleEn": "Priests of Mars",
+   "titleRu": "Жрецы Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кузницы Марса",
+   "fantlabRating": 7.88,
+   "fantlabVoters": 52
+  },
+  {
+   "fantlabId": 770364,
+   "titleEn": "Lords of Mars",
+   "titleRu": "Владыки Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кузницы Марса",
+   "fantlabRating": 7.67,
+   "fantlabVoters": 45
+  },
+  {
+   "fantlabId": 770365,
+   "titleEn": "Gods of Mars",
+   "titleRu": "Боги Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кузницы Марса",
+   "fantlabRating": 7.8,
+   "fantlabVoters": 44
+  },
+  {
+   "fantlabId": 813725,
+   "titleEn": "Junktion",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Некромунда",
+   "fantlabRating": 8.44,
+   "fantlabVoters": 16
+  },
+  {
+   "fantlabId": 1428765,
+   "titleEn": "Fire Made Flesh",
+   "titleRu": "Огонь во плоти",
+   "ru": "official",
+   "authors": [
+    "Denny Flowers"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Некромунда",
+   "fantlabRating": 8.59,
+   "fantlabVoters": 22
+  },
+  {
+   "fantlabId": 1088369,
+   "titleEn": "The Bloodied Rose",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Danie Ware"
+   ],
+   "year": 2018,
+   "fantlabType": "novella",
+   "fantlabSeries": "Сестра Августа Сантора",
+   "fantlabRating": 8,
+   "fantlabVoters": 4
+  },
+  {
+   "fantlabId": 59141,
+   "titleEn": "Scourge the Heretic",
+   "titleRu": "Искорени еретика",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмная ересь",
+   "fantlabRating": 8.22,
+   "fantlabVoters": 37
+  },
+  {
+   "fantlabId": 183166,
+   "titleEn": "Innocence Proves Nothing",
+   "titleRu": "Невиновность — не доказательство",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмная ересь",
+   "fantlabRating": 8.44,
+   "fantlabVoters": 32
+  },
+  {
+   "fantlabId": 1016843,
+   "titleEn": "Watchers of the Throne: The Emperor's Legion",
+   "titleRu": "Хранители Трона. Легион Императора",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Хранители Трона",
+   "fantlabRating": 8.31,
+   "fantlabVoters": 42
+  },
+  {
+   "fantlabId": 1344078,
+   "titleEn": "Watchers of the Throne: The Regent's Shadow",
+   "titleRu": "Хранители Трона. Тень Регента",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Хранители Трона",
+   "fantlabRating": 8.35,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 1018133,
+   "titleEn": "Castellan",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Castellan Crowe Series",
+   "fantlabRating": 7.17,
+   "fantlabVoters": 6
+  },
+  {
+   "fantlabId": 2387170,
+   "titleEn": "Hive. Part One",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2026,
+   "fantlabType": "novel",
+   "fantlabSeries": "Hive",
+   "fantlabRating": 9,
+   "fantlabVoters": 2
+  },
+  {
+   "fantlabId": 1328527,
+   "titleEn": "Bloodlines",
+   "titleRu": "Кровные узы",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Warhammer Crime",
+   "fantlabRating": 8.02,
+   "fantlabVoters": 81
+  },
+  {
+   "fantlabId": 1347057,
+   "titleEn": "Flesh and Steel",
+   "titleRu": "Плоть и сталь",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Warhammer Crime",
+   "fantlabRating": 7.7,
+   "fantlabVoters": 46
+  },
+  {
+   "fantlabId": 1038095,
+   "titleEn": "Grim Repast",
+   "titleRu": "Мрачная трапеза",
+   "ru": "fan",
+   "authors": [
+    "Marc Collins"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Warhammer Crime",
+   "fantlabRating": 7.44,
+   "fantlabVoters": 27
+  },
+  {
+   "fantlabId": 1277480,
+   "titleEn": "Sepulturum",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Warhammer Horror 40,000",
+   "fantlabRating": 7.05,
+   "fantlabVoters": 22
+  }
+ ]
+}

@@ -1,0 +1,1606 @@
+{
+ "chunk": "modern-misc",
+ "authors": {
+  "Peter Fehervari": "Петер Фехервари",
+  "Guy Haley": "Гай Хейли",
+  "Andy Clark": "Энди Кларк",
+  "Nick Kyme": "Ник Кайм",
+  "Marc Collins": "Марк Коллинз",
+  "Chris Wraight": "Крис Райт",
+  "Dan Abnett": "Дэн Абнетт",
+  "Gav Thorpe": "Гэв Торп",
+  "Simon Spurrier": "Саймон Спуриэр",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Anthony Reynolds": "Энтони Рейнольдс",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Mike Brooks": "Майк Брукс",
+  "Nate Crowley": "Нейт Кроули",
+  "Edoardo Albert": "Эдоардо Альберт",
+  "Adrian Tchaikovsky": "Адриан Чайковски",
+  "Steve Lyons": "Стив Лайонс",
+  "Robert Rath": "Роберт Раф",
+  "Darius Hinks": "Дариус Хинкс",
+  "Jude Reid": "Джуди Рид",
+  "David Guymer": "Дэвид Гаймер"
+ },
+ "series": [
+  {
+   "id": "dawn-of-fire",
+   "name": "Огненная Заря",
+   "nameEn": "Dawn of Fire",
+   "setting": "40k"
+  },
+  {
+   "id": "the-beast-arises",
+   "name": "Пришествие Зверя",
+   "nameEn": "The Beast Arises",
+   "setting": "40k"
+  },
+  {
+   "id": "dark-imperium",
+   "name": "Тёмный Империум",
+   "nameEn": "Dark Imperium",
+   "setting": "40k"
+  },
+  {
+   "id": "legends-of-the-dark-millennium",
+   "name": "Легенды Тёмного тысячелетия",
+   "nameEn": "Legends of the Dark Millennium",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 842682,
+   "id": "genestealer-cults",
+   "titleEn": "Genestealer Cults",
+   "titleRu": "Культы генокрадов",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "legends-of-the-dark-millennium",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "tyranids",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Искупление (мир-святыня)",
+   "segmentum": "ultima",
+   "tags": [
+    "horror",
+    "intrigue",
+    "xenos-pov"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "На пепельный мир-святыню Искупление прибывают паломники из культа, который выглядит верным Императору. Планету стережёт жёсткий и подозрительный гвардейский полк. Скоро солдаты боятся друг друга больше, чем врага. Фехервари пишет тихий, давящий хоррор, где никому нельзя верить.",
+   "hook": "Культ генокрадов изнутри: вера, паранойя и медленный ужас.",
+   "prereq": [],
+   "note": "Позже переиздан под названием «Cult of the Spiral Dawn»."
+  },
+  {
+   "fantlabId": 1331448,
+   "id": "avenging-son",
+   "titleEn": "Avenging Son",
+   "titleRu": "Мстящий Сын",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "imperium",
+    "astartes",
+    "navy",
+    "chaos-marines"
+   ],
+   "era": "indomitus",
+   "tl": 41000,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Пролив Махорта",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "epic",
+    "space",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Мессиний"
+   ],
+   "desc": "Гиллиман вернулся и начинает крестовый поход Индомитус, чтобы отвоевать расколотый Империум. Первым в бой уходит флот Терциус: в проливе Махорта воинство Кхорна пытается расширить Великий Разлом. Книга чередует большую политику на Терре и отчаянные бои космодесанта на земле.",
+   "hook": "Начало цикла «Огненная Заря» о крестовом походе Индомитус.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1395421,
+   "id": "the-gate-of-bones",
+   "titleEn": "The Gate of Bones",
+   "titleRu": "Костяные врата",
+   "ru": "fan",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "sisters",
+    "custodes",
+    "word-bearers"
+   ],
+   "era": "indomitus",
+   "tl": 41001,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Гаталамор (мир-святыня)",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "siege",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [],
+   "desc": "За Гаталамор, великий мир-святыню Сегментума Солар, взялись Несущие Слово и Железные Воины. Против них — измотанные мордианские гвардейцы, сёстры битвы и кустодии, посланные вперёд флота. А враг уже научился делать оружие из загадочного чёрного камня.",
+   "hook": "Святой мир, кустодии и Несущие Слово — крепкий военный роман цикла.",
+   "prereq": [
+    "avenging-son"
+   ],
+   "note": "Почти самостоятельная история внутри цикла."
+  },
+  {
+   "fantlabId": 1560895,
+   "id": "throne-of-light",
+   "titleEn": "Throne of Light",
+   "titleRu": "Трон Света",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "word-bearers",
+    "inquisition",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41003,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Сегментум Солар",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "intrigue",
+    "epic"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Кор Фаэрон",
+    "Леонид Ростов"
+   ],
+   "desc": "Пока Гиллиман добивает орков у Фенриса, в сердце Империума просыпается старый враг. Кор Фаэрон из Несущих Слово разжигает мятежи в Сегментуме Солар и бьёт по Чёрным кораблям. Инквизитор Ростов бросает охоту на Руку Абаддона ради странных видений.",
+   "hook": "Кор Фаэрон бьёт в самое сердце Империума.",
+   "prereq": [
+    "avenging-son",
+    "the-gate-of-bones"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1692102,
+   "id": "the-iron-kingdom",
+   "titleEn": "The Iron Kingdom",
+   "titleRu": "Железное королевство",
+   "ru": "fan",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "knights",
+    "guard",
+    "astartes",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41004,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Камидар (мир рыцарей)",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "war",
+    "betrayal"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Орла",
+    "Магда Кеш"
+   ],
+   "desc": "Потрёпанная боевая группа «Праксис» везёт на Камидар тело погибшей наследницы. Мир рыцарей встречает гостей гневом: Железная королева Орла готова порвать с Империумом. Агенты Абаддона только подливают масла в огонь. Много политики и битв рыцарских машин.",
+   "hook": "Рыцари против Империума — а Абаддон только этого и ждёт.",
+   "prereq": [
+    "the-gate-of-bones"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1748267,
+   "id": "the-martyrs-tomb",
+   "titleEn": "The Martyr's Tomb",
+   "titleRu": "Гробница мученицы",
+   "ru": "fan",
+   "authors": [
+    "Marc Collins"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "black-templars",
+    "sisters",
+    "death-guard"
+   ],
+   "era": "indomitus",
+   "tl": 41005,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Велуа (мир-святыня)",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "siege"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Катла Хельвинтр",
+    "Гахерис"
+   ],
+   "desc": "Велуа — последний защищённый мир-святыня Золотой цепи. Его держат Чёрные Храмовники и Сёстры Битвы, а с неба надвигается Гвардия Смерти. Тем временем опальная вольная торговка Катла Хельвинтр ищет здесь что-то своё. Боёв много, но главный сюжет цикла почти стоит.",
+   "hook": "Храмовники и сёстры битвы держат святой мир против чумы.",
+   "prereq": [
+    "avenging-son"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1807850,
+   "id": "sea-of-souls",
+   "titleEn": "Sea of Souls",
+   "titleRu": "Море душ",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 7,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "sisters",
+    "astartes",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41006,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Крейсер «Правосудие Пустоты», путь к Оку Ужаса",
+   "segmentum": "obscurus",
+   "tags": [
+    "space",
+    "horror",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Флот Секундус впервые идёт в наступление — прямо к Оку Ужаса. В центре истории линейный крейсер «Правосудие Пустоты» и его лорд-капитан. Поход через варп быстро превращается в кошмар, где опасность ждёт и за бортом, и среди своих. По духу это настоящий корабельный хоррор.",
+   "hook": "Корабль, варп и дорога к Оку Ужаса — хоррор в космосе.",
+   "prereq": [],
+   "note": "Можно читать отдельно от цикла."
+  },
+  {
+   "fantlabId": 1942133,
+   "id": "hand-of-abaddon",
+   "titleEn": "Hand of Abaddon",
+   "titleRu": "Рука Абаддона",
+   "ru": "fan",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2024,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 8,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "ultramarines",
+    "guard",
+    "chaos-marines"
+   ],
+   "era": "indomitus",
+   "tl": 41008,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Анаксийская линия и другие фронты",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "war",
+    "mystery"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Леонид Ростов",
+    "Магда Кеш",
+    "Феррен Арейос"
+   ],
+   "desc": "Инквизитор Ростов наконец находит след таинственной Руки Абаддона и собирает верных людей. Лейтенант Ультрамаринов держит Анаксийскую линию, а гвардейка Магда Кеш гадает, коснулся ли её Император. Предпоследняя книга цикла сводит вместе старые нити.",
+   "hook": "Охота на тайного агента Абаддона близится к концу.",
+   "prereq": [
+    "throne-of-light",
+    "the-iron-kingdom"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 2156016,
+   "id": "the-silent-king",
+   "titleEn": "The Silent King",
+   "titleRu": "Безмолвный Царь",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2025,
+   "setting": "40k",
+   "series": "dawn-of-fire",
+   "seriesNo": 9,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "necrons",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41011,
+   "tlLabel": "ок. 011.M42",
+   "tlApprox": true,
+   "place": "Фронты крестового похода Индомитус",
+   "segmentum": "many",
+   "tags": [
+    "epic",
+    "intrigue",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Сзарех"
+   ],
+   "desc": "Финал «Огненной Зари». Гиллиман мечтает перейти Великий Разлом, но из Ультрамара приходят тревожные вести. И тут на сцену возвращается Сзарех, Безмолвный Царь некронов, и путает все планы. Книга закрывает цикл и подводит к событиям «Тёмного Империума».",
+   "hook": "Финал цикла: Гиллиман и древний царь некронов.",
+   "prereq": [
+    "hand-of-abaddon"
+   ],
+   "note": "Самого Безмолвного Царя в книге меньше, чем обещает название."
+  },
+  {
+   "fantlabId": 770367,
+   "id": "i-am-slaughter",
+   "titleEn": "I Am Slaughter",
+   "titleRu": "Я — Резня",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": "the-beast-arises",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "orks",
+    "imperium"
+   ],
+   "era": "after-heresy",
+   "tl": 31544,
+   "tlLabel": "544.M32",
+   "tlApprox": false,
+   "place": "Ардамантуа и Терра",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "epic",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Коорланд",
+    "Дракан Вангорич"
+   ],
+   "desc": "Тридцать второе тысячелетие. Империум давно живёт без большой войны и успел обрасти жиром. Имперские Кулаки впервые за века покидают Терру, чтобы добить чужаков на Ардамантуа. Но там их ждёт враг, какого никто не видел, — орки нового, страшного рода.",
+   "hook": "Абнетт открывает сагу о самой страшной орочьей войне Империума.",
+   "prereq": [],
+   "note": "Первая из 12 книг серии."
+  },
+  {
+   "fantlabId": 858569,
+   "id": "the-beheading",
+   "titleEn": "The Beheading",
+   "titleRu": "Обезглавливание",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "the-beast-arises",
+   "seriesNo": 12,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "orks",
+    "assassins",
+    "imperium"
+   ],
+   "era": "after-heresy",
+   "tl": 31546,
+   "tlLabel": "546.M32",
+   "tlApprox": false,
+   "place": "Терра и Улланор",
+   "segmentum": "many",
+   "tags": [
+    "epic",
+    "intrigue",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Коорланд",
+    "Дракан Вангорич"
+   ],
+   "desc": "Последняя, двенадцатая книга «Пришествия Зверя». Война с орочьим Зверем идёт уже два года, а Высшие лорды Терры всё грызутся за власть. Магистр ассасинов Вангорич решает навести порядок по-своему. Хейли собирает нити всей серии в громкий финал.",
+   "hook": "Финал саги о Звере: орки у ворот, кинжалы в Сенате.",
+   "prereq": [
+    "i-am-slaughter"
+   ],
+   "note": "Финал серии из 12 книг: без предыдущих частей будет непонятно."
+  },
+  {
+   "fantlabId": 1007181,
+   "id": "dark-imperium",
+   "titleEn": "Dark Imperium",
+   "titleRu": "Тёмный Империум",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "dark-imperium",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "death-guard",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41012,
+   "tlLabel": "ок. 012.M42",
+   "tlApprox": true,
+   "place": "Ультрамар",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "epic",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Мортарион"
+   ],
+   "desc": "Гиллиман пересекает Великий Разлом и возвращается в Ультрамар. Он пытается перестроить весь Империум, а его родные миры уже атакует брат — Мортарион со своей Гвардией Смерти. Хейли показывает примарха живым и уставшим человеком, а новую эпоху — изнутри.",
+   "hook": "Примарх вернулся домой — и застал там чуму.",
+   "prereq": [],
+   "note": "Старые источники датируют трилогию 111.M42, сейчас Black Library ставит её около 012.M42."
+  },
+  {
+   "fantlabId": 1078820,
+   "id": "dark-imperium-plague-war",
+   "titleEn": "Dark Imperium: Plague War",
+   "titleRu": "Чумная война",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "dark-imperium",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "death-guard",
+    "daemons"
+   ],
+   "era": "indomitus",
+   "tl": 41013,
+   "tlLabel": "ок. 012.M42",
+   "tlApprox": true,
+   "place": "Ультрамар",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "horror",
+    "villain-pov"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Мортарион"
+   ],
+   "desc": "Чумные войны в разгаре. Мортарион сжимает кольцо вокруг Ультрамара, а Гиллиман разрывается между родным краем и всей Галактикой. Много глав глазами Гвардии Смерти: их гниющий мир показан почти по-домашнему, и от этого особенно жутко.",
+   "hook": "Нургл, Мортарион и Ультрамар на грани.",
+   "prereq": [
+    "dark-imperium"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1432908,
+   "id": "dark-imperium-godblight",
+   "titleEn": "Dark Imperium: Godblight",
+   "titleRu": "Божья пагуба",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "dark-imperium",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "death-guard",
+    "daemons"
+   ],
+   "era": "indomitus",
+   "tl": 41014,
+   "tlLabel": "ок. 012.M42",
+   "tlApprox": true,
+   "place": "Иакс, Ультрамар",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "epic",
+    "horror"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Мортарион"
+   ],
+   "desc": "Финал трилогии. Мортарион и великий демон Ку'Гат готовят на садовом мире Иакс ловушку, которая утянет Ультрамар в варп. Гиллиман идёт навстречу брату сам. Самая высоко оценённая часть трилогии на FantLab. Мрачная, напряжённая и с настоящим размахом.",
+   "hook": "Брат против брата на умирающем мире Иакс.",
+   "prereq": [
+    "dark-imperium-plague-war"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 192162,
+   "id": "angels-of-darkness",
+   "titleEn": "Angels of Darkness",
+   "titleRu": "Ангелы Тьмы",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "dark-angels"
+   ],
+   "era": "dark-millennium",
+   "tl": 40980,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Система Писцина",
+   "segmentum": "many",
+   "tags": [
+    "mystery",
+    "betrayal",
+    "lore",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Борей",
+    "Астелан"
+   ],
+   "desc": "Капеллан-дознаватель Борей допрашивает Астелана — одного из Падших, предавших Тёмных Ангелов ещё во времена Ереси. Пленник рассказывает свою версию правды, и она звучит пугающе убедительно. А в настоящем Борей охотится на других Падших. Классика о главной тайне ордена.",
+   "hook": "Главная тайна Тёмных Ангелов: допрос, где правда страшнее лжи.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 81728,
+   "id": "lord-of-the-night",
+   "titleEn": "Lord of the Night",
+   "titleRu": "Повелитель Ночи",
+   "ru": "official",
+   "authors": [
+    "Simon Spurrier"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "night-lords",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мир-улей Эквикс",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "horror",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Зсо Сахаал",
+    "Мита Эшин"
+   ],
+   "desc": "Повелитель Ночи Зсо Сахаал выходит из варп-шторма, где провёл десять тысяч лет. Его реликвию украли, и он идёт за ней в трущобы мира-улья Эквикс. По его следу идёт псайкер-дознаватель Мита Эшин. Злой и стильный триллер, где главный герой — чудовище.",
+   "hook": "Кошмар из прошлого выходит на охоту в трущобах мира-улья.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 377000,
+   "id": "the-emperors-gift",
+   "titleEn": "The Emperor's Gift",
+   "titleRu": "Дар Императора",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "grey-knights",
+    "space-wolves",
+    "inquisition",
+    "daemons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40444,
+   "tlLabel": "444.M41",
+   "tlApprox": false,
+   "place": "Армагеддон и Титан",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "character",
+    "sorcery",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Гиперион",
+    "Анника Ярлсдоттир"
+   ],
+   "desc": "Гиперион — Серый Рыцарь, тайный воин Империума против демонов. Он вспоминает Первую войну за Армагеддон, где Рыцари и Космические Волки вместе бились с ордой Ангрона. Но после победы союзников ждёт тяжёлый спор: что делать с людьми, которые видели демонов.",
+   "hook": "Серые Рыцари изнутри: долг, страх и цена тайны.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 839995,
+   "id": "kharn-eater-of-worlds",
+   "titleEn": "Khârn: Eater of Worlds",
+   "titleRu": "Кхарн. Пожиратель миров",
+   "ru": "official",
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "world-eaters",
+    "emperors-children"
+   ],
+   "era": "after-heresy",
+   "tl": 30015,
+   "tlLabel": "ок. 015.M31",
+   "tlApprox": true,
+   "place": "Флот Пожирателей Миров после Терры",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "war",
+    "tragedy"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Кхарн",
+    "Дрегер",
+    "Скорал"
+   ],
+   "desc": "Осада Терры проиграна. Пожиратели Миров бегут, легион раскололся на враждующие банды, а Кхарн лежит без сознания. Капитан Дрегер и смертный медик Скорал пытаются удержать хоть что-то. Короткий и жёсткий роман о легионе, который пожирает сам себя.",
+   "hook": "Пожиратели Миров после Ереси: без примарха, без цели, без тормозов.",
+   "prereq": [],
+   "note": "Лучше заходит после «Предателя» Дембски-Боудена."
+  },
+  {
+   "fantlabId": 912367,
+   "id": "valedor",
+   "titleEn": "Valedor",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "aeldari",
+    "tyranids",
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Дуриэль, система Валедор",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "xenos-pov",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Йриэль",
+    "Иянна Ариэналь"
+   ],
+   "desc": "Два флота-улья, Левиафан и Кракен, вот-вот сольются в один. Принц Йриэль ведёт остатки Иандена, к нему примыкают воины Биель-Тана и даже тёмные эльдар. Битва идёт за девственный мир Дуриэль. Одна из лучших книг об эльдар: ясная, умная и без лишней воды.",
+   "hook": "Союз эльдар против двух флотов-ульев сразу.",
+   "prereq": [],
+   "note": "На русском официально не выходила."
+  },
+  {
+   "fantlabId": 962013,
+   "id": "dante",
+   "titleEn": "Dante",
+   "titleRu": "Данте",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "blood-angels"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41 и M40",
+   "tlApprox": true,
+   "place": "Баал",
+   "segmentum": "ultima",
+   "tags": [
+    "character",
+    "lore",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Данте"
+   ],
+   "desc": "Как мальчишка из нищего племени с пустошей Баала стал Данте — самым старым магистром ордена в Империуме. Половина книги — его юность, половина — усталый старик полторы тысячи лет спустя, перед новой бедой. Тёплая и печальная книга о долге.",
+   "hook": "Как мальчишка из пустошей Баала стал легендой Кровавых Ангелов.",
+   "prereq": [],
+   "note": "Читать перед «Опустошением Баала»."
+  },
+  {
+   "fantlabId": 1018143,
+   "id": "shroud-of-night",
+   "titleEn": "Shroud of Night",
+   "titleRu": "Саван ночи",
+   "ru": "official",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "alpha-legion",
+    "world-eaters",
+    "imperial-fists"
+   ],
+   "era": "indomitus",
+   "tl": 41001,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Мир-улей Цадрекха",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "adventure",
+    "war"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Кассар",
+    "Кхарн"
+   ],
+   "desc": "Океанский мир-улей Цадрекха светится во тьме Империума Нигилус благодаря таинственному маяку. Альфа-легионер Кассар и его отряд Невоспетых должны тайно пробраться на планету и испортить маяк. Мешают имперцы, соперники из Хаоса и сам Кхарн.",
+   "hook": "Альфа-Легион идёт на диверсию: громко, весело и без занудства.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1094707,
+   "id": "spear-of-the-emperor",
+   "titleEn": "Spear Of The Emperor",
+   "titleRu": "Копьё Императора",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "chaos-marines",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41100,
+   "tlLabel": "ок. 100.M42",
+   "tlApprox": true,
+   "place": "Покров Элары",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "epic",
+    "character",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Амадей Кайас Инкариус",
+    "Анурадха Дааз"
+   ],
+   "desc": "За Великим Разломом лежит Покров Элары — край, который охраняли три ордена. Два из них уже сгинули. Брат Амадей из Легиона Менторов прилетает проверить последних — Копья Императора. Глубокий и жёсткий роман о забытом форпосте Империума.",
+   "hook": "Дембски-Боуден строит с нуля целый новый угол Галактики.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1060504,
+   "id": "the-lords-of-silence",
+   "titleEn": "The Lords of Silence",
+   "titleRu": "Повелители Тишины",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "death-guard",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41000,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Империум Нигилус",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "horror",
+    "intrigue"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Воркс"
+   ],
+   "desc": "Кадия пала, и легионы предателей хлынули в Галактику. Осадный мастер Воркс ведёт свою банду Гвардии Смерти по разорённым землям и тонет в интригах внутри легиона. Медленная, странная и очень атмосферная книга глазами чумных десантников.",
+   "hook": "Гвардия Смерти без карикатуры: усталые, умные и страшные.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 858189,
+   "id": "lukas-the-trickster",
+   "titleEn": "Lukas the Trickster",
+   "titleRu": "Лукас Ловкач",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Фенрис",
+   "segmentum": "obscurus",
+   "tags": [
+    "humor",
+    "adventure",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Лукас Ловкач",
+    "герцог Слискус"
+   ],
+   "desc": "На Фенрис приходит Хельвинтер, самая страшная зима. Лукас Ловкач опять разыграл Волчьего лорда и вместе со стаей Кровавых Когтей отправлен в изгнание. А тут из Паутины налетают тёмные эльдар скучающего герцога Слискуса. Весёлая и дерзкая книга о Волках.",
+   "hook": "Главный шутник Фенриса против самого скучающего пирата Комморры.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1194961,
+   "id": "rites-of-passage",
+   "titleEn": "Rites of Passage",
+   "titleRu": "Обряды Перехода",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "imperium",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Ворлезе",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "character",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Четтамэнди Бробантис"
+   ],
+   "desc": "Глава навигаторского дома Бробантис мёртв, и власть забирает его вдова Четтамэнди. Она стара и хрупка, зато умна и остра на язык. Ей надо удержать дом среди соперников, а на планете тем временем действует слуга Хаоса. Почти без стрельбы: интриги, диалоги и жуть варпа.",
+   "hook": "Навигаторы, интриги и варп — редкий взгляд на элиту Империума.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1312694,
+   "id": "indomitus",
+   "titleEn": "Indomitus",
+   "titleRu": "Индомитус",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "necrons"
+   ],
+   "era": "indomitus",
+   "tl": 41010,
+   "tlLabel": "ок. 010.M42",
+   "tlApprox": true,
+   "place": "Мир у Пария-Нексуса",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "xenos-pov"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Эсхелус",
+    "Симут"
+   ],
+   "desc": "Крестовый поход идёт уже около десяти лет. Ультрамарины из «проклятого» флота Квинтус находят мир, где людей поработила странная болезнь. За ней стоят некроны, которые строят Пария-Нексус. Боёв много, а некроны получились живыми. Читатели FantLab оценили книгу сдержанно.",
+   "hook": "Ультрамарины против некронов на старте девятой редакции.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1435087,
+   "id": "ghazghkull-thraka-prophet-of-the-waaagh",
+   "titleEn": "Ghazghkull Thraka: Prophet of the Waaagh!",
+   "titleRu": "Газгкулл Трака. Пророк ВААА-йны",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "orks",
+    "inquisition",
+    "space-wolves"
+   ],
+   "era": "dark-millennium",
+   "tl": 40960,
+   "tlLabel": "M41",
+   "tlApprox": true,
+   "place": "Урк, Армагеддон и другие миры",
+   "segmentum": "many",
+   "tags": [
+    "humor",
+    "xenos-pov",
+    "character",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Газгкулл Трака",
+    "Макари",
+    "инквизитор Фалкс"
+   ],
+   "desc": "Ордо Ксенос поймал грота, который называет себя Макари — знаменосцем самого Газгкулла. Инквизитор Фалкс слушает его рассказ о том, как обычный орк стал пророком Вааагх. Смешно, грубо и неожиданно глубоко. Пожалуй, лучший роман про орков.",
+   "hook": "Жизнь главного орка Галактики в пересказе его грота.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1640205,
+   "id": "kasrkin",
+   "titleEn": "Kasrkin",
+   "titleRu": "Касркин",
+   "ru": "fan",
+   "authors": [
+    "Edoardo Albert"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "tau"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Дашт-и-Кевар",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "survival",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Барат Обейсекера"
+   ],
+   "desc": "Над пустынным миром Дашт-и-Кевар т'ау сбивают «Валькирию» с имперским генералом на борту. Капитан Барат Обейсекера ведёт отделение касркинов, чтобы его спасти. Но в песках, кроме т'ау, прячется что-то очень древнее. Простой и бодрый военный боевик.",
+   "hook": "Элита Кадии в пустыне: спасти генерала любой ценой.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1610869,
+   "id": "warboss",
+   "titleEn": "Warboss",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "orks",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41030,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Миры на пути орочьего Вааагх",
+   "segmentum": "many",
+   "tags": [
+    "humor",
+    "xenos-pov",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Уфтхак Чёрный Гребень",
+    "Снагги Мелкозуб"
+   ],
+   "desc": "Орк Уфтхак Чёрный Гребень снова в деле, и теперь на кону место вожака. Рядом крутится хитрый грот Снагги Мелкозуб со своими планами. Продолжение «Зверской хитрости»: много драк, орочьей логики и честного смеха. Брукс пишет орков так, что за них болеешь.",
+   "hook": "Как стать вожаком орков: бить сильнее и думать хитрее.",
+   "prereq": [
+    "brutal-kunnin"
+   ],
+   "note": "Продолжение «Зверской хитрости». На русском официально не выходила."
+  },
+  {
+   "fantlabId": 1527586,
+   "id": "day-of-ascension",
+   "titleEn": "Day of Ascension",
+   "titleRu": "День Вознесения",
+   "ru": "fan",
+   "authors": [
+    "Adrian Tchaikovsky"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "tyranids"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мир-кузница Мород",
+   "segmentum": "many",
+   "tags": [
+    "xenos-pov",
+    "intrigue",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Гаммат Трискеллиан",
+    "Давиэн"
+   ],
+   "desc": "На мире-кузнице Мород генетор Гаммат Трискеллиан мечтает о славе, но начальство не даёт ему дышать. Внизу, в трущобах, писец Давиэн ждёт прихода спасителей. Культ генокрадов готовит свой великий день. Короткий умный роман, где легко болеть за чужих.",
+   "hook": "Восстание культа генокрадов глазами самих культистов.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1527588,
+   "id": "krieg",
+   "titleEn": "Krieg",
+   "titleRu": "Криг",
+   "ru": "fan",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks",
+    "tyranids"
+   ],
+   "era": "indomitus",
+   "tl": 41000,
+   "tlLabel": "рубеж M41–M42",
+   "tlApprox": true,
+   "place": "Октариус и Криг",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "tragedy",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Полторы тысячи лет назад Криг восстал против Империума, и верные Императору солдаты выжгли родной мир атомным огнём. Из пепла вырос Корпус Смерти. Книга чередует историю Крига и нынешнюю осаду улья на краю Октариуса, где сходятся орки и тираниды.",
+   "hook": "Корпус Смерти Крига: откуда взялись солдаты без лиц и без страха.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1718748,
+   "id": "the-lion-son-of-the-forest",
+   "titleEn": "The Lion: Son Of The Forest",
+   "titleRu": "Лев. Сын леса",
+   "ru": "fan",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "dark-angels",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Империум Нигилус",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "lore",
+    "adventure"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Лев Эль'Джонсон"
+   ],
+   "desc": "Лев Эль'Джонсон просыпается после десяти тысяч лет сна. Калибана больше нет, легион, который он помнил, исчез, а Империум расколот Разломом. Примарх идёт по Империуму Нигилус и пытается понять, кем ему быть теперь. Медленная, вдумчивая и очень красивая книга.",
+   "hook": "Примарх проснулся в Галактике, которую не узнаёт.",
+   "prereq": [],
+   "note": "Легче заходит, если знаешь историю Калибана из «Ереси Хоруса»."
+  },
+  {
+   "fantlabId": 1792080,
+   "id": "the-fall-of-cadia",
+   "titleEn": "The Fall of Cadia",
+   "titleRu": "Падение Кадии",
+   "ru": "fan",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "sons-of-horus",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Кадия",
+   "segmentum": "obscurus",
+   "tags": [
+    "siege",
+    "war",
+    "epic",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Урсаркар Крид",
+    "Абаддон"
+   ],
+   "desc": "Абаддон начинает Тринадцатый Чёрный крестовый поход и бросает всё на Кадию — крепость, которая десять тысяч лет держала врата Ока Ужаса. Лорд-кастелян Крид собирает последнюю оборону. Большой роман о самом громком падении эпохи.",
+   "hook": "Кадия стоит. Пока ещё стоит.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1743566,
+   "id": "leviathan",
+   "titleEn": "Leviathan",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Darius Hinks"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "tyranids",
+    "astartes",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41030,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Миры на пути флота-улья Левиафан",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "horror",
+    "survival"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [],
+   "desc": "Флот-улей Левиафан снова поднимается из-под плоскости Галактики и обрушивается на Империум. Космодесант и имперские войска пытаются сдержать рой, который пожирает целые миры. Роман вышел вместе с десятой редакцией игры и открывает новую войну с тиранидами.",
+   "hook": "Тираниды возвращаются — на старте десятой редакции.",
+   "prereq": [],
+   "note": "На русском официально не выходила."
+  },
+  {
+   "fantlabId": 1777526,
+   "id": "creed-ashes-of-cadia",
+   "titleEn": "Creed: Ashes of Cadia",
+   "titleRu": "Крид. Пепел Кадии",
+   "ru": "fan",
+   "authors": [
+    "Jude Reid"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41030,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Руины Кадии",
+   "segmentum": "obscurus",
+   "tags": [
+    "war",
+    "character",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Урсула Крид",
+    "Шаэль Ласкари",
+    "Мак Оссиан"
+   ],
+   "desc": "Прошли десятилетия после гибели Кадии. Лорд-кастелян Урсула Крид, дочь легендарного Урсаркара, ведёт отряд на руины родного мира: там может лежать оружие, оставленное отцом. С ней новобранец, разжалованный медик и чужаки со своими планами.",
+   "hook": "Дочь Крида возвращается на мёртвую Кадию.",
+   "prereq": [
+    "the-fall-of-cadia"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1687825,
+   "id": "angron-the-red-angel",
+   "titleEn": "Angron: The Red Angel",
+   "titleRu": "Ангрон. Красный Ангел",
+   "ru": "fan",
+   "authors": [
+    "David Guymer"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "world-eaters",
+    "grey-knights",
+    "astartes",
+    "daemons"
+   ],
+   "era": "indomitus",
+   "tl": 41015,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Империум Нигилус",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "villain-pov",
+    "sorcery"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Ангрон",
+    "Коссолакс",
+    "Ортан Лейдис"
+   ],
+   "desc": "Ангрон, демон-примарх Пожирателей Миров, снова в реальном мире. Самозваный регент легиона Коссолакс встречает отца, космодесантник Ортан Лейдис выживает на забытой луне, а Серые Рыцари шесть веков готовили план против Красного Ангела.",
+   "hook": "Ярость Кхорна во плоти возвращается в Империум Нигилус.",
+   "prereq": [],
+   "note": null
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-era-indomitus",
+   "name": "Вход в Эру Индомитус",
+   "about": "Как Галактика раскололась и что было дальше — по главным книгам новой эпохи.",
+   "steps": [
+    {
+     "id": "the-fall-of-cadia",
+     "note": "Здесь всё начинается: падение Кадии открывает Великий Разлом."
+    },
+    {
+     "id": "avenging-son",
+     "note": "Гиллиман начинает крестовый поход Индомитус."
+    },
+    {
+     "id": "dark-imperium",
+     "note": "Примарх возвращается в Ультрамар и встречает Мортариона."
+    },
+    {
+     "id": "dark-imperium-plague-war",
+     "note": "Чумные войны набирают силу."
+    },
+    {
+     "id": "dark-imperium-godblight",
+     "note": "Развязка противостояния братьев."
+    },
+    {
+     "id": "the-lion-son-of-the-forest",
+     "note": "Возвращается второй примарх — совсем другой взгляд на эпоху."
+    },
+    {
+     "id": "spear-of-the-emperor",
+     "note": "Жизнь по ту сторону Разлома спустя век."
+    }
+   ]
+  },
+  {
+   "id": "path-enemies-of-imperium",
+   "name": "Глазами врагов Империума",
+   "about": "Избранные книги, где главные герои — предатели и чужие.",
+   "steps": [
+    {
+     "id": "lord-of-the-night",
+     "note": "Классика: Повелитель Ночи на охоте."
+    },
+    {
+     "id": "kharn-eater-of-worlds",
+     "note": "Пожиратели Миров сразу после Ереси."
+    },
+    {
+     "id": "the-lords-of-silence",
+     "note": "Гвардия Смерти в новую эпоху — умно и жутко."
+    },
+    {
+     "id": "ghazghkull-thraka-prophet-of-the-waaagh",
+     "note": "Отдых и смех: история главного орка."
+    },
+    {
+     "id": "day-of-ascension",
+     "note": "Культ генокрадов, за который неожиданно болеешь."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "The Martyr's Tomb: в titleRu были латинские буквы «o» и «e» («Грoбница мучeницы») — заменены на кириллицу: «Гробница мученицы».",
+  "Jude Reid в карте авторов записана как «Джуди Рид»; точнее было бы «Джуд Рид» (оставлено как во входе, чтобы не расходиться с Фантлабом).",
+  "Dawn of Fire: номер 3 цикла — «The Wolftime» (Gav Thorpe), его нет во входном списке, поэтому номера идут 1, 2, 4–9."
+ ]
+}

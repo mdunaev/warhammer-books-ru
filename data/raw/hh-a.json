@@ -1,0 +1,1022 @@
+{
+ "chunk": "hh-a",
+ "authors": {
+  "Ben Counter": "Бен Каунтер",
+  "Graham McNeill": "Грэм Макнилл",
+  "Dan Abnett": "Дэн Абнетт",
+  "James Swallow": "Джеймс Сваллоу",
+  "Mike Lee": "Майк Ли",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Christian Dunn": "Кристиан Данн",
+  "Nick Kyme": "Ник Кайм",
+  "Gav Thorpe": "Гэв Торп",
+  "Mitchel Scanlon": "Митчелл Сканлон"
+ },
+ "series": [
+  {
+   "id": "horus-heresy",
+   "name": "Ересь Хоруса",
+   "nameEn": "The Horus Heresy",
+   "setting": "hh"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 36166,
+   "id": "horus-rising",
+   "titleEn": "Horus Rising",
+   "titleRu": "Возвышение Хоруса",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2006,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "emperors-children",
+    "imperium"
+   ],
+   "era": "great-crusade",
+   "tl": 30002,
+   "tlLabel": "001–003.M31",
+   "tlApprox": false,
+   "place": "Шестьдесят три — девятнадцать, Убийство",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "war",
+    "epic",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Гарвель Локен",
+    "Хорус"
+   ],
+   "desc": "Великий крестовый поход в самом разгаре. Хорус только что стал Воителем, а капитан Гарвель Локен верит, что легионы несут Галактике порядок. Абнетт показывает этот мир изнутри: гордый, сияющий и уже с первыми трещинами.",
+   "hook": "Начало великой саги: последние дни, когда Хорус ещё был героем.",
+   "prereq": [],
+   "note": "Первая книга серии. Начинать Ересь лучше всего с неё."
+  },
+  {
+   "fantlabId": 36311,
+   "id": "false-gods",
+   "titleEn": "False Gods",
+   "titleRu": "Лживые боги",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2006,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "word-bearers",
+    "chaos"
+   ],
+   "era": "great-crusade",
+   "tl": 30004,
+   "tlLabel": "004.M31",
+   "tlApprox": false,
+   "place": "Давин и его луна",
+   "segmentum": "many",
+   "tags": [
+    "betrayal",
+    "sorcery",
+    "tragedy",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Хорус",
+    "Гарвель Локен",
+    "Эреб"
+   ],
+   "desc": "На луне Давина Хорус получает страшную рану. Чтобы спасти Воителя, его воины готовы довериться местным жрецам, а тайное братство внутри легиона набирает силу. Макнилл шаг за шагом показывает, как великий герой склоняется к Хаосу.",
+   "hook": "Как самый любимый сын Императора становится предателем.",
+   "prereq": [
+    "horus-rising"
+   ],
+   "note": "Вторая часть вступительной трилогии."
+  },
+  {
+   "fantlabId": 58546,
+   "id": "galaxy-in-flames",
+   "titleEn": "Galaxy in Flames",
+   "titleRu": "Галактика в огне",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2006,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "emperors-children",
+    "death-guard",
+    "world-eaters"
+   ],
+   "era": "heresy",
+   "tl": 30005,
+   "tlLabel": "005.M31",
+   "tlApprox": false,
+   "place": "Исстван III",
+   "segmentum": "many",
+   "tags": [
+    "betrayal",
+    "tragedy",
+    "war",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Гарвель Локен",
+    "Сол Тарвиц",
+    "Натаниэль Гарро"
+   ],
+   "desc": "Хорус больше не прячет своих целей и готовит на Исстване III удар по тем, кто остался верен Императору. Локен, Тарвиц и Гарро узнают, что их братья по оружию стали врагами. Финал первой трилогии: здесь Ересь превращается в открытую войну.",
+   "hook": "Братья по оружию стреляют друг в друга. Ересь начинается всерьёз.",
+   "prereq": [
+    "horus-rising",
+    "false-gods"
+   ],
+   "note": "Завершает вступительную трилогию."
+  },
+  {
+   "fantlabId": 65013,
+   "id": "the-flight-of-the-eisenstein",
+   "titleEn": "The Flight of the Eisenstein",
+   "titleRu": "Полёт «Эйзенштейна»",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2007,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "death-guard",
+    "sons-of-horus",
+    "imperial-fists"
+   ],
+   "era": "heresy",
+   "tl": 30005,
+   "tlLabel": "005–006.M31",
+   "tlApprox": false,
+   "place": "Исстван III, фрегат «Эйзенштейн», Терра",
+   "segmentum": "many",
+   "tags": [
+    "survival",
+    "space",
+    "betrayal",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Натаниэль Гарро",
+    "Мортарион"
+   ],
+   "desc": "Капитан Гвардии Смерти Натаниэль Гарро видит, что его легион идёт за Хорусом к измене. Он уводит фрегат «Эйзенштейн» и пытается прорваться к Терре, чтобы предупредить Императора. Впереди варп, погоня и сомнения в собственной вере.",
+   "hook": "Один корабль и горстка верных воинов несут Терре страшную весть.",
+   "prereq": [
+    "galaxy-in-flames"
+   ],
+   "note": "Идёт параллельно «Галактике в огне», читать после неё."
+  },
+  {
+   "fantlabId": 55737,
+   "id": "fulgrim",
+   "titleEn": "Fulgrim",
+   "titleRu": "Фулгрим",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2007,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "emperors-children",
+    "iron-hands",
+    "daemons",
+    "xenos"
+   ],
+   "era": "heresy",
+   "tl": 30005,
+   "tlLabel": "002–006.M31",
+   "tlApprox": false,
+   "place": "Лаэран, Исстван V",
+   "segmentum": "many",
+   "tags": [
+    "tragedy",
+    "sorcery",
+    "villain-pov",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Фулгрим",
+    "Феррус Манус"
+   ],
+   "desc": "Фулгрим и его Дети Императора стремятся к совершенству во всём. После войны с лаэрами примарх забирает себе трофейный клинок, и в его душе поселяется что-то чужое. Мрачная история о том, как жажда идеала оборачивается одержимостью.",
+   "hook": "Падение самого прекрасного из примархов: от гордости до безумия.",
+   "prereq": [
+    "galaxy-in-flames"
+   ],
+   "note": "Лучше читать после первой трилогии."
+  },
+  {
+   "fantlabId": 73236,
+   "id": "descent-of-angels",
+   "titleEn": "Descent of Angels",
+   "titleRu": "Сошествие Ангелов",
+   "ru": "official",
+   "authors": [
+    "Mitchel Scanlon"
+   ],
+   "year": 2007,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "dark-angels",
+    "imperium"
+   ],
+   "era": "great-crusade",
+   "tl": 29880,
+   "tlLabel": "ок. 850–905.M30",
+   "tlApprox": true,
+   "place": "Калибан, Сарош",
+   "segmentum": "obscurus",
+   "tags": [
+    "adventure",
+    "character",
+    "lore"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Захариэль",
+    "Лютер"
+   ],
+   "desc": "Юный Захариэль растёт на Калибане, в мире рыцарских орденов и лесных чудовищ. Потом с небес приходит Империум, и рыцари становятся Тёмными Ангелами. Неспешная история о взрослении и о том, откуда в Первом легионе взялись первые трещины.",
+   "hook": "Рыцарский Калибан до Ереси: откуда пришли Тёмные Ангелы.",
+   "prereq": [],
+   "note": "Медленная книга. Важна как пролог к «Падшим Ангелам»."
+  },
+  {
+   "fantlabId": 65016,
+   "id": "legion",
+   "titleEn": "Legion",
+   "titleRu": "Легион",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2008,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 7,
+   "format": "novel",
+   "factions": [
+    "alpha-legion",
+    "guard",
+    "xenos"
+   ],
+   "era": "great-crusade",
+   "tl": 30003,
+   "tlLabel": "ок. 003.M31",
+   "tlApprox": true,
+   "place": "Нурт",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "war",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Джон Грамматикус",
+    "Альфарий"
+   ],
+   "desc": "Имперская армия завязла в войне на Нурте, и на помощь приходит загадочный Альфа-Легион. В лагере прячется шпион Джон Грамматикус, который охотится за тайнами легиона. Роман о масках, лжи и войне, которую ведут не только оружием.",
+   "hook": "Абнетт и Альфа-Легион: шпионская игра, где врут все.",
+   "prereq": [],
+   "note": "Можно читать отдельно от остальных книг."
+  },
+  {
+   "fantlabId": 63661,
+   "id": "battle-for-the-abyss",
+   "titleEn": "Battle for the Abyss",
+   "titleRu": "Битва за «Бездну»",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2008,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 8,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "word-bearers",
+    "space-wolves",
+    "thousand-sons"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "ок. 006.M31",
+   "tlApprox": true,
+   "place": "Корабль «Яростная Бездна», путь к Ультрамару",
+   "segmentum": "many",
+   "tags": [
+    "space",
+    "war",
+    "adventure"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Цест"
+   ],
+   "desc": "Несущие Слово тайно построили огромный корабль «Яростная Бездна» и ведут его к Ультрамару. Ультрамарин Цест собирает воинов из разных легионов, чтобы остановить его. Прямолинейный космический боевик: погоня, абордажи и много стрельбы.",
+   "hook": "Погоня за кораблём-убийцей, который летит к Ультрамару.",
+   "prereq": [
+    "galaxy-in-flames"
+   ],
+   "note": "У книги одна из самых низких оценок серии на FantLab. Можно пропустить."
+  },
+  {
+   "fantlabId": 127949,
+   "id": "mechanicum",
+   "titleEn": "Mechanicum",
+   "titleRu": "Механикум",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2008,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 9,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "knights",
+    "chaos"
+   ],
+   "era": "heresy",
+   "tl": 30005,
+   "tlLabel": "005.M31",
+   "tlApprox": false,
+   "place": "Марс",
+   "segmentum": "solar",
+   "tags": [
+    "intrigue",
+    "war",
+    "betrayal",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Далия Кифера",
+    "Кельбор-Хал"
+   ],
+   "desc": "Пока Галактика горит, на Марсе вспыхивает своя гражданская война. Жрецы Механикум делятся на верных Императору и тех, кто готов пойти за Хорусом. В центре — Далия Кифера, девушка с даром понимать машины, а вокруг гремят титаны и рыцари.",
+   "hook": "Гражданская война на Марсе: титаны против титанов.",
+   "prereq": [],
+   "note": "Почти без космодесанта. Книга про Марс, машины и их жрецов."
+  },
+  {
+   "fantlabId": 283118,
+   "id": "fallen-angels",
+   "titleEn": "Fallen Angels",
+   "titleRu": "Падшие Ангелы",
+   "ru": "official",
+   "authors": [
+    "Mike Lee"
+   ],
+   "year": 2009,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 11,
+   "format": "novel",
+   "factions": [
+    "dark-angels",
+    "sons-of-horus",
+    "mechanicus"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "ок. 006.M31",
+   "tlApprox": true,
+   "place": "Диамат, Калибан",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "war",
+    "betrayal"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Лев Эль'Джонсон",
+    "Захариэль",
+    "Лютер"
+   ],
+   "desc": "Лев Эль'Джонсон ведёт флот к миру-кузнице Диамат, чтобы не отдать его Сынам Хоруса. А на Калибане Лютер и Захариэль борются с мятежниками и всё чаще сомневаются в своём примархе. Две линии о том, как верность Тёмных Ангелов даёт трещину.",
+   "hook": "Тёмные Ангелы на два фронта: война в космосе и заговор дома.",
+   "prereq": [
+    "descent-of-angels"
+   ],
+   "note": "Продолжение «Сошествия Ангелов»."
+  },
+  {
+   "fantlabId": 283119,
+   "id": "a-thousand-sons",
+   "titleEn": "A Thousand Sons",
+   "titleRu": "Тысяча сынов",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2010,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 12,
+   "format": "novel",
+   "factions": [
+    "thousand-sons",
+    "space-wolves",
+    "custodes"
+   ],
+   "era": "great-crusade",
+   "tl": 30004,
+   "tlLabel": "000–005.M31",
+   "tlApprox": false,
+   "place": "Агору, Никея, Просперо",
+   "segmentum": "many",
+   "tags": [
+    "sorcery",
+    "tragedy",
+    "character",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Магнус",
+    "Азек Ариман"
+   ],
+   "desc": "Магнус Красный и его Тысяча Сынов изучают варп и верят, что знание не бывает опасным. Император запрещает колдовство, но Магнус уверен в своей правоте. Трагедия гордого мудреца, чьи добрые намерения оборачиваются бедой.",
+   "hook": "Чародей среди воинов: одна из самых горьких историй Ереси.",
+   "prereq": [],
+   "note": "Читать в паре с «Сожжением Просперо»."
+  },
+  {
+   "fantlabId": 283120,
+   "id": "nemesis",
+   "titleEn": "Nemesis",
+   "titleRu": "Немезида",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2010,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 13,
+   "format": "novel",
+   "factions": [
+    "assassins",
+    "sons-of-horus",
+    "imperium"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 008.M31",
+   "tlApprox": true,
+   "place": "Дагонет",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Эристид Келл"
+   ],
+   "desc": "Терра решается на крайнюю меру — убить Хоруса. Храмы ассасинов, которые терпеть не могут друг друга, собирают общий отряд под командой снайпера Эристида Келла. Шпионский триллер о самом тайном оружии Империума.",
+   "hook": "Лучшие убийцы Империума получают одну цель — Воителя.",
+   "prereq": [
+    "galaxy-in-flames"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 283122,
+   "id": "the-first-heretic",
+   "titleEn": "The First Heretic",
+   "titleRu": "Первый Еретик",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 14,
+   "format": "novel",
+   "factions": [
+    "word-bearers",
+    "custodes",
+    "daemons"
+   ],
+   "era": "great-crusade",
+   "tl": 29963,
+   "tlLabel": "963.M30–006.M31",
+   "tlApprox": true,
+   "place": "Монархия, Око Ужаса, Исстван V",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "tragedy",
+    "sorcery",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Аргел Тал",
+    "Лоргар"
+   ],
+   "desc": "Лоргар почитает Императора как бога, а Император называет эту веру ошибкой и публично унижает его легион. Обиженные Несущие Слово начинают искать других богов. Глазами воина Аргел Тала мы видим, где на самом деле родилась Ересь.",
+   "hook": "Задолго до Хоруса: откуда на самом деле началась Ересь.",
+   "prereq": [],
+   "note": "Большая часть книги идёт за десятилетия до Исствана. Дальше — «Не ведая страха» и «Предатель»."
+  },
+  {
+   "fantlabId": 283121,
+   "id": "prospero-burns",
+   "titleEn": "Prospero Burns",
+   "titleRu": "Сожжение Просперо",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2010,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 15,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "thousand-sons",
+    "imperium"
+   ],
+   "era": "great-crusade",
+   "tl": 30004,
+   "tlLabel": "ок. 004.M31",
+   "tlApprox": true,
+   "place": "Фенрис, Просперо",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "mystery",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Каспер Хавсер",
+    "Леман Русс"
+   ],
+   "desc": "Учёный с Терры Каспер Хавсер попадает к Космическим Волкам на ледяной Фенрис. Он хочет понять этих воинов, но они оказываются куда хитрее, чем выглядят. Абнетт показывает поход на Просперо с другой стороны и долго держит читателя в неведении.",
+   "hook": "Волки Фенриса — совсем не дикари. Ответ на «Тысячу сынов».",
+   "prereq": [
+    "a-thousand-sons"
+   ],
+   "note": "Читать после «Тысячи сынов»."
+  },
+  {
+   "fantlabId": 356585,
+   "id": "age-of-darkness",
+   "titleEn": "Age of Darkness",
+   "titleRu": "Эпоха тьмы",
+   "ru": "official",
+   "authors": [
+    "Christian Dunn"
+   ],
+   "year": 2011,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 16,
+   "format": "anthology",
+   "factions": [
+    "dark-angels",
+    "night-lords",
+    "alpha-legion",
+    "sons-of-horus"
+   ],
+   "era": "heresy",
+   "tl": 30008,
+   "tlLabel": "ок. 006–010.M31",
+   "tlApprox": true,
+   "place": "Разные миры Галактики",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "betrayal",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [],
+   "desc": "Девять рассказов о годах после Исствана V, когда Ересь уже идёт, а до Терры ещё далеко. Альфа-Легион сеет ложь, Хорус Аксиманд думает о своём примархе, а Лев и Ночной Призрак встречаются лицом к лицу. Короткие истории, но много важного для лора.",
+   "hook": "Девять историй о тёмных годах между предательством и Осадой.",
+   "prereq": [
+    "fulgrim"
+   ],
+   "note": "Сборник рассказов. Чаще всего хвалят «Железо внутри» и «Жестокое оружие»."
+  },
+  {
+   "fantlabId": 310302,
+   "id": "the-outcast-dead",
+   "titleEn": "The Outcast Dead",
+   "titleRu": "Отверженные мертвецы",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2011,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 17,
+   "format": "novel",
+   "factions": [
+    "imperium",
+    "custodes",
+    "thousand-sons",
+    "world-eaters"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "006.M31",
+   "tlApprox": false,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "survival",
+    "sorcery",
+    "intrigue"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Кай Зулан",
+    "Атарва"
+   ],
+   "desc": "Астропат Кай Зулан принимает послание огромной важности, и за ним начинают охоту все, кто о нём узнал. Он бежит по улицам и подземельям Терры вместе с узниками из легионов-предателей. Редкий взгляд на столицу Империума в первые месяцы Ереси.",
+   "hook": "Терра в начале Ереси: погоня по улицам столицы Империума.",
+   "prereq": [
+    "the-flight-of-the-eisenstein",
+    "a-thousand-sons"
+   ],
+   "note": "Многие читатели считают её слабым звеном серии."
+  },
+  {
+   "fantlabId": 310768,
+   "id": "deliverance-lost",
+   "titleEn": "Deliverance Lost",
+   "titleRu": "Потерянное освобождение",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 18,
+   "format": "novel",
+   "factions": [
+    "raven-guard",
+    "alpha-legion",
+    "mechanicus"
+   ],
+   "era": "heresy",
+   "tl": 30007,
+   "tlLabel": "006–007.M31",
+   "tlApprox": false,
+   "place": "Освобождение (Ликея), Терра",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "intrigue",
+    "betrayal"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Коракс",
+    "Альфарий"
+   ],
+   "desc": "После Исствана V от Гвардии Ворона почти ничего не осталось. Примарх Коракс ищет способ быстро возродить легион, а Альфа-Легион уже подбирается к нему под чужими лицами. Книга про партизанскую войну, тайны генного семени и врага, которого не видно.",
+   "hook": "Разбитый легион, отчаянный примарх и враг под чужой маской.",
+   "prereq": [
+    "fulgrim"
+   ],
+   "note": "Перед ней стоит прочитать повесть «Полёт ворона» из «Теней предательства»."
+  },
+  {
+   "fantlabId": 345065,
+   "id": "know-no-fear",
+   "titleEn": "Know No Fear",
+   "titleRu": "Не ведая страха",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 19,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "word-bearers",
+    "daemons"
+   ],
+   "era": "heresy",
+   "tl": 30007,
+   "tlLabel": "007.M31",
+   "tlApprox": false,
+   "place": "Калт",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "epic",
+    "betrayal",
+    "space"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Робаут Гиллиман",
+    "Олл Перссон"
+   ],
+   "desc": "Ультрамарины собираются на Калте, чтобы вместе с Несущими Слово выступить в поход. Но гости прилетели не с миром, и удар обрушивается на ничего не подозревающий легион. Абнетт пишет войну почти по минутам: быстро, жёстко и с огромным размахом.",
+   "hook": "Битва при Калте: самое внезапное предательство Ереси.",
+   "prereq": [],
+   "note": "Можно читать отдельно, но лучше после «Первого Еретика»."
+  },
+  {
+   "fantlabId": 391369,
+   "id": "fear-to-tread",
+   "titleEn": "Fear to Tread",
+   "titleRu": "Где Ангел не решится сделать шаг",
+   "ru": "official",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 21,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "daemons",
+    "word-bearers"
+   ],
+   "era": "heresy",
+   "tl": 30006,
+   "tlLabel": "ок. 006.M31",
+   "tlApprox": true,
+   "place": "Скопление Сигнус, Сигнус Прайм",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "sorcery",
+    "tragedy",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Сангвиний",
+    "Ралдорон"
+   ],
+   "desc": "Хорус посылает Кровавых Ангелов в далёкое скопление Сигнус. Там их ждёт ловушка: целая армия демонов, которая знает тайное проклятие легиона. Сангвиний и его сыны воюют не только с врагом, но и с жаждой крови внутри себя.",
+   "hook": "Ангелы против демонов — и против тьмы в собственной крови.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 458257,
+   "id": "shadows-of-treachery",
+   "titleEn": "Shadows of Treachery",
+   "titleRu": "Тени предательства",
+   "ru": "official",
+   "authors": [
+    "Christian Dunn",
+    "Nick Kyme"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 22,
+   "format": "anthology",
+   "factions": [
+    "imperial-fists",
+    "night-lords",
+    "raven-guard"
+   ],
+   "era": "heresy",
+   "tl": 30007,
+   "tlLabel": "ок. 005–008.M31",
+   "tlApprox": true,
+   "place": "Разные миры Галактики",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "character",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [],
+   "desc": "Сборник повестей и рассказов о разных фронтах Ереси. Имперские Кулаки бьются у Фалла, Гвардия Ворона прорывается с Исствана, а Севатар из Повелителей Ночи показывает, как живёт самый жестокий легион. Хороший способ увидеть войну с разных сторон.",
+   "hook": "Семь историй о Ереси, включая знаменитую повесть о Севатаре.",
+   "prereq": [],
+   "note": "Сборник. Главное здесь — «Вороний принц» и «Полёт ворона»."
+  },
+  {
+   "fantlabId": 426614,
+   "id": "angel-exterminatus",
+   "titleEn": "Angel Exterminatus",
+   "titleRu": "Ангел Экстерминатус",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 23,
+   "format": "novel",
+   "factions": [
+    "iron-warriors",
+    "emperors-children",
+    "iron-hands",
+    "aeldari"
+   ],
+   "era": "heresy",
+   "tl": 30009,
+   "tlLabel": "ок. 009.M31",
+   "tlApprox": true,
+   "place": "Древний мир эльдар в Оке Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "adventure",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Пертурабо",
+    "Фулгрим"
+   ],
+   "desc": "Фулгрим предлагает Пертурабо найти древнее оружие эльдар, которое может изменить ход войны. Железные Воины и Дети Императора уходят в Око Ужаса, а за ними по пятам идут мстители из Железных Рук. Странный союз двух примархов, где каждый ведёт свою игру.",
+   "hook": "Два примарха-предателя, древнее оружие и игра без правил.",
+   "prereq": [
+    "fulgrim"
+   ],
+   "note": "Продолжает линию «Фулгрима»."
+  },
+  {
+   "fantlabId": 572386,
+   "id": "betrayer",
+   "titleEn": "Betrayer",
+   "titleRu": "Предатель",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "setting": "hh",
+   "series": "horus-heresy",
+   "seriesNo": 24,
+   "format": "novel",
+   "factions": [
+    "world-eaters",
+    "word-bearers",
+    "ultramarines"
+   ],
+   "era": "heresy",
+   "tl": 30007,
+   "tlLabel": "007.M31",
+   "tlApprox": false,
+   "place": "Арматура, Ультрамар",
+   "segmentum": "ultima",
+   "tags": [
+    "villain-pov",
+    "tragedy",
+    "war",
+    "character"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Кхарн",
+    "Аргел Тал",
+    "Ангрон"
+   ],
+   "desc": "Несущие Слово и Пожиратели Миров вместе огнём проходят по Ультрамару. Капитан Кхарн и Аргел Тал пытаются удержать своих примархов, а Ангрона всё сильнее терзают Гвозди Мясника. Жестокая и при этом очень человечная книга о дружбе среди чудовищ.",
+   "hook": "Ангрон и Кхарн: трагедия легиона, сломанного ещё до войны.",
+   "prereq": [
+    "the-first-heretic",
+    "know-no-fear"
+   ],
+   "note": "Читать после «Первого Еретика» и «Не ведая страха»."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-hh-opening",
+   "name": "Начало Ереси",
+   "about": "Пять книг, с которых всё начинается: от сияющего Воителя до бойни на Исстване V.",
+   "steps": [
+    {
+     "id": "horus-rising",
+     "note": "Знакомство с Хорусом и Локеном, пока всё ещё хорошо."
+    },
+    {
+     "id": "false-gods",
+     "note": "Воитель делает первый шаг к Хаосу."
+    },
+    {
+     "id": "galaxy-in-flames",
+     "note": "Предательство на Исстване III."
+    },
+    {
+     "id": "the-flight-of-the-eisenstein",
+     "note": "Те же события глазами Гвардии Смерти и бегство к Терре."
+    },
+    {
+     "id": "fulgrim",
+     "note": "Падение Детей Императора и бойня на Исстване V."
+    }
+   ]
+  },
+  {
+   "id": "path-hh-word-bearers",
+   "name": "Несущие Слово",
+   "about": "Как вера одного примарха привела к войне против Ультрамара.",
+   "steps": [
+    {
+     "id": "the-first-heretic",
+     "note": "Корни Ереси: унижение Лоргара и поиск новых богов."
+    },
+    {
+     "id": "know-no-fear",
+     "note": "Внезапный удар Несущих Слово по Калту."
+    },
+    {
+     "id": "betrayer",
+     "note": "Теневой крестовый поход и трагедия Ангрона."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Входные данные выглядят верно: названия, годы и авторы совпадают с Fantlab и нумерацией Black Library.",
+  "В списке нет двух номерных сборников серии: #10 Tales of Heresy (2009) и #20 The Primarchs (2012). Нумерация остальных книг дана по Black Library, поэтому номера 10 и 20 пропущены."
+ ]
+}

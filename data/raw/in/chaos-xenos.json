@@ -1,0 +1,439 @@
+{
+ "chunk": "chaos-xenos",
+ "authors": {
+  "John French": "Джон Френч",
+  "Nate Crowley": "Нейт Кроули",
+  "Graham McNeill": "Грэм Макнилл",
+  "Ian St. Martin": "Иэн Сент-Мартин",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Andy Chambers": "Энди Чемберс",
+  "Gav Thorpe": "Гэв Торп",
+  "Robert Rath": "Роберт Раф",
+  "Mike Brooks": "Майк Брукс",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Phil Kelly": "Фил Келли",
+  "Anthony Reynolds": "Энтони Рейнольдс"
+ },
+ "books": [
+  {
+   "fantlabId": 828874,
+   "titleEn": "Ahriman: Exile",
+   "titleRu": "Ариман. Изгнанник",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ариман",
+   "fantlabRating": 7.61,
+   "fantlabVoters": 67
+  },
+  {
+   "fantlabId": 828875,
+   "titleEn": "Ahriman: Sorcerer",
+   "titleRu": "Ариман. Колдун",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ариман",
+   "fantlabRating": 7.95,
+   "fantlabVoters": 58
+  },
+  {
+   "fantlabId": 828876,
+   "titleEn": "Ahriman: Unchanged",
+   "titleRu": "Ариман. Неизменённый",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2015,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ариман",
+   "fantlabRating": 8,
+   "fantlabVoters": 49
+  },
+  {
+   "fantlabId": 1445374,
+   "titleEn": "The Twice-dead King: Ruin",
+   "titleRu": "Дважды мёртвый царь. На грани",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Дважды мёртвый царь",
+   "fantlabRating": 8.29,
+   "fantlabVoters": 7
+  },
+  {
+   "fantlabId": 1522827,
+   "titleEn": "The Twice-dead King: Reign",
+   "titleRu": "Дважды мёртвый царь. На троне",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Дважды мёртвый царь",
+   "fantlabRating": 6.5,
+   "fantlabVoters": 6
+  },
+  {
+   "fantlabId": 36295,
+   "titleEn": "Storm of Iron",
+   "titleRu": "Железный шторм",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Железные Воины",
+   "fantlabRating": 8.01,
+   "fantlabVoters": 90
+  },
+  {
+   "fantlabId": 1122239,
+   "titleEn": "Lucius: The Faultless Blade",
+   "titleRu": "Люций. Безупречный клинок",
+   "ru": "official",
+   "authors": [
+    "Ian St. Martin"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Люций",
+   "fantlabRating": 7.16,
+   "fantlabVoters": 37
+  },
+  {
+   "fantlabId": 361153,
+   "titleEn": "Soul Hunter",
+   "titleRu": "Ловец душ",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Повелители Ночи",
+   "fantlabRating": 8.27,
+   "fantlabVoters": 198
+  },
+  {
+   "fantlabId": 361155,
+   "titleEn": "Blood Reaver",
+   "titleRu": "Кровавый Корсар",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2011,
+   "fantlabType": "novel",
+   "fantlabSeries": "Повелители Ночи",
+   "fantlabRating": 8.21,
+   "fantlabVoters": 160
+  },
+  {
+   "fantlabId": 361156,
+   "titleEn": "Void Stalker",
+   "titleRu": "Разведчик пустоты",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Повелители Ночи",
+   "fantlabRating": 8.32,
+   "fantlabVoters": 136
+  },
+  {
+   "fantlabId": 346310,
+   "titleEn": "Path of the Renegade",
+   "titleRu": "Путь Отступника",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути тёмных эльдаров",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 50
+  },
+  {
+   "fantlabId": 759848,
+   "titleEn": "The Masque of Vyle",
+   "titleRu": "Маскарад Вайла",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2013,
+   "fantlabType": "novella",
+   "fantlabSeries": "Пути тёмных эльдаров",
+   "fantlabRating": 8.68,
+   "fantlabVoters": 34
+  },
+  {
+   "fantlabId": 473975,
+   "titleEn": "Path of the Incubus",
+   "titleRu": "Путь Инкуба",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути тёмных эльдаров",
+   "fantlabRating": 8.06,
+   "fantlabVoters": 47
+  },
+  {
+   "fantlabId": 759847,
+   "titleEn": "Path of the Archon",
+   "titleRu": "Путь Архонта",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути тёмных эльдаров",
+   "fantlabRating": 8.16,
+   "fantlabVoters": 44
+  },
+  {
+   "fantlabId": 473972,
+   "titleEn": "Path of the Warrior",
+   "titleRu": "Путь Воина",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути эльдаров",
+   "fantlabRating": 7.27,
+   "fantlabVoters": 56
+  },
+  {
+   "fantlabId": 473973,
+   "titleEn": "Path of the Seer",
+   "titleRu": "Путь Провидца",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2011,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути эльдаров",
+   "fantlabRating": 7.63,
+   "fantlabVoters": 30
+  },
+  {
+   "fantlabId": 473974,
+   "titleEn": "Path of the Outcast",
+   "titleRu": "Путь Изгоя",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пути эльдаров",
+   "fantlabRating": 7.76,
+   "fantlabVoters": 29
+  },
+  {
+   "fantlabId": 1350292,
+   "titleEn": "The Infinite and The Divine",
+   "titleRu": "Неисчислимый и Предсказывающий",
+   "ru": "official",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тразин Неисчислимый и Орикан Предсказатель",
+   "fantlabRating": 7.94,
+   "fantlabVoters": 36
+  },
+  {
+   "fantlabId": 1342206,
+   "titleEn": "Brutal Kunnin",
+   "titleRu": "Зверская хитрость",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Уфтхак Чёрный Гребень",
+   "fantlabRating": 7.69,
+   "fantlabVoters": 52
+  },
+  {
+   "fantlabId": 866789,
+   "titleEn": "Fabius Bile: Primogenitor",
+   "titleRu": "Фабий Байл. Прародитель",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2016,
+   "fantlabType": "novel",
+   "fantlabSeries": "Фабий Байл",
+   "fantlabRating": 7.84,
+   "fantlabVoters": 68
+  },
+  {
+   "fantlabId": 988821,
+   "titleEn": "Fabius Bile: Clonelord",
+   "titleRu": "Фабий Байл. Повелитель клонов",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Фабий Байл",
+   "fantlabRating": 8.19,
+   "fantlabVoters": 47
+  },
+  {
+   "fantlabId": 1312691,
+   "titleEn": "Fabius Bile: Manflayer",
+   "titleRu": "Фабий Байл. Живодёр",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Фабий Байл",
+   "fantlabRating": 7.7,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 710418,
+   "titleEn": "The Talon of Horus",
+   "titleRu": "Коготь Хоруса",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Чёрный Легион",
+   "fantlabRating": 8.11,
+   "fantlabVoters": 87
+  },
+  {
+   "fantlabId": 939737,
+   "titleEn": "Black Legion",
+   "titleRu": "Чёрный Легион",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Чёрный Легион",
+   "fantlabRating": 8.14,
+   "fantlabVoters": 58
+  },
+  {
+   "fantlabId": 1005623,
+   "titleEn": "Farsight: Crisis of Faith",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Phil Kelly"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Farsight",
+   "fantlabRating": 6.25,
+   "fantlabVoters": 4
+  },
+  {
+   "fantlabId": 59137,
+   "titleEn": "Dark Apostle",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Word Bearers",
+   "fantlabRating": 7.97,
+   "fantlabVoters": 65
+  },
+  {
+   "fantlabId": 407287,
+   "titleEn": "Dark Disciple",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Word Bearers",
+   "fantlabRating": 8.19,
+   "fantlabVoters": 42
+  },
+  {
+   "fantlabId": 407288,
+   "titleEn": "Dark Creed",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Word Bearers",
+   "fantlabRating": 8.4,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 1649973,
+   "titleEn": "Shadowsun: The Patient Hunter",
+   "titleRu": "Тень Солнца. Терпеливая охотница",
+   "ru": "fan",
+   "authors": [
+    "Phil Kelly"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 6.22,
+   "fantlabVoters": 9
+  },
+  {
+   "fantlabId": null,
+   "titleEn": "Severed",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": null,
+   "fantlabVoters": 0
+  }
+ ]
+}

@@ -1,0 +1,5585 @@
+[
+ {
+  "fantlabId": 443089,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Перекрёстный огонь",
+  "titleEn": "Crossfire",
+  "year": 2003,
+  "authorsRu": [
+   "Мэтью Фаррер"
+  ],
+  "authorIds": [
+   16922
+  ],
+  "rating": 7.58,
+  "voters": 59,
+  "series": [
+   "Арбитр"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 443090,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Наследие",
+  "titleEn": "Legacy",
+  "year": 2004,
+  "authorsRu": [
+   "Мэтью Фаррер"
+  ],
+  "authorIds": [
+   16922
+  ],
+  "rating": 8.02,
+  "voters": 47,
+  "series": [
+   "Арбитр"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 443091,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Слепцы",
+  "titleEn": "Blind",
+  "year": 2006,
+  "authorsRu": [
+   "Мэтью Фаррер"
+  ],
+  "authorIds": [
+   16922
+  ],
+  "rating": 7.86,
+  "voters": 44,
+  "series": [
+   "Арбитр"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 828874,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ариман. Изгнанник",
+  "titleEn": "Ahriman: Exile",
+  "year": 2013,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.61,
+  "voters": 67,
+  "series": [
+   "Ариман"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 828875,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ариман. Колдун",
+  "titleEn": "Ahriman: Sorcerer",
+  "year": 2014,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.95,
+  "voters": 58,
+  "series": [
+   "Ариман"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 828876,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ариман. Неизменённый",
+  "titleEn": "Ahriman: Unchanged",
+  "year": 2015,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 8,
+  "voters": 49,
+  "series": [
+   "Ариман"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1550297,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ассасинорум. Делатель королей",
+  "titleEn": "Assassinorum: Kingmaker",
+  "year": 2022,
+  "authorsRu": [
+   "Роберт Раф"
+  ],
+  "authorIds": [
+   88240
+  ],
+  "rating": 7.5,
+  "voters": 12,
+  "series": [
+   "Ассасинорум"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1503418,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Стальная поступь",
+  "titleEn": "Steel Tread",
+  "year": 2021,
+  "authorsRu": [
+   "Энди Кларк"
+  ],
+  "authorIds": [
+   69090
+  ],
+  "rating": 5.67,
+  "voters": 3,
+  "series": [
+   "Астра Милитарум",
+   "Хадейя Эцул"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1653877,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Witchbringer",
+  "year": 2022,
+  "authorsRu": [
+   "Стивен Б. Фишер"
+  ],
+  "authorIds": [
+   75395
+  ],
+  "rating": 0,
+  "voters": 0,
+  "series": [
+   "Астра Милитарум"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 336292,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Хельсрич",
+  "titleEn": "Helsreach",
+  "year": 2010,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 7.9,
+  "voters": 136,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 336297,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Битва за Клык",
+  "titleEn": "Battle of the Fang",
+  "year": 2011,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.17,
+  "voters": 92,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 710421,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Гибель Единства",
+  "titleEn": "The Death of Integrity",
+  "year": 2013,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.2,
+  "voters": 40,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 858169,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Монолит Ангрона",
+  "titleEn": "Angron's Monolith",
+  "year": 2014,
+  "authorsRu": [
+   "Стив Лайонс"
+  ],
+  "authorIds": [
+   17300
+  ],
+  "rating": 7.94,
+  "voters": 32,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 710416,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Кровь и огонь",
+  "titleEn": "Blood and Fire",
+  "year": 2015,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 7.72,
+  "voters": 46,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 851279,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Шторм в Дамокловом заливе",
+  "titleEn": "Storm of Damocles",
+  "year": 2016,
+  "authorsRu": [
+   "Джастин Д. Хилл"
+  ],
+  "authorIds": [
+   63519
+  ],
+  "rating": 8.23,
+  "voters": 22,
+  "series": [
+   "Битвы Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1201390,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Велизарий Коул. Великий труд",
+  "titleEn": "Belisarius Cawl: The Great Work",
+  "year": 2019,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.92,
+  "voters": 48,
+  "series": [
+   "Велизарий Коул"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1779051,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Генный отец",
+  "titleEn": "Genefather",
+  "year": 2023,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.1,
+  "voters": 21,
+  "series": [
+   "Велизарий Коул"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1445374,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Дважды мёртвый царь. На грани",
+  "titleEn": "The Twice-dead King: Ruin",
+  "year": 2021,
+  "authorsRu": [
+   "Нейт Кроули"
+  ],
+  "authorIds": [
+   61095
+  ],
+  "rating": 8.29,
+  "voters": 7,
+  "series": [
+   "Дважды мёртвый царь"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1522827,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Дважды мёртвый царь. На троне",
+  "titleEn": "The Twice-dead King: Reign",
+  "year": 2022,
+  "authorsRu": [
+   "Нейт Кроули"
+  ],
+  "authorIds": [
+   61095
+  ],
+  "rating": 6.5,
+  "voters": 6,
+  "series": [
+   "Дважды мёртвый царь"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 58546,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Галактика в огне",
+  "titleEn": "Galaxy in Flames",
+  "year": 2006,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 8.1,
+  "voters": 784,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36311,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Лживые боги",
+  "titleEn": "False Gods",
+  "year": 2006,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.92,
+  "voters": 851,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36166,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Возвышение Хоруса",
+  "titleEn": "Horus Rising",
+  "year": 2006,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.84,
+  "voters": 1186,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 65013,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Полёт «Эйзенштейна»",
+  "titleEn": "The Flight of the Eisenstein",
+  "year": 2007,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 7.94,
+  "voters": 707,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 55737,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фулгрим",
+  "titleEn": "Fulgrim",
+  "year": 2007,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.96,
+  "voters": 597,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 65016,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Легион",
+  "titleEn": "Legion",
+  "year": 2008,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.97,
+  "voters": 533,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 127949,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Механикум",
+  "titleEn": "Mechanicum",
+  "year": 2008,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.83,
+  "voters": 377,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 283118,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Падшие Ангелы",
+  "titleEn": "Fallen Angels",
+  "year": 2009,
+  "authorsRu": [
+   "Майк Ли"
+  ],
+  "authorIds": [
+   858
+  ],
+  "rating": 7.5,
+  "voters": 300,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 283119,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Тысяча сынов",
+  "titleEn": "A Thousand Sons",
+  "year": 2010,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 8.36,
+  "voters": 373,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 283122,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Первый Еретик",
+  "titleEn": "The First Heretic",
+  "year": 2010,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.37,
+  "voters": 346,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 283121,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Сожжение Просперо",
+  "titleEn": "Prospero Burns",
+  "year": 2010,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.93,
+  "voters": 356,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 283120,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Немезида",
+  "titleEn": "Nemesis",
+  "year": 2010,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 7.85,
+  "voters": 291,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 356585,
+  "universe": "40k",
+  "type": "anthology",
+  "titleRu": "Эпоха тьмы",
+  "titleEn": "Age of Darkness",
+  "year": 2011,
+  "authorsRu": [
+   "Кристиан Данн"
+  ],
+  "authorIds": [
+   4025
+  ],
+  "rating": 7.62,
+  "voters": 229,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 310302,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Отверженные мертвецы",
+  "titleEn": "The Outcast Dead",
+  "year": 2011,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.44,
+  "voters": 239,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 572386,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Предатель",
+  "titleEn": "Betrayer",
+  "year": 2012,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.46,
+  "voters": 202,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 345065,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Не ведая страха",
+  "titleEn": "Know No Fear",
+  "year": 2012,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.35,
+  "voters": 268,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 391369,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Где Ангел не решится сделать шаг",
+  "titleEn": "Fear to Tread",
+  "year": 2012,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 8.11,
+  "voters": 219,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 426614,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ангел Экстерминатус",
+  "titleEn": "Angel Exterminatus",
+  "year": 2012,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 8.05,
+  "voters": 194,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 458257,
+  "universe": "40k",
+  "type": "anthology",
+  "titleRu": "Тени предательства",
+  "titleEn": "Shadows of Treachery",
+  "year": 2012,
+  "authorsRu": [
+   "Кристиан Данн",
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   4025,
+   16919
+  ],
+  "rating": 7.87,
+  "voters": 172,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 310768,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Потерянное освобождение",
+  "titleEn": "Deliverance Lost",
+  "year": 2012,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.72,
+  "voters": 229,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 596776,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Забытая Империя",
+  "titleEn": "The Unremembered Empire",
+  "year": 2013,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.49,
+  "voters": 198,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 777864,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Шрамы",
+  "titleEn": "Scars",
+  "year": 2013,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.01,
+  "voters": 156,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 709616,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Вулкан жив",
+  "titleEn": "Vulkan Lives",
+  "year": 2013,
+  "authorsRu": [
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   16919
+  ],
+  "rating": 7.49,
+  "voters": 152,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 777929,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Дух мщения",
+  "titleEn": "Vengeful Spirit",
+  "year": 2014,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 8.24,
+  "voters": 163,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 914482,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фарос",
+  "titleEn": "Pharos",
+  "year": 2015,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.95,
+  "voters": 110,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 801187,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Смертельный огонь",
+  "titleEn": "Deathfire",
+  "year": 2015,
+  "authorsRu": [
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   16919
+  ],
+  "rating": 7.45,
+  "voters": 99,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 941814,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Небес",
+  "titleEn": "The Path of Heaven",
+  "year": 2016,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.15,
+  "voters": 101,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 942739,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Повелитель человечества",
+  "titleEn": "The Master of Mankind",
+  "year": 2016,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.06,
+  "voters": 120,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 941819,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Преторианец Дорна",
+  "titleEn": "Praetorian of Dorn",
+  "year": 2016,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.92,
+  "voters": 89,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 865458,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ангелы Калибана",
+  "titleEn": "Angels of Caliban",
+  "year": 2016,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.64,
+  "voters": 87,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 915589,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Пертурабо. Молот Олимпии",
+  "titleEn": "Perturabo: The Hammer of Olympia",
+  "year": 2017,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.17,
+  "voters": 99,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 908261,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Магнус Красный. Повелитель Просперо",
+  "titleEn": "Magnus the Red: Master of Prospero",
+  "year": 2017,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 8.12,
+  "voters": 97,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 873765,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Леман Русс. Великий Волк",
+  "titleEn": "Leman Russ: The Great Wolf",
+  "year": 2017,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.05,
+  "voters": 94,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 943352,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Фулгрим. Палатинский Феникс",
+  "titleEn": "Fulgrim: The Palatine Phoenix",
+  "year": 2017,
+  "authorsRu": [
+   "Джош Рейнольдс"
+  ],
+  "authorIds": [
+   12113
+  ],
+  "rating": 7.72,
+  "voters": 82,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 989157,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Гарро",
+  "titleEn": "Garro",
+  "year": 2017,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 7.71,
+  "voters": 82,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 989154,
+  "universe": "40k",
+  "type": "anthology",
+  "titleRu": "Талларн",
+  "titleEn": "Tallarn",
+  "year": 2017,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.73,
+  "voters": 64,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 942741,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Лоргар. Носитель Слова",
+  "titleEn": "Lorgar: Bearer of the Word",
+  "year": 2017,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.54,
+  "voters": 92,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 942740,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Алый король",
+  "titleEn": "The Crimson King",
+  "year": 2017,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.59,
+  "voters": 75,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1054845,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Рабы тьмы",
+  "titleEn": "Slaves to Darkness",
+  "year": 2018,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.98,
+  "voters": 65,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 988827,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Джагатай-Хан. Боевой Ястреб Чогориса",
+  "titleEn": "Jaghatai Khan: Warhawk of Chogoris",
+  "year": 2018,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 7.9,
+  "voters": 69,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 997353,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Волчья Погибель",
+  "titleEn": "Wolfsbane",
+  "year": 2018,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.85,
+  "voters": 73,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1151569,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Конрад Курц. Ночной Призрак",
+  "titleEn": "Konrad Curze: The Night Haunter",
+  "year": 2019,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.42,
+  "voters": 88,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1127499,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Ангрон. Раб Нуцерии",
+  "titleEn": "Angron: Slave of Nuceria",
+  "year": 2019,
+  "authorsRu": [
+   "Иэн Сент-Мартин"
+  ],
+  "authorIds": [
+   70293
+  ],
+  "rating": 8.35,
+  "voters": 91,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1210026,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Заблудшие и проклятые",
+  "titleEn": "The Lost and the Damned",
+  "year": 2019,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.05,
+  "voters": 82,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1127493,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Погребённый кинжал",
+  "titleEn": "The Buried Dagger",
+  "year": 2019,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 8.15,
+  "voters": 60,
+  "series": [
+   "Ересь Хоруса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1219199,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Вальдор. Рождение Империума",
+  "titleEn": "Valdor: Birth of the Imperium",
+  "year": 2019,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 7.89,
+  "voters": 90,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Персонажи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1097541,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Солнечная война",
+  "titleEn": "The Solar War",
+  "year": 2019,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.73,
+  "voters": 89,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1252209,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Первая стена",
+  "titleEn": "The First Wall",
+  "year": 2019,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.47,
+  "voters": 72,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1302332,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Под знаком Сатурна",
+  "titleEn": "Saturnine",
+  "year": 2020,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.56,
+  "voters": 77,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1345154,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Ярость Магнуса",
+  "titleEn": "The Fury of Magnus",
+  "year": 2020,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.98,
+  "voters": 60,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1359415,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Лютер. Первый из Падших",
+  "titleEn": "Luther: First of the Fallen",
+  "year": 2020,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.76,
+  "voters": 45,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Персонажи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1252210,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Сыны Селенар",
+  "titleEn": "Sons of Selenar",
+  "year": 2020,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.58,
+  "voters": 66,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1445372,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Боевой Ястреб",
+  "titleEn": "Warhawk",
+  "year": 2021,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.14,
+  "voters": 59,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1418589,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Альфарий. Голова Гидры",
+  "titleEn": "Alpharius: Head of the Hydra",
+  "year": 2021,
+  "authorsRu": [
+   "Майк Брукс"
+  ],
+  "authorIds": [
+   66415
+  ],
+  "rating": 7.9,
+  "voters": 70,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1419766,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мортис",
+  "titleEn": "Mortis",
+  "year": 2021,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.78,
+  "voters": 58,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1617261,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Отголоски Вечности",
+  "titleEn": "Echoes of Eternity",
+  "year": 2022,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.49,
+  "voters": 55,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1538853,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Сигизмунд. Вечный крестоносец",
+  "titleEn": "Sigismund: The Eternal Crusader",
+  "year": 2022,
+  "authorsRu": [
+   "Джон Френч"
+  ],
+  "authorIds": [
+   25060
+  ],
+  "rating": 7.86,
+  "voters": 44,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Персонажи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1660163,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Сангвиний. Великий Ангел",
+  "titleEn": "Sanguinius: The Great Angel",
+  "year": 2022,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 7.77,
+  "voters": 52,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1613059,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Рогал Дорн. Крестоносец Императора",
+  "titleEn": "Rogal Dorn: The Emperor’s Crusader",
+  "year": 2022,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.78,
+  "voters": 40,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Примархи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1692101,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Конец и смерть. Том I",
+  "titleEn": "The End and the Death: Volume I",
+  "year": 2023,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.56,
+  "voters": 55,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1797305,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Конец и смерть. Том II",
+  "titleEn": "The End and the Death: Volume II",
+  "year": 2023,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.12,
+  "voters": 49,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1679010,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Гарро. Рыцарь в сером",
+  "titleEn": "Garro: Knight of Grey",
+  "year": 2023,
+  "authorsRu": [
+   "Джеймс Сваллоу"
+  ],
+  "authorIds": [
+   2232
+  ],
+  "rating": 7.87,
+  "voters": 46,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1824520,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Конец и смерть. Том III",
+  "titleEn": "The End and the Death: Volume III",
+  "year": 2024,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.74,
+  "voters": 43,
+  "series": [
+   "Ересь Хоруса",
+   "Ересь Хоруса. Осада Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36295,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Железный шторм",
+  "titleEn": "Storm of Iron",
+  "year": 2002,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 8.01,
+  "voters": 90,
+  "series": [
+   "Железные Воины"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 474526,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Братья Змея",
+  "titleEn": "Brothers of the Snake",
+  "year": 2007,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 6.94,
+  "voters": 62,
+  "series": [
+   "Железные Змеи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1007182,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Опустошение Баала",
+  "titleEn": "The Devastation of Baal",
+  "year": 2017,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8,
+  "voters": 48,
+  "series": [
+   "Завоевания Космодесанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 316075,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Пятнадцать часов",
+  "titleEn": "Fifteen Hours",
+  "year": 2005,
+  "authorsRu": [
+   "Митчелл Сканлон"
+  ],
+  "authorIds": [
+   3138
+  ],
+  "rating": 7.78,
+  "voters": 179,
+  "series": [
+   "Имперская Гвардия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 398530,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кровь Кадии",
+  "titleEn": "Cadian Blood",
+  "year": 2009,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.06,
+  "voters": 113,
+  "series": [
+   "Имперская Гвардия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 391044,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Безбашенные",
+  "titleEn": "Gunheads",
+  "year": 2009,
+  "authorsRu": [
+   "Стив Паркер"
+  ],
+  "authorIds": [
+   22639
+  ],
+  "rating": 7.86,
+  "voters": 56,
+  "series": [
+   "Имперская Гвардия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 422342,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мертвецы идут",
+  "titleEn": "Dead Men Walking",
+  "year": 2010,
+  "authorsRu": [
+   "Стив Лайонс"
+  ],
+  "authorIds": [
+   17300
+  ],
+  "rating": 7.82,
+  "voters": 131,
+  "series": [
+   "Имперская Гвардия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36123,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Инквизитор. Ордо Маллеус",
+  "titleEn": "Malleus",
+  "year": 2001,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.24,
+  "voters": 1032,
+  "series": [
+   "Инквизитор",
+   "Эйзенхорн"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36124,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Инквизитор. Ордо Ксенос",
+  "titleEn": "Xenos",
+  "year": 2001,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.12,
+  "voters": 1206,
+  "series": [
+   "Инквизитор",
+   "Эйзенхорн"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36128,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Инквизитор. Ордо Еретикус",
+  "titleEn": "Hereticus",
+  "year": 2002,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.33,
+  "voters": 983,
+  "series": [
+   "Инквизитор",
+   "Эйзенхорн"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36151,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Рейвенор",
+  "titleEn": "Ravenor",
+  "year": 2004,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.95,
+  "voters": 644,
+  "series": [
+   "Инквизитор",
+   "Рейвенор"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36152,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Возвращение Рейвенора",
+  "titleEn": "Ravenor Returned",
+  "year": 2005,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.23,
+  "voters": 578,
+  "series": [
+   "Инквизитор",
+   "Рейвенор"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36155,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Рейвенор — отступник",
+  "titleEn": "Ravenor Rogue",
+  "year": 2007,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.15,
+  "voters": 503,
+  "series": [
+   "Инквизитор",
+   "Рейвенор"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 410868,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Пария",
+  "titleEn": "Pariah",
+  "year": 2012,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.01,
+  "voters": 184,
+  "series": [
+   "Инквизитор",
+   "Биквин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1013161,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Магос",
+  "titleEn": "The Magos​",
+  "year": 2018,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.98,
+  "voters": 121,
+  "series": [
+   "Инквизитор"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1402628,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Покаянница",
+  "titleEn": "Penitent",
+  "year": 2021,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.12,
+  "voters": 80,
+  "series": [
+   "Инквизитор",
+   "Биквин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59095,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Испивающие Души",
+  "titleEn": "Soul Drinker",
+  "year": 2002,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.51,
+  "voters": 198,
+  "series": [
+   "Испивающие Души"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59097,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Чаша Скорби",
+  "titleEn": "The Bleeding Chalice",
+  "year": 2003,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.52,
+  "voters": 132,
+  "series": [
+   "Испивающие Души"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59100,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Багровые слёзы",
+  "titleEn": "Crimson Tears",
+  "year": 2005,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.59,
+  "voters": 112,
+  "series": [
+   "Испивающие Души"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 143720,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Выкованные в преисподней",
+  "titleEn": "Hellforged",
+  "year": 2009,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.97,
+  "voters": 37,
+  "series": [
+   "Испивающие Души"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 745920,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фаланга",
+  "titleEn": "Phalanx",
+  "year": 2012,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.89,
+  "voters": 35,
+  "series": [
+   "Испивающие Души"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1060505,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кадия стоит",
+  "titleEn": "Cadia Stands",
+  "year": 2017,
+  "authorsRu": [
+   "Джастин Д. Хилл"
+  ],
+  "authorIds": [
+   63519
+  ],
+  "rating": 7.39,
+  "voters": 23,
+  "series": [
+   "Кадия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1105331,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Честь Кадии",
+  "titleEn": "Cadian Honour",
+  "year": 2018,
+  "authorsRu": [
+   "Джастин Д. Хилл"
+  ],
+  "authorIds": [
+   63519
+  ],
+  "rating": 7.36,
+  "voters": 14,
+  "series": [
+   "Кадия"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 37611,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "За Императора!",
+  "titleEn": "For the Emperor",
+  "year": 2003,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.08,
+  "voters": 710,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 37615,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ледяные пещеры",
+  "titleEn": "Caves of Ice",
+  "year": 2004,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.96,
+  "voters": 556,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 37618,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Игра предателя",
+  "titleEn": "The Traitor’s Hand",
+  "year": 2005,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.96,
+  "voters": 431,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 37617,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Смерть или слава",
+  "titleEn": "Death or Glory",
+  "year": 2006,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.94,
+  "voters": 359,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 122049,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Зов долга",
+  "titleEn": "Duty Calls",
+  "year": 2007,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.92,
+  "voters": 304,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 122050,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Последний бой Каина",
+  "titleEn": "Cain's Last Stand",
+  "year": 2008,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.02,
+  "voters": 247,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 323693,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Избранные воины Императора",
+  "titleEn": "The Emperor's Finest",
+  "year": 2010,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.93,
+  "voters": 147,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 312404,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Последний рубеж",
+  "titleEn": "The Last Ditch",
+  "year": 2012,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.08,
+  "voters": 133,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 742235,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Старые солдаты не умирают",
+  "titleEn": "Old Soldiers Never Die",
+  "year": 2012,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.68,
+  "voters": 57,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 426588,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Высшее Благо",
+  "titleEn": "The Greater Good",
+  "year": 2013,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.02,
+  "voters": 104,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1065087,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Врагов выбирают",
+  "titleEn": "Choose Your Enemies",
+  "year": 2018,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 7.88,
+  "voters": 41,
+  "series": [
+   "Кайафас Каин"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 932305,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Караул Смерти",
+  "titleEn": "Deathwatch",
+  "year": 2013,
+  "authorsRu": [
+   "Стив Паркер"
+  ],
+  "authorIds": [
+   22639
+  ],
+  "rating": 8.25,
+  "voters": 40,
+  "series": [
+   "Караул Смерти"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1149366,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Shadowbreaker",
+  "year": 2019,
+  "authorsRu": [
+   "Стив Паркер"
+  ],
+  "authorIds": [
+   22639
+  ],
+  "rating": 8.1,
+  "voters": 21,
+  "series": [
+   "Караул Смерти"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 880418,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кархародоны. Красная подать",
+  "titleEn": "Carcharodons: Red Tithe",
+  "year": 2017,
+  "authorsRu": [
+   "Робби Макнивен"
+  ],
+  "authorIds": [
+   59721
+  ],
+  "rating": 7.85,
+  "voters": 61,
+  "series": [
+   "Кархародоны"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1012375,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кархародоны. Внешняя тьма",
+  "titleEn": "Carcharodons: Outer Dark",
+  "year": 2018,
+  "authorsRu": [
+   "Робби Макнивен"
+  ],
+  "authorIds": [
+   59721
+  ],
+  "rating": 7.95,
+  "voters": 42,
+  "series": [
+   "Кархародоны"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36070,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Космический Волк",
+  "titleEn": "Space Wolf",
+  "year": 1999,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.61,
+  "voters": 371,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36071,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Коготь Рагнара",
+  "titleEn": "Ragnar’s Claw",
+  "year": 1999,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.41,
+  "voters": 324,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36080,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Серый Охотник",
+  "titleEn": "Grey Hunter",
+  "year": 2002,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.58,
+  "voters": 300,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36090,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Волчий Клинок",
+  "titleEn": "Wolfblade",
+  "year": 2003,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.49,
+  "voters": 271,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 83771,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Сыны Фенриса",
+  "titleEn": "Sons of Fenris",
+  "year": 2007,
+  "authorsRu": [
+   "Ли Лайтнер"
+  ],
+  "authorIds": [
+   4158
+  ],
+  "rating": 7.37,
+  "voters": 158,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 83772,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Честь Волка",
+  "titleEn": "Wolfs Honour",
+  "year": 2008,
+  "authorsRu": [
+   "Ли Лайтнер"
+  ],
+  "authorIds": [
+   4158
+  ],
+  "rating": 7.58,
+  "voters": 117,
+  "series": [
+   "Космический Волк"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 450105,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ангел Огня",
+  "titleEn": "Angel of Fire",
+  "year": 2012,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 8.02,
+  "voters": 47,
+  "series": [
+   "Крестовый поход Махариуса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 437961,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кулак Деметрия",
+  "titleEn": "Fist of Demetrius",
+  "year": 2013,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.79,
+  "voters": 43,
+  "series": [
+   "Крестовый поход Махариуса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 763523,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Закат Махариуса",
+  "titleEn": "Fall of Macharius",
+  "year": 2014,
+  "authorsRu": [
+   "Уильям Кинг"
+  ],
+  "authorIds": [
+   852
+  ],
+  "rating": 7.74,
+  "voters": 43,
+  "series": [
+   "Крестовый поход Махариуса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1016811,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Крипты Терры. Прогнивший Трон",
+  "titleEn": "Vaults of Terra: The Carrion Throne",
+  "year": 2017,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.08,
+  "voters": 113,
+  "series": [
+   "Крипты Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1177584,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Крипты Терры. Полая гора",
+  "titleEn": "Vaults of Terra: The Hollow Mountain",
+  "year": 2019,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.07,
+  "voters": 61,
+  "series": [
+   "Крипты Терры"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 436825,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кровь Асахейма",
+  "titleEn": "Blood of Asaheim",
+  "year": 2013,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.27,
+  "voters": 40,
+  "series": [
+   "Кровь Асахейма"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 761578,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Зовущий бурю",
+  "titleEn": "Stormcaller",
+  "year": 2014,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.49,
+  "voters": 35,
+  "series": [
+   "Кровь Асахейма"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 388201,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Жрецы Марса",
+  "titleEn": "Priests of Mars",
+  "year": 2012,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.88,
+  "voters": 52,
+  "series": [
+   "Кузницы Марса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 770364,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Владыки Марса",
+  "titleEn": "Lords of Mars",
+  "year": 2013,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.67,
+  "voters": 45,
+  "series": [
+   "Кузницы Марса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 770365,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Боги Марса",
+  "titleEn": "Gods of Mars",
+  "year": 2014,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.8,
+  "voters": 44,
+  "series": [
+   "Кузницы Марса"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 710415,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Рагнар Чёрная Грива",
+  "titleEn": "Ragnar Blackmane",
+  "year": 2015,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.42,
+  "voters": 50,
+  "series": [
+   "Легенды Космического Десанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 926900,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Лемартес",
+  "titleEn": "Lemartes",
+  "year": 2016,
+  "authorsRu": [
+   "Дэвид Аннандейл"
+  ],
+  "authorIds": [
+   35279
+  ],
+  "rating": 7.71,
+  "voters": 35,
+  "series": [
+   "Легенды Космического Десанта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 842682,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Культы генокрадов",
+  "titleEn": "Genestealer Cults",
+  "year": 2016,
+  "authorsRu": [
+   "Петер Фехервари"
+  ],
+  "authorIds": [
+   28620
+  ],
+  "rating": 8.27,
+  "voters": 103,
+  "series": [
+   "Легенды Тёмного Тысячелетия"
+  ],
+  "seriesAlt": [
+   "Тёмный клубок"
+  ],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59107,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Час казни",
+  "titleEn": "Execution Hour",
+  "year": 2001,
+  "authorsRu": [
+   "Гордон Ренни"
+  ],
+  "authorIds": [
+   1681
+  ],
+  "rating": 7.85,
+  "voters": 244,
+  "series": [
+   "Лорд Солар Махариус"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59111,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Перекрёсток Судеб",
+  "titleEn": "Shadowpoint",
+  "year": 2003,
+  "authorsRu": [
+   "Гордон Ренни"
+  ],
+  "authorIds": [
+   1681
+  ],
+  "rating": 7.96,
+  "voters": 219,
+  "series": [
+   "Лорд Солар Махариус"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1610868,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Неравный бой",
+  "titleEn": "Outgunned",
+  "year": 2022,
+  "authorsRu": [
+   "Дэнни Флауэрс"
+  ],
+  "authorIds": [
+   94232
+  ],
+  "rating": 8.22,
+  "voters": 18,
+  "series": [
+   "Люсиль фон Шард"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1122239,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Люций. Безупречный клинок",
+  "titleEn": "Lucius: The Faultless Blade",
+  "year": 2017,
+  "authorsRu": [
+   "Иэн Сент-Мартин"
+  ],
+  "authorIds": [
+   70293
+  ],
+  "rating": 7.16,
+  "voters": 37,
+  "series": [
+   "Люций"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1016791,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мефистон. Кровь Сангвиния",
+  "titleEn": "Mephiston: Blood of Sanguinius",
+  "year": 2017,
+  "authorsRu": [
+   "Дариус Хинкс"
+  ],
+  "authorIds": [
+   4026
+  ],
+  "rating": 7,
+  "voters": 36,
+  "series": [
+   "Мефистон"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 36114,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Первый и Единственный",
+  "titleEn": "First & Only",
+  "year": 1999,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.64,
+  "voters": 281,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36115,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Создатель Призраков",
+  "titleEn": "Ghostmaker",
+  "year": 2000,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.94,
+  "voters": 176,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36121,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Некрополь",
+  "titleEn": "Necropolis",
+  "year": 2001,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.84,
+  "voters": 137,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36120,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Почётная гвардия",
+  "titleEn": "Honour Guard",
+  "year": 2001,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.66,
+  "voters": 90,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36129,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Танитское оружие",
+  "titleEn": "The Guns of Tanith",
+  "year": 2002,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.67,
+  "voters": 46,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36130,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Верное серебро",
+  "titleEn": "Straight Silver",
+  "year": 2002,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.72,
+  "voters": 40,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36137,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мученики Саббат",
+  "titleEn": "Sabbat Martyr",
+  "year": 2003,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.74,
+  "voters": 42,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36146,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Двуглавый орел",
+  "titleEn": "Double Eagle",
+  "year": 2004,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.46,
+  "voters": 143,
+  "series": [
+   "Миры Саббат"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36153,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Генерал-предатель",
+  "titleEn": "Traitor General",
+  "year": 2004,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.82,
+  "voters": 39,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36156,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Броня презрения",
+  "titleEn": "The Armour of Contempt",
+  "year": 2006,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.71,
+  "voters": 35,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 55518,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Лишь со смертью",
+  "titleEn": "Only in Death",
+  "year": 2007,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.84,
+  "voters": 31,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 117907,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Титаникус",
+  "titleEn": "Titanicus",
+  "year": 2008,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.17,
+  "voters": 135,
+  "series": [
+   "Миры Саббат"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 739761,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Магистр войны",
+  "titleEn": "The Warmaster",
+  "year": 2017,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.22,
+  "voters": 18,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1111928,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Анарх",
+  "titleEn": "The Anarch",
+  "year": 2019,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 8.16,
+  "voters": 19,
+  "series": [
+   "Миры Саббат",
+   "Призраки Гаунта"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1439233,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Urdesh: The Serpent and the Saint",
+  "year": 2021,
+  "authorsRu": [
+   "Мэтью Фаррер"
+  ],
+  "authorIds": [
+   16922
+  ],
+  "rating": 0,
+  "voters": 0,
+  "series": [
+   "Миры Саббат",
+   "Urdesh"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 2016145,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Interceptor City",
+  "year": 2024,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7,
+  "voters": 1,
+  "series": [
+   "Миры Саббат"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 813725,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Junktion",
+  "year": 2005,
+  "authorsRu": [
+   "Мэтью Фаррер"
+  ],
+  "authorIds": [
+   16922
+  ],
+  "rating": 8.44,
+  "voters": 16,
+  "series": [
+   "Некромунда"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1428765,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Огонь во плоти",
+  "titleEn": "Fire Made Flesh",
+  "year": 2021,
+  "authorsRu": [
+   "Дэнни Флауэрс"
+  ],
+  "authorIds": [
+   94232
+  ],
+  "rating": 8.59,
+  "voters": 22,
+  "series": [
+   "Некромунда"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1331448,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мстящий Сын",
+  "titleEn": "Avenging Son",
+  "year": 2020,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.29,
+  "voters": 31,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1395421,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Костяные врата",
+  "titleEn": "The Gate of Bones",
+  "year": 2021,
+  "authorsRu": [
+   "Энди Кларк"
+  ],
+  "authorIds": [
+   69090
+  ],
+  "rating": 7.67,
+  "voters": 21,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1560895,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Трон Света",
+  "titleEn": "Throne of Light",
+  "year": 2022,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.38,
+  "voters": 16,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1692102,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Железное королевство",
+  "titleEn": "The Iron Kingdom",
+  "year": 2023,
+  "authorsRu": [
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   16919
+  ],
+  "rating": 7.82,
+  "voters": 11,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1748267,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Грoбница мучeницы",
+  "titleEn": "The Martyr's Tomb",
+  "year": 2023,
+  "authorsRu": [
+   "Марк Коллинз"
+  ],
+  "authorIds": [
+   95425
+  ],
+  "rating": 5.8,
+  "voters": 5,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1807850,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Море душ",
+  "titleEn": "Sea of Souls",
+  "year": 2023,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 7.83,
+  "voters": 6,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1942133,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Рука Абаддона",
+  "titleEn": "Hand of Abaddon",
+  "year": 2024,
+  "authorsRu": [
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   16919
+  ],
+  "rating": 4.33,
+  "voters": 3,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 2156016,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Безмолвный Царь",
+  "titleEn": "The Silent King",
+  "year": 2025,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 6.5,
+  "voters": 6,
+  "series": [
+   "Огненная Заря"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 361153,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ловец душ",
+  "titleEn": "Soul Hunter",
+  "year": 2010,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.27,
+  "voters": 198,
+  "series": [
+   "Повелители Ночи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 361155,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кровавый Корсар",
+  "titleEn": "Blood Reaver",
+  "year": 2011,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.21,
+  "voters": 160,
+  "series": [
+   "Повелители Ночи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 361156,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Разведчик пустоты",
+  "titleEn": "Void Stalker",
+  "year": 2012,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.32,
+  "voters": 136,
+  "series": [
+   "Повелители Ночи"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 770367,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Я — Резня",
+  "titleEn": "I Am Slaughter",
+  "year": 2015,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 7.47,
+  "voters": 74,
+  "series": [
+   "Пришествие Зверя"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 858569,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Обезглавливание",
+  "titleEn": "The Beheading",
+  "year": 2016,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.75,
+  "voters": 40,
+  "series": [
+   "Пришествие Зверя"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 346310,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Отступника",
+  "titleEn": "Path of the Renegade",
+  "year": 2012,
+  "authorsRu": [
+   "Энди Чемберс"
+  ],
+  "authorIds": [
+   23649
+  ],
+  "rating": 7.96,
+  "voters": 50,
+  "series": [
+   "Пути тёмных эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 759848,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Маскарад Вайла",
+  "titleEn": "The Masque of Vyle",
+  "year": 2013,
+  "authorsRu": [
+   "Энди Чемберс"
+  ],
+  "authorIds": [
+   23649
+  ],
+  "rating": 8.68,
+  "voters": 34,
+  "series": [
+   "Пути тёмных эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 473975,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Инкуба",
+  "titleEn": "Path of the Incubus",
+  "year": 2013,
+  "authorsRu": [
+   "Энди Чемберс"
+  ],
+  "authorIds": [
+   23649
+  ],
+  "rating": 8.06,
+  "voters": 47,
+  "series": [
+   "Пути тёмных эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 759847,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Архонта",
+  "titleEn": "Path of the Archon",
+  "year": 2014,
+  "authorsRu": [
+   "Энди Чемберс"
+  ],
+  "authorIds": [
+   23649
+  ],
+  "rating": 8.16,
+  "voters": 44,
+  "series": [
+   "Пути тёмных эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 473972,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Воина",
+  "titleEn": "Path of the Warrior",
+  "year": 2010,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.27,
+  "voters": 56,
+  "series": [
+   "Пути эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 473973,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Провидца",
+  "titleEn": "Path of the Seer",
+  "year": 2011,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.63,
+  "voters": 30,
+  "series": [
+   "Пути эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 473974,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Путь Изгоя",
+  "titleEn": "Path of the Outcast",
+  "year": 2012,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 7.76,
+  "voters": 29,
+  "series": [
+   "Пути эльдаров"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 326549,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Гибельный клинок",
+  "titleEn": "Baneblade",
+  "year": 2013,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.32,
+  "voters": 59,
+  "series": [
+   "Сверхтяжёлые танки"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 958548,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Теневой меч",
+  "titleEn": "Shadowsword",
+  "year": 2016,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.39,
+  "voters": 51,
+  "series": [
+   "Сверхтяжёлые танки"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59099,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Серые Рыцари",
+  "titleEn": "Grey Knights",
+  "year": 2004,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.37,
+  "voters": 220,
+  "series": [
+   "Серые Рыцари"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59101,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Адепты Тьмы",
+  "titleEn": "Dark Adeptus",
+  "year": 2006,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.45,
+  "voters": 193,
+  "series": [
+   "Серые Рыцари"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 59103,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Молот демонов",
+  "titleEn": "Hammer of Daemons",
+  "year": 2008,
+  "authorsRu": [
+   "Бен Каунтер"
+  ],
+  "authorIds": [
+   1503
+  ],
+  "rating": 7.53,
+  "voters": 118,
+  "series": [
+   "Серые Рыцари"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1088369,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": null,
+  "titleEn": "The Bloodied Rose",
+  "year": 2018,
+  "authorsRu": [
+   "Дени Уэйр"
+  ],
+  "authorIds": [
+   35286
+  ],
+  "rating": 8,
+  "voters": 4,
+  "series": [
+   "Сестра Августа Сантора"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 59141,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Искорени еретика",
+  "titleEn": "Scourge the Heretic",
+  "year": 2008,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.22,
+  "voters": 37,
+  "series": [
+   "Тёмная ересь"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 183166,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Невиновность — не доказательство",
+  "titleEn": "Innocence Proves Nothing",
+  "year": 2009,
+  "authorsRu": [
+   "Алекс Стюарт"
+  ],
+  "authorIds": [
+   898
+  ],
+  "rating": 8.44,
+  "voters": 32,
+  "series": [
+   "Тёмная ересь"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1007181,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Тёмный Империум",
+  "titleEn": "Dark Imperium",
+  "year": 2017,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.57,
+  "voters": 58,
+  "series": [
+   "Тёмный Империум"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1078820,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Чумная война",
+  "titleEn": "Dark Imperium: Plague War",
+  "year": 2018,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.73,
+  "voters": 51,
+  "series": [
+   "Тёмный Империум"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1432908,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Божья пагуба",
+  "titleEn": "Dark Imperium: Godblight",
+  "year": 2021,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.13,
+  "voters": 39,
+  "series": [
+   "Тёмный Империум"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 436826,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Каста огня",
+  "titleEn": "Fire Caste",
+  "year": 2013,
+  "authorsRu": [
+   "Петер Фехервари"
+  ],
+  "authorIds": [
+   28620
+  ],
+  "rating": 8.56,
+  "voters": 133,
+  "series": [
+   "Тёмный клубок"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 802056,
+  "universe": "40k",
+  "type": "novella",
+  "titleRu": "Огонь и лёд",
+  "titleEn": "Fire and Ice",
+  "year": 2015,
+  "authorsRu": [
+   "Петер Фехервари"
+  ],
+  "authorIds": [
+   28620
+  ],
+  "rating": 8.16,
+  "voters": 64,
+  "series": [
+   "Тёмный клубок"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1142243,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Инфернальный реквием",
+  "titleEn": "Requiem Infernal",
+  "year": 2019,
+  "authorsRu": [
+   "Петер Фехервари"
+  ],
+  "authorIds": [
+   28620
+  ],
+  "rating": 8.27,
+  "voters": 86,
+  "series": [
+   "Тёмный клубок"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1358846,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Грёза",
+  "titleEn": "The Reverie",
+  "year": 2020,
+  "authorsRu": [
+   "Петер Фехервари"
+  ],
+  "authorIds": [
+   28620
+  ],
+  "rating": 7.96,
+  "voters": 69,
+  "series": [
+   "Тёмный клубок"
+  ],
+  "seriesAlt": [
+   "Warhammer Horror 40,000"
+  ],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1350292,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Неисчислимый и Предсказывающий",
+  "titleEn": "The Infinite and The Divine",
+  "year": 2020,
+  "authorsRu": [
+   "Роберт Раф"
+  ],
+  "authorIds": [
+   88240
+  ],
+  "rating": 7.94,
+  "voters": 36,
+  "series": [
+   "Тразин Неисчислимый и Орикан Предсказатель"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36294,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Несущий ночь",
+  "titleEn": "Nightbringer",
+  "year": 2002,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.48,
+  "voters": 317,
+  "series": [
+   "Ультрамарины"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36303,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Воины Ультрамара",
+  "titleEn": "Warriors of Ultramar",
+  "year": 2003,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.59,
+  "voters": 289,
+  "series": [
+   "Ультрамарины"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 36305,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Чёрное солнце",
+  "titleEn": "Dead Sky, Black Sun",
+  "year": 2004,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.35,
+  "voters": 278,
+  "series": [
+   "Ультрамарины"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 92777,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Зона поражения",
+  "titleEn": "The Killing Ground",
+  "year": 2008,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.52,
+  "voters": 75,
+  "series": [
+   "Ультрамарины"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1342206,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Зверская хитрость",
+  "titleEn": "Brutal Kunnin",
+  "year": 2020,
+  "authorsRu": [
+   "Майк Брукс"
+  ],
+  "authorIds": [
+   66415
+  ],
+  "rating": 7.69,
+  "voters": 52,
+  "series": [
+   "Уфтхак Чёрный Гребень"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 866789,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фабий Байл. Прародитель",
+  "titleEn": "Fabius Bile: Primogenitor",
+  "year": 2016,
+  "authorsRu": [
+   "Джош Рейнольдс"
+  ],
+  "authorIds": [
+   12113
+  ],
+  "rating": 7.84,
+  "voters": 68,
+  "series": [
+   "Фабий Байл"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 988821,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фабий Байл. Повелитель клонов",
+  "titleEn": "Fabius Bile: Clonelord",
+  "year": 2017,
+  "authorsRu": [
+   "Джош Рейнольдс"
+  ],
+  "authorIds": [
+   12113
+  ],
+  "rating": 8.19,
+  "voters": 47,
+  "series": [
+   "Фабий Байл"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1312691,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Фабий Байл. Живодёр",
+  "titleEn": "Fabius Bile: Manflayer",
+  "year": 2020,
+  "authorsRu": [
+   "Джош Рейнольдс"
+  ],
+  "authorIds": [
+   12113
+  ],
+  "rating": 7.7,
+  "voters": 40,
+  "series": [
+   "Фабий Байл"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1016843,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Хранители Трона. Легион Императора",
+  "titleEn": "Watchers of the Throne: The Emperor's Legion",
+  "year": 2017,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.31,
+  "voters": 42,
+  "series": [
+   "Хранители Трона"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1344078,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Хранители Трона. Тень Регента",
+  "titleEn": "Watchers of the Throne: The Regent's Shadow",
+  "year": 2020,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.35,
+  "voters": 40,
+  "series": [
+   "Хранители Трона"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 710418,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Коготь Хоруса",
+  "titleEn": "The Talon of Horus",
+  "year": 2014,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.11,
+  "voters": 87,
+  "series": [
+   "Чёрный Легион"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 939737,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Чёрный Легион",
+  "titleEn": "Black Legion",
+  "year": 2017,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.14,
+  "voters": 58,
+  "series": [
+   "Чёрный Легион"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 192162,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ангелы Тьмы",
+  "titleEn": "Angels of Darkness",
+  "year": 2003,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 8.05,
+  "voters": 79,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 81728,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Повелитель Ночи",
+  "titleEn": "Lord of the Night",
+  "year": 2005,
+  "authorsRu": [
+   "Саймон Спуриэр"
+  ],
+  "authorIds": [
+   4023
+  ],
+  "rating": 8.15,
+  "voters": 226,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 377000,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Дар Императора",
+  "titleEn": "The Emperor's Gift",
+  "year": 2012,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.26,
+  "voters": 117,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 839995,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кхарн. Пожиратель миров",
+  "titleEn": "Khârn: Eater of Worlds",
+  "year": 2014,
+  "authorsRu": [
+   "Энтони Рейнольдс"
+  ],
+  "authorIds": [
+   1683
+  ],
+  "rating": 7.79,
+  "voters": 53,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 912367,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Valedor",
+  "year": 2015,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.75,
+  "voters": 4,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 962013,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Данте",
+  "titleEn": "Dante",
+  "year": 2017,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 8.17,
+  "voters": 41,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1018143,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Саван ночи",
+  "titleEn": "Shroud of Night",
+  "year": 2017,
+  "authorsRu": [
+   "Энди Кларк"
+  ],
+  "authorIds": [
+   69090
+  ],
+  "rating": 7.41,
+  "voters": 34,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1094707,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Копьё Императора",
+  "titleEn": "Spear Of The Emperor",
+  "year": 2018,
+  "authorsRu": [
+   "Аарон Дембски-Боуден"
+  ],
+  "authorIds": [
+   16917
+  ],
+  "rating": 8.51,
+  "voters": 57,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1060504,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Повелители Тишины",
+  "titleEn": "The Lords of Silence",
+  "year": 2018,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8,
+  "voters": 50,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 858189,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Лукас Ловкач",
+  "titleEn": "Lukas the Trickster",
+  "year": 2018,
+  "authorsRu": [
+   "Джош Рейнольдс"
+  ],
+  "authorIds": [
+   12113
+  ],
+  "rating": 8.09,
+  "voters": 35,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1194961,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Обряды Перехода",
+  "titleEn": "Rites of Passage",
+  "year": 2019,
+  "authorsRu": [
+   "Майк Брукс"
+  ],
+  "authorIds": [
+   66415
+  ],
+  "rating": 7.83,
+  "voters": 29,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1312694,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Индомитус",
+  "titleEn": "Indomitus",
+  "year": 2020,
+  "authorsRu": [
+   "Гэв Торп"
+  ],
+  "authorIds": [
+   2241
+  ],
+  "rating": 5.94,
+  "voters": 16,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1435087,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Газгкулл Трака. Пророк ВААА-йны",
+  "titleEn": "Ghazghkull Thraka: Prophet of the Waaagh!",
+  "year": 2021,
+  "authorsRu": [
+   "Нейт Кроули"
+  ],
+  "authorIds": [
+   61095
+  ],
+  "rating": 8.04,
+  "voters": 26,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1640205,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Касркин",
+  "titleEn": "Kasrkin",
+  "year": 2022,
+  "authorsRu": [
+   "Эдоардо Альберт"
+  ],
+  "authorIds": [
+   69364
+  ],
+  "rating": 8.59,
+  "voters": 17,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1610869,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Warboss",
+  "year": 2022,
+  "authorsRu": [
+   "Майк Брукс"
+  ],
+  "authorIds": [
+   66415
+  ],
+  "rating": 2,
+  "voters": 1,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1527586,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "День Вознесения",
+  "titleEn": "Day of Ascension",
+  "year": 2022,
+  "authorsRu": [
+   "Адриан Чайковски"
+  ],
+  "authorIds": [
+   13382
+  ],
+  "rating": 6.71,
+  "voters": 21,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1527588,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Криг",
+  "titleEn": "Krieg",
+  "year": 2022,
+  "authorsRu": [
+   "Стив Лайонс"
+  ],
+  "authorIds": [
+   17300
+  ],
+  "rating": 7.67,
+  "voters": 33,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1718748,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Лев. Сын леса",
+  "titleEn": "The Lion: Son Of The Forest",
+  "year": 2023,
+  "authorsRu": [
+   "Майк Брукс"
+  ],
+  "authorIds": [
+   66415
+  ],
+  "rating": 8.12,
+  "voters": 33,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1792080,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Падение Кадии",
+  "titleEn": "The Fall of Cadia",
+  "year": 2023,
+  "authorsRu": [
+   "Роберт Раф"
+  ],
+  "authorIds": [
+   88240
+  ],
+  "rating": 8.64,
+  "voters": 14,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1743566,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Leviathan",
+  "year": 2023,
+  "authorsRu": [
+   "Дариус Хинкс"
+  ],
+  "authorIds": [
+   4026
+  ],
+  "rating": 5.5,
+  "voters": 2,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1777526,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Крид. Пепел Кадии",
+  "titleEn": "Creed: Ashes of Cadia",
+  "year": 2023,
+  "authorsRu": [
+   "Джуди Рид"
+  ],
+  "authorIds": [
+   115483
+  ],
+  "rating": 3.75,
+  "voters": 4,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1687825,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Ангрон. Красный Ангел",
+  "titleEn": "Angron: The Red Angel",
+  "year": 2023,
+  "authorsRu": [
+   "Дэвид Гаймер"
+  ],
+  "authorIds": [
+   42242
+  ],
+  "rating": 6.73,
+  "voters": 11,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1018133,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Castellan",
+  "year": 2018,
+  "authorsRu": [
+   "Дэвид Аннандейл"
+  ],
+  "authorIds": [
+   35279
+  ],
+  "rating": 7.17,
+  "voters": 6,
+  "series": [
+   "Castellan Crowe Series"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1005623,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Farsight: Crisis of Faith",
+  "year": 2017,
+  "authorsRu": [
+   "Фил Келли"
+  ],
+  "authorIds": [
+   33963
+  ],
+  "rating": 6.25,
+  "voters": 4,
+  "series": [
+   "Farsight"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 2387170,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Hive. Part One",
+  "year": 2026,
+  "authorsRu": [
+   "Дэн Абнетт"
+  ],
+  "authorIds": [
+   851
+  ],
+  "rating": 9,
+  "voters": 2,
+  "series": [
+   "Hive"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1328527,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Кровные узы",
+  "titleEn": "Bloodlines",
+  "year": 2020,
+  "authorsRu": [
+   "Крис Райт"
+  ],
+  "authorIds": [
+   22640
+  ],
+  "rating": 8.02,
+  "voters": 81,
+  "series": [
+   "Warhammer Crime"
+  ],
+  "seriesAlt": [
+   ""
+  ],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1347057,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Плоть и сталь",
+  "titleEn": "Flesh and Steel",
+  "year": 2020,
+  "authorsRu": [
+   "Гай Хейли"
+  ],
+  "authorIds": [
+   21612
+  ],
+  "rating": 7.7,
+  "voters": 46,
+  "series": [
+   "Warhammer Crime"
+  ],
+  "seriesAlt": [
+   ""
+  ],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 1038095,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": "Мрачная трапеза",
+  "titleEn": "Grim Repast",
+  "year": 2021,
+  "authorsRu": [
+   "Марк Коллинз"
+  ],
+  "authorIds": [
+   95425
+  ],
+  "rating": 7.44,
+  "voters": 27,
+  "series": [
+   "Warhammer Crime"
+  ],
+  "seriesAlt": [
+   ""
+  ],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 1277480,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Sepulturum",
+  "year": 2020,
+  "authorsRu": [
+   "Ник Кайм"
+  ],
+  "authorIds": [
+   16919
+  ],
+  "rating": 7.05,
+  "voters": 22,
+  "series": [
+   "Warhammer Horror 40,000"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "обязательная"
+ },
+ {
+  "fantlabId": 59137,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Dark Apostle",
+  "year": 2007,
+  "authorsRu": [
+   "Энтони Рейнольдс"
+  ],
+  "authorIds": [
+   1683
+  ],
+  "rating": 7.97,
+  "voters": 65,
+  "series": [
+   "Word Bearers"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 407287,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Dark Disciple",
+  "year": 2008,
+  "authorsRu": [
+   "Энтони Рейнольдс"
+  ],
+  "authorIds": [
+   1683
+  ],
+  "rating": 8.19,
+  "voters": 42,
+  "series": [
+   "Word Bearers"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ },
+ {
+  "fantlabId": 407288,
+  "universe": "40k",
+  "type": "novel",
+  "titleRu": null,
+  "titleEn": "Dark Creed",
+  "year": 2009,
+  "authorsRu": [
+   "Энтони Рейнольдс"
+  ],
+  "authorIds": [
+   1683
+  ],
+  "rating": 8.4,
+  "voters": 40,
+  "series": [
+   "Word Bearers"
+  ],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "оценки"
+ }
+]

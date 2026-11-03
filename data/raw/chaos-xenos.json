@@ -1,0 +1,1389 @@
+{
+ "chunk": "chaos-xenos",
+ "authors": {
+  "John French": "Джон Френч",
+  "Nate Crowley": "Нейт Кроули",
+  "Graham McNeill": "Грэм Макнилл",
+  "Ian St. Martin": "Иэн Сент-Мартин",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Andy Chambers": "Энди Чемберс",
+  "Gav Thorpe": "Гэв Торп",
+  "Robert Rath": "Роберт Раф",
+  "Mike Brooks": "Майк Брукс",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Phil Kelly": "Фил Келли",
+  "Anthony Reynolds": "Энтони Рейнольдс"
+ },
+ "series": [
+  {
+   "id": "ahriman",
+   "name": "Ариман",
+   "nameEn": "Ahriman",
+   "setting": "40k"
+  },
+  {
+   "id": "the-twice-dead-king",
+   "name": "Дважды мёртвый царь",
+   "nameEn": "The Twice-Dead King",
+   "setting": "40k"
+  },
+  {
+   "id": "iron-warriors",
+   "name": "Железные Воины",
+   "nameEn": "Iron Warriors",
+   "setting": "40k"
+  },
+  {
+   "id": "night-lords",
+   "name": "Повелители Ночи",
+   "nameEn": "Night Lords",
+   "setting": "40k"
+  },
+  {
+   "id": "path-of-the-dark-eldar",
+   "name": "Пути тёмных эльдар",
+   "nameEn": "Path of the Dark Eldar",
+   "setting": "40k"
+  },
+  {
+   "id": "path-of-the-eldar",
+   "name": "Пути эльдар",
+   "nameEn": "Path of the Eldar",
+   "setting": "40k"
+  },
+  {
+   "id": "ufthak-blackhawk",
+   "name": "Уфтхак Чёрный Гребень",
+   "nameEn": "Ufthak Blackhawk",
+   "setting": "40k"
+  },
+  {
+   "id": "fabius-bile",
+   "name": "Фабий Байл",
+   "nameEn": "Fabius Bile",
+   "setting": "40k"
+  },
+  {
+   "id": "black-legion",
+   "name": "Чёрный Легион",
+   "nameEn": "Black Legion",
+   "setting": "40k"
+  },
+  {
+   "id": "farsight",
+   "name": "Фарсайт",
+   "nameEn": "Farsight",
+   "setting": "40k"
+  },
+  {
+   "id": "word-bearers",
+   "name": "Несущие Слово",
+   "nameEn": "Word Bearers",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 828874,
+   "id": "ahriman-exile",
+   "titleEn": "Ahriman: Exile",
+   "titleRu": "Ариман. Изгнанник",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "ahriman",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "thousand-sons",
+    "chaos"
+   ],
+   "era": "after-heresy",
+   "tl": 31500,
+   "tlLabel": "~M32",
+   "tlApprox": true,
+   "place": "Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "sorcery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Азек Ариман"
+   ],
+   "desc": "Ариман был главным библиотекарием Тысячи Сынов, пока его не прогнал собственный примарх. Теперь он скитается по Оку Ужаса и прячет своё имя и силу, но прошлое не отпускает его. Неспешная и умная книга о гордыне и цене знания.",
+   "hook": "Величайший колдун Тысячи Сынов, которому больше некуда идти.",
+   "prereq": [
+    "a-thousand-sons"
+   ],
+   "note": "Лучше сначала прочитать «Тысячу Сынов» из «Ереси Хоруса»."
+  },
+  {
+   "fantlabId": 828875,
+   "id": "ahriman-sorcerer",
+   "titleEn": "Ahriman: Sorcerer",
+   "titleRu": "Ариман. Колдун",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "ahriman",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "thousand-sons",
+    "inquisition"
+   ],
+   "era": "after-heresy",
+   "tl": 31600,
+   "tlLabel": "~M32",
+   "tlApprox": true,
+   "place": "Око Ужаса и миры Империума",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "sorcery",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Азек Ариман",
+    "инквизитор Иобель"
+   ],
+   "desc": "Ариман снова собрал вокруг себя колдунов и целый флот. Он затевает многоходовую игру, а по его следу идут инквизиторы Империума. Книга сплетает две линии, охотников и добычи, и шаг за шагом показывает, куда ведёт его замысел.",
+   "hook": "Шахматная партия колдуна и инквизиторов, где каждый ход продуман.",
+   "prereq": [
+    "ahriman-exile"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 828876,
+   "id": "ahriman-unchanged",
+   "titleEn": "Ahriman: Unchanged",
+   "titleRu": "Ариман. Неизменённый",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": "ahriman",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "thousand-sons",
+    "chaos"
+   ],
+   "era": "after-heresy",
+   "tl": 31700,
+   "tlLabel": "~M32",
+   "tlApprox": true,
+   "place": "Око Ужаса и другие миры",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "sorcery",
+    "epic",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Азек Ариман"
+   ],
+   "desc": "Ариман вернул себе силу и точно знает, чего хочет: исправить ошибку, которая погубила его братьев. Ради этого он готов пойти против всех, даже против собственного легиона. Финал трилогии и самая масштабная, колдовская её часть.",
+   "hook": "Последняя попытка Аримана исправить главную ошибку своей жизни.",
+   "prereq": [
+    "ahriman-sorcerer"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1445374,
+   "id": "the-twice-dead-king-ruin",
+   "titleEn": "The Twice-dead King: Ruin",
+   "titleRu": "Дважды мёртвый царь. На грани",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "the-twice-dead-king",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "necrons",
+    "orks",
+    "astartes"
+   ],
+   "era": "indomitus",
+   "tl": 41010,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Сед и Антикеф, миры династии Итакас",
+   "segmentum": "many",
+   "tags": [
+    "xenos-pov",
+    "character",
+    "tragedy",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Олтикс"
+   ],
+   "desc": "Некронский лорд Олтикс сослан на захолустный мир-гробницу и ненавидит всё вокруг. Тут на планету высаживаются орки, а за ними идёт имперский крестовый поход. Книга показывает некронов изнутри: древних, гордых и медленно сходящих с ума в металлических телах.",
+   "hook": "Некроны как трагедия: древний царь, который помнит, каково быть живым.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1522827,
+   "id": "the-twice-dead-king-reign",
+   "titleEn": "The Twice-dead King: Reign",
+   "titleRu": "Дважды мёртвый царь. На троне",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": "the-twice-dead-king",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "necrons",
+    "astartes"
+   ],
+   "era": "indomitus",
+   "tl": 41011,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Флот беглецов династии Итакас",
+   "segmentum": "many",
+   "tags": [
+    "xenos-pov",
+    "character",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Олтикс"
+   ],
+   "desc": "Олтикс получил то, о чём мечтал, но трон достался ему вместе с разбитой династией. Остатки его народа бегут, а имперский флот не отстаёт ни на шаг. Продолжение мрачнее и страннее первой книги и рассказывает, что делает правителя правителем.",
+   "hook": "Царь без царства ведёт свой народ сквозь погоню и безумие.",
+   "prereq": [
+    "the-twice-dead-king-ruin"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36295,
+   "id": "storm-of-iron",
+   "titleEn": "Storm of Iron",
+   "titleRu": "Железный шторм",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "iron-warriors",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "iron-warriors",
+    "guard",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40992,
+   "tlLabel": "ок. 990.M41",
+   "tlApprox": true,
+   "place": "Гидра Кордатус",
+   "segmentum": "obscurus",
+   "tags": [
+    "siege",
+    "war",
+    "villain-pov"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Хонсу",
+    "Барбан Фальк",
+    "кастелян Вобан"
+   ],
+   "desc": "Железные Воины осаждают крепость на мире-кузнице Гидра Кордатус. Внутри держатся гвардейцы и техножрецы, снаружи стоят самые упрямые осадные мастера Хаоса. Почти вся книга — одна огромная осада, траншея за траншеей, и её видно с обеих сторон.",
+   "hook": "Классика осадной войны: Железные Воины ломают крепость по камню.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1122239,
+   "id": "lucius-the-faultless-blade",
+   "titleEn": "Lucius: The Faultless Blade",
+   "titleRu": "Люций. Безупречный клинок",
+   "ru": "official",
+   "authors": [
+    "Ian St. Martin"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "emperors-children"
+   ],
+   "era": "dark-millennium",
+   "tl": 40960,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "character",
+    "horror"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Люций Вечный"
+   ],
+   "desc": "Люций Вечный — лучший мечник Детей Императора, и убить его насовсем нельзя: тот, кто его сразит, сам превращается в Люция. Но голоса тех, чьи тела он занял, звучат всё громче. В Оке Ужаса Люций ищет ответ, зачем ему дано такое бессмертие.",
+   "hook": "Бессмертный дуэлянт, которому начинают мешать голоса в голове.",
+   "prereq": [],
+   "note": "Пересекается с трилогией о Фабии Байле."
+  },
+  {
+   "fantlabId": 361153,
+   "id": "soul-hunter",
+   "titleEn": "Soul Hunter",
+   "titleRu": "Ловец душ",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "setting": "40k",
+   "series": "night-lords",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "night-lords",
+    "sons-of-horus",
+    "blood-angels"
+   ],
+   "era": "dark-millennium",
+   "tl": 40985,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Мир-кузница Крит",
+   "segmentum": "obscurus",
+   "tags": [
+    "villain-pov",
+    "character",
+    "tragedy",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Талос",
+    "Кирион",
+    "Узас"
+   ],
+   "desc": "Талос и его отделение Повелителей Ночи уже десять тысяч лет ведут войну, в которую почти не верят. Их корабль втянут в Чёрный крестовый поход Абаддона, а самого Талоса мучают пророческие видения. Злодеи здесь живые, усталые и очень человечные.",
+   "hook": "Злодеи, которые десять тысяч лет воюют, почти не веря в победу.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 361155,
+   "id": "blood-reaver",
+   "titleEn": "Blood Reaver",
+   "titleRu": "Кровавый Корсар",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2011,
+   "setting": "40k",
+   "series": "night-lords",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "night-lords",
+    "chaos-marines",
+    "astartes"
+   ],
+   "era": "dark-millennium",
+   "tl": 40987,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Мальстрём и крепость Виламус",
+   "segmentum": "ultima",
+   "tags": [
+    "villain-pov",
+    "betrayal",
+    "space",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Талос",
+    "Октавия",
+    "Гурон Чёрное Сердце"
+   ],
+   "desc": "Повелители Ночи остались без дома и без сил, и им приходится наняться к Гурону Чёрное Сердце. Талос и его братья попадают в интриги Красных Корсаров и в штурм крепости имперского ордена. Здесь больше юмора, больше крови и больше трещин внутри отряда.",
+   "hook": "Повелители Ночи идут в наёмники к пиратам, и это плохая идея.",
+   "prereq": [
+    "soul-hunter"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 361156,
+   "id": "void-stalker",
+   "titleEn": "Void Stalker",
+   "titleRu": "Разведчик пустоты",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "night-lords",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "night-lords",
+    "aeldari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40989,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Тсагуальса",
+   "segmentum": "ultima",
+   "tags": [
+    "villain-pov",
+    "tragedy",
+    "character"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Талос",
+    "Октавия"
+   ],
+   "desc": "Финал трилогии. Повелители Ночи возвращаются туда, где когда-то погиб их примарх, а по их следу идёт древний и беспощадный враг. Талос всё яснее видит свою судьбу и решает, что оставит после себя.",
+   "hook": "Горький и красивый финал одной из лучших серий о Хаосе.",
+   "prereq": [
+    "blood-reaver"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 346310,
+   "id": "path-of-the-renegade",
+   "titleEn": "Path of the Renegade",
+   "titleRu": "Путь Отступника",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "path-of-the-dark-eldar",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "drukhari",
+    "aeldari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40850,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Комморра",
+   "segmentum": "beyond",
+   "tags": [
+    "xenos-pov",
+    "intrigue",
+    "betrayal"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Нийос Иллитиан",
+    "Асдрубаэль Векта"
+   ],
+   "desc": "Комморра, город тёмных эльдар, живёт под рукой тирана Асдрубаэля Векты. Архонт Иллитиан задумал его свергнуть и ради этого готов вернуть из небытия древнего правителя. Яркий и жестокий мир интриг, где каждый союзник — будущий предатель.",
+   "hook": "Заговор в самом порочном городе галактики.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 759848,
+   "id": "the-masque-of-vyle",
+   "titleEn": "The Masque of Vyle",
+   "titleRu": "Маскарад Вайла",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "aeldari",
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40855,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Окраинные владения тёмных эльдар",
+   "segmentum": "beyond",
+   "tags": [
+    "xenos-pov",
+    "mystery",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Труппа арлекинов идёт по кровавому следу в окраинные владения тёмных эльдар, где виновный прячется среди местных архонтов. Чтобы найти его, арлекины разыгрывают перед ними древний спектакль. Короткий детектив, где сцена и суд — одно и то же.",
+   "hook": "Детектив, в котором убийцу вычисляют с помощью театра.",
+   "prereq": [],
+   "note": "Повесть про арлекинов. Не входит в трилогию «Пути тёмных эльдар», читается отдельно."
+  },
+  {
+   "fantlabId": 473975,
+   "id": "path-of-the-incubus",
+   "titleEn": "Path of the Incubus",
+   "titleRu": "Путь Инкуба",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "path-of-the-dark-eldar",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40851,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Комморра",
+   "segmentum": "beyond",
+   "tags": [
+    "xenos-pov",
+    "character",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Морр"
+   ],
+   "desc": "Комморру трясёт: город рвётся по швам, а архонты грызутся между собой. Опального инкуба Морра считают виновником беды, и он ищет способ вернуть себе честь. Мрачная и зрелищная середина трилогии о тёмных эльдар.",
+   "hook": "Воин-изгой с огромным клинком против целого безумного города.",
+   "prereq": [
+    "path-of-the-renegade"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 759847,
+   "id": "path-of-the-archon",
+   "titleEn": "Path of the Archon",
+   "titleRu": "Путь Архонта",
+   "ru": "official",
+   "authors": [
+    "Andy Chambers"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "path-of-the-dark-eldar",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40852,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Комморра",
+   "segmentum": "beyond",
+   "tags": [
+    "xenos-pov",
+    "intrigue",
+    "war",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Асдрубаэль Векта",
+    "Нийос Иллитиан"
+   ],
+   "desc": "Асдрубаэль Векта пытается снова взять под контроль взбаламученный город. Его скрытые соперники тоже не дремлют, и Комморра скатывается в открытую войну. Развязка трилогии, где сходятся все заговоры.",
+   "hook": "Вся Комморра против Векты, а Векта против всей Комморры.",
+   "prereq": [
+    "path-of-the-incubus"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 473972,
+   "id": "path-of-the-warrior",
+   "titleEn": "Path of the Warrior",
+   "titleRu": "Путь Воина",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2010,
+   "setting": "40k",
+   "series": "path-of-the-eldar",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "aeldari",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40800,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мир-корабль Алаиток",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "character",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Корландрил"
+   ],
+   "desc": "Корландрил — скульптор с мира-корабля Алаиток. Обида толкает его на Путь Воина, и он становится Жалящим Скорпионом. Книга показывает, как эльдар держат в узде свои страсти и чего стоит надеть боевую маску.",
+   "hook": "Художник становится воином, и война начинает менять его.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 473973,
+   "id": "path-of-the-seer",
+   "titleEn": "Path of the Seer",
+   "titleRu": "Путь Провидца",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2011,
+   "setting": "40k",
+   "series": "path-of-the-eldar",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "aeldari",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40801,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мир-корабль Алаиток",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "sorcery",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Тирианна"
+   ],
+   "desc": "Тирианна, подруга Корландрила, вступает на Путь Провидца и учится читать нити будущего. Те же события на Алаитоке теперь видны глазами молодой пророчицы. Здесь много мистики, рун и опасного колдовства.",
+   "hook": "Та же война на Алаитоке, но глазами молодой провидицы.",
+   "prereq": [
+    "path-of-the-warrior"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 473974,
+   "id": "path-of-the-outcast",
+   "titleEn": "Path of the Outcast",
+   "titleRu": "Путь Изгоя",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "path-of-the-eldar",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "aeldari",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40802,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Алаиток и дальние миры",
+   "segmentum": "many",
+   "tags": [
+    "xenos-pov",
+    "adventure",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Арадриан"
+   ],
+   "desc": "Арадриан, третий из друзей, покидает Алаиток и уходит странствовать. Он становится следопытом, потом пиратом, и его решения больно бьют по родному миру-кораблю. Самая приключенческая часть трилогии.",
+   "hook": "Эльдар, которому тесно дома, и цена его свободы.",
+   "prereq": [
+    "path-of-the-warrior"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1350292,
+   "id": "the-infinite-and-the-divine",
+   "titleEn": "The Infinite and The Divine",
+   "titleRu": "Неисчислимый и Предсказывающий",
+   "ru": "official",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "necrons",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "M31–M41",
+   "tlApprox": true,
+   "place": "Восточная окраина: Солемнас, Мандрагора",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "humor",
+    "lore",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Тразин Неисчислимый",
+    "Орикан Предсказатель"
+   ],
+   "desc": "Тразин коллекционирует всё на свете, а Орикан считает себя умнее всех. Эти два некрона враждуют тысячи лет, и книга идёт за их соперничеством сквозь эпохи, от Ереси до Великого Разлома. Смешно, умно и неожиданно трогательно.",
+   "hook": "Два древних сноба-некрона тысячелетиями портят друг другу жизнь.",
+   "prereq": [],
+   "note": "Действие растянуто на десять тысяч лет. Есть продолжение — «The Wicked and the Warped»."
+  },
+  {
+   "fantlabId": 1342206,
+   "id": "brutal-kunnin",
+   "titleEn": "Brutal Kunnin",
+   "titleRu": "Зверская хитрость",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "ufthak-blackhawk",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "orks",
+    "mechanicus"
+   ],
+   "era": "indomitus",
+   "tl": 41015,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Мир-кузница Гефесто",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "humor",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Уфтхак Чёрный Гребень",
+    "Заэфа Вараз"
+   ],
+   "desc": "Орк Уфтхак Чёрный Гребень и его банда идут грабить мир-кузницу Гефесто. Делить добычу с каптином Бадрукком им совсем не хочется, а техножрецы готовят свой сюрприз. Книга смешная, но орки в ней не тупые: у них своя логика и своя хитрость.",
+   "hook": "Орки умнее, чем кажутся, и смешнее, чем вы думаете.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 866789,
+   "id": "fabius-bile-primogenitor",
+   "titleEn": "Fabius Bile: Primogenitor",
+   "titleRu": "Фабий Байл. Прародитель",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "fabius-bile",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "emperors-children",
+    "chaos-marines"
+   ],
+   "era": "dark-millennium",
+   "tl": 40970,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "character",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Фабий Байл"
+   ],
+   "desc": "Фабий Байл, бывший апотекарий Детей Императора, создаёт «новых людей» и презирает всех вокруг, даже богов. Враги и бывшие братья не дают ему спокойно работать, и Байлу приходится отправиться в Око Ужаса. Злодей-гений, за которым интересно следить.",
+   "hook": "Самый знаменитый безумный учёный галактики в главной роли.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 988821,
+   "id": "fabius-bile-clonelord",
+   "titleEn": "Fabius Bile: Clonelord",
+   "titleRu": "Фабий Байл. Повелитель клонов",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "fabius-bile",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "emperors-children",
+    "necrons",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40975,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Разные миры, включая Солемнас",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "character",
+    "horror"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Фабий Байл",
+    "Тразин Неисчислимый"
+   ],
+   "desc": "Байл ищет материал, который поможет спасти его творения и задуманное им будущее. Поиски заводят его даже в гости к некрону Тразину Неисчислимому. Вторая книга глубже первой и напоминает, что Фабий всё-таки чудовище.",
+   "hook": "Безумный учёный Хаоса в гостях у безумного коллекционера некронов.",
+   "prereq": [
+    "fabius-bile-primogenitor"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1312691,
+   "id": "fabius-bile-manflayer",
+   "titleEn": "Fabius Bile: Manflayer",
+   "titleRu": "Фабий Байл. Живодёр",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "fabius-bile",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "emperors-children",
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40980,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Око Ужаса и окрестные миры",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "horror",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Фабий Байл"
+   ],
+   "desc": "Творениям Байла угрожают гемункулы тёмных эльдар, мастера пыток и живой плоти. Фабий ищет союзников и готов на всё, чтобы его «новые люди» выжили. Финал трилогии о самом известном учёном Хаоса.",
+   "hook": "Два вида безумных генетиков сталкиваются лбами.",
+   "prereq": [
+    "fabius-bile-clonelord"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 710418,
+   "id": "the-talon-of-horus",
+   "titleEn": "The Talon of Horus",
+   "titleRu": "Коготь Хоруса",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "black-legion",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "thousand-sons",
+    "emperors-children"
+   ],
+   "era": "after-heresy",
+   "tl": 30600,
+   "tlLabel": "~M31",
+   "tlApprox": true,
+   "place": "Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "lore",
+    "character",
+    "epic"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Искандар Хайон",
+    "Абаддон"
+   ],
+   "desc": "Хорус мёртв, его легион распался, а Око Ужаса раздирают войны предателей. Колдун Искандар Хайон рассказывает, как Абаддон собрал из обломков новую силу. Это история рождения Чёрного Легиона, живая и с сильными героями.",
+   "hook": "Как Абаддон стал Абаддоном: начало Долгой войны.",
+   "prereq": [],
+   "note": "Действие — после Ереси, до первого Чёрного крестового похода. Знание «Ереси Хоруса» поможет, но не обязательно."
+  },
+  {
+   "fantlabId": 939737,
+   "id": "black-legion",
+   "titleEn": "Black Legion",
+   "titleRu": "Чёрный Легион",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "black-legion",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "thousand-sons",
+    "death-guard"
+   ],
+   "era": "after-heresy",
+   "tl": 30700,
+   "tlLabel": "~M31",
+   "tlApprox": true,
+   "place": "Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "villain-pov",
+    "lore",
+    "sorcery",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Искандар Хайон",
+    "Абаддон"
+   ],
+   "desc": "Чёрный Легион уже родился, но он молод и слаб, а вокруг полно врагов. Хайон продолжает рассказ о первых шагах Абаддона и о цене, которую платят его союзники. Больше колдовства, больше политики и такие же сильные персонажи.",
+   "hook": "Новый легион должен выжить среди старых врагов.",
+   "prereq": [
+    "the-talon-of-horus"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1005623,
+   "id": "farsight-crisis-of-faith",
+   "titleEn": "Farsight: Crisis of Faith",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Phil Kelly"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "farsight",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "tau",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40750,
+   "tlLabel": "ок. 750.M41",
+   "tlApprox": true,
+   "place": "Залив Дамокла",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "war",
+    "character"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Фарсайт"
+   ],
+   "desc": "Т'ау идут через залив Дамокла, и во главе похода стоит молодой командующий Фарсайт. Война с Империумом идёт по его правилам, пока не появляется враг пострашнее людей. Это начало истории самого знаменитого и самого спорного полководца т'ау.",
+   "hook": "Ранние годы самого спорного полководца т'ау.",
+   "prereq": [],
+   "note": "Есть продолжение — «Farsight: Empire of Lies»."
+  },
+  {
+   "fantlabId": 59137,
+   "id": "dark-apostle",
+   "titleEn": "Dark Apostle",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "word-bearers",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "word-bearers",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40991,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Танакрег",
+   "segmentum": "obscurus",
+   "tags": [
+    "villain-pov",
+    "betrayal",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Мардук",
+    "Ярулек",
+    "Кол Бадар"
+   ],
+   "desc": "Тёмный Апостол Ярулек и его воинство захватывают имперский мир Танакрег. Пленных заставляют строить чудовищную башню во славу Хаоса. А первый послушник Мардук тем временем ждёт шанса подняться выше своего господина.",
+   "hook": "Фанатики Хаоса глазами самих фанатиков.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 407287,
+   "id": "dark-disciple",
+   "titleEn": "Dark Disciple",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "word-bearers",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "word-bearers",
+    "drukhari",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40993,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Имперские миры и гробница некронов",
+   "segmentum": "many",
+   "tags": [
+    "villain-pov",
+    "betrayal",
+    "intrigue"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Мардук",
+    "Кол Бадар"
+   ],
+   "desc": "Мардуку предстоит доказать, что он достоин вести воинство Несущих Слово. Легион ищет древнее устройство, которое поможет сломать имперскую оборону. На пути у них тёмные эльдар, некроны и собственные честолюбивые братья.",
+   "hook": "Охота за оружием некронов, где свои опаснее чужих.",
+   "prereq": [
+    "dark-apostle"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 407288,
+   "id": "dark-creed",
+   "titleEn": "Dark Creed",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2009,
+   "setting": "40k",
+   "series": "word-bearers",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "word-bearers",
+    "astartes",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40995,
+   "tlLabel": "конец M41",
+   "tlApprox": true,
+   "place": "Система Борос",
+   "segmentum": "obscurus",
+   "tags": [
+    "villain-pov",
+    "war",
+    "betrayal"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Мардук",
+    "Кол Бадар"
+   ],
+   "desc": "С древним устройством некронов Несущие Слово нацелились на систему Борос, дом ордена Белых Консулов. Мардуку мешают не только враги, но и свои: заговоры в воинстве опаснее болтеров. Сильный финал трилогии с большими битвами.",
+   "hook": "Сила, украденная у некронов, против целого ордена.",
+   "prereq": [
+    "dark-disciple"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1649973,
+   "id": "shadowsun-the-patient-hunter",
+   "titleEn": "Shadowsun: The Patient Hunter",
+   "titleRu": "Тень Солнца. Терпеливая охотница",
+   "ru": "fan",
+   "authors": [
+    "Phil Kelly"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "tau",
+    "death-guard"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Нексус Звёздного Прилива",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "war",
+    "horror"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Тень Солнца"
+   ],
+   "desc": "Командующая Тень Солнца разбросала силы т'ау по тёмной стороне Великого Разлома. Внезапно враг бьёт по Нексусу Звёздного Прилива, порталу, через который т'ау ходят домой. Против неё Гвардия Смерти, а в её собственных рядах зреет раскол.",
+   "hook": "Терпеливый стратег т'ау против терпеливой заразы Нургла.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": null,
+   "id": "severed",
+   "titleEn": "Severed",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40940,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Звёзды Гулей, мир Доахт",
+   "segmentum": "ultima",
+   "tags": [
+    "xenos-pov",
+    "humor",
+    "character",
+    "mystery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Зандрех",
+    "Обирон"
+   ],
+   "desc": "Немезор Зандрех уверен, что всё ещё воюет в древней войне, а его верный варгард Обирон давно ему подыгрывает. Фаэрон Имотех посылает их подавить мятеж в Звёздах Гулей. Короткая история о дружбе, безумии и войне некронов с некронами.",
+   "hook": "Безумный полководец некронов и его верный телохранитель.",
+   "prereq": [],
+   "note": "Повесть. Входит в омнибус «Дважды мёртвый царь»."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-long-war",
+   "name": "Долгая война изнутри",
+   "about": "Избранные книги о предателях после Ереси: от рождения Чёрного Легиона до осад конца M41.",
+   "steps": [
+    {
+     "id": "the-talon-of-horus",
+     "note": "Начало: как Абаддон собирает Чёрный Легион."
+    },
+    {
+     "id": "black-legion",
+     "note": "Молодой легион учится выживать."
+    },
+    {
+     "id": "soul-hunter",
+     "note": "Десять тысяч лет спустя: Повелители Ночи в Чёрном крестовом походе."
+    },
+    {
+     "id": "blood-reaver",
+     "note": "Те же герои у пиратов Мальстрёма."
+    },
+    {
+     "id": "void-stalker",
+     "note": "Финал истории Талоса."
+    },
+    {
+     "id": "storm-of-iron",
+     "note": "Отдельная классика про осаду глазами Железных Воинов."
+    }
+   ]
+  },
+  {
+   "id": "path-xenos",
+   "name": "Глазами чужих",
+   "about": "Некроны, орки и эльдар без имперских очков: смешно, страшно и неожиданно человечно.",
+   "steps": [
+    {
+     "id": "the-infinite-and-the-divine",
+     "note": "Самое лёгкое начало: комедия о двух вечных соперниках."
+    },
+    {
+     "id": "severed",
+     "note": "Короткая повесть о трогательной паре некронов."
+    },
+    {
+     "id": "the-twice-dead-king-ruin",
+     "note": "Некроны всерьёз: трагедия древнего царя."
+    },
+    {
+     "id": "the-twice-dead-king-reign",
+     "note": "Продолжение истории Олтикса."
+    },
+    {
+     "id": "brutal-kunnin",
+     "note": "Орки изнутри: шумно, смешно и хитро."
+    },
+    {
+     "id": "path-of-the-renegade",
+     "note": "Интриги тёмных эльдар в Комморре."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Severed (Nate Crowley): format = novella, а не novel. Black Library выпускала её как повесть (~150 страниц), она же входит в омнибус The Twice-Dead King.",
+  "The Masque of Vyle: оставлена вне серии path-of-the-dark-eldar. Lexicanum и омнибус Black Library не включают её в трилогию Path (на Фантлабе она в том же цикле).",
+  "Storm of Iron: серия iron-warriors №1 по Lexicanum (Iron Warriors novel series), хотя роман самостоятельный."
+ ]
+}

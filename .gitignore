@@ -1,0 +1,4 @@
+.DS_Store
+.claude/
+# Сырой кэш ответов Fantlab: содержит чужие тексты аннотаций
+data/sources/fantlab/

@@ -1,0 +1,1309 @@
+{
+ "chunk": "guard-a",
+ "authors": {
+  "Alex Stewart": "Алекс Стюарт",
+  "Dan Abnett": "Дэн Абнетт",
+  "Matthew Farrer": "Мэтью Фаррер"
+ },
+ "series": [
+  {
+   "id": "ciaphas-cain",
+   "name": "Кайафас Каин",
+   "nameEn": "Ciaphas Cain",
+   "setting": "40k"
+  },
+  {
+   "id": "gaunts-ghosts",
+   "name": "Призраки Гаунта",
+   "nameEn": "Gaunt's Ghosts",
+   "setting": "40k"
+  },
+  {
+   "id": "sabbat-worlds",
+   "name": "Миры Саббат",
+   "nameEn": "Sabbat Worlds",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 37611,
+   "id": "for-the-emperor",
+   "titleEn": "For the Emperor",
+   "titleRu": "За Императора!",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "tau",
+    "tyranids",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40931,
+   "tlLabel": "931.M41",
+   "tlApprox": false,
+   "place": "Гравалакс",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "intrigue",
+    "war",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Эмберли Вейл"
+   ],
+   "desc": "Комиссара Кайафаса Каина все считают героем. Сам он знает, что трус, и всегда ищет место побезопаснее. Его полк прибывает на Гравалакс, где люди и т'ау вот-вот начнут войну. Спасая свою шкуру, Каин случайно раскрывает заговор. А инквизитор Вейл комментирует его мемуары ехидными сносками.",
+   "hook": "Трус, которого вся Галактика считает героем. И это очень смешно.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 37615,
+   "id": "caves-of-ice",
+   "titleEn": "Caves of Ice",
+   "titleRu": "Ледяные пещеры",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40932,
+   "tlLabel": "932.M41",
+   "tlApprox": false,
+   "place": "Симиа Орихалка",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "horror",
+    "war",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Регина Кастин"
+   ],
+   "desc": "Полк Каина отправляют на ледяной мир охранять завод прометия от орков. Работа кажется простой и даже скучной. Но в шахтах под ледником рабочие находят что-то очень древнее. И Каину снова приходится лезть туда, куда он меньше всего хочет: в тёмные пещеры.",
+   "hook": "Орки снаружи, древний ужас подо льдом, а Каин посередине.",
+   "prereq": [
+    "for-the-emperor"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 37618,
+   "id": "the-traitors-hand",
+   "titleEn": "The Traitor’s Hand",
+   "titleRu": "Игра предателя",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos-marines",
+    "chaos",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40937,
+   "tlLabel": "937.M41",
+   "tlApprox": false,
+   "place": "Адумбрия",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "intrigue",
+    "war",
+    "betrayal"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Регина Кастин"
+   ],
+   "desc": "Адумбрия — странный мир: одна его сторона вечно жарится под солнцем, другая замёрзла во тьме. К планете летит банда Хаоса, а на самой планете уже действует тайный культ. Каину надо найти предателей, пока враг не высадился. В этот раз всё будет очень личным.",
+   "hook": "Хаос на подлёте, культ в тени, а Каину опять не дают отсидеться.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 37617,
+   "id": "death-or-glory",
+   "titleEn": "Death or Glory",
+   "titleRu": "Смерть или слава",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2006,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks"
+   ],
+   "era": "dark-millennium",
+   "tl": 40921,
+   "tlLabel": "ок. 921.M41",
+   "tlApprox": true,
+   "place": "Перлия",
+   "segmentum": "obscurus",
+   "tags": [
+    "humor",
+    "survival",
+    "war",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген"
+   ],
+   "desc": "Молодой Каин служит в артиллерийском полку, когда на Перлию обрушиваются орки. Он отстаёт от своих и оказывается глубоко в тылу врага. Чтобы выжить, комиссар сколачивает отряд из всех, кто попался под руку. С этой истории и началась слава, которой Каин никогда не хотел.",
+   "hook": "Как трус стал героем: самая ранняя большая история Каина.",
+   "prereq": [],
+   "note": "Приквел: события раньше первой книги. Можно начинать с неё."
+  },
+  {
+   "fantlabId": 122049,
+   "id": "duty-calls",
+   "titleEn": "Duty Calls",
+   "titleRu": "Зов долга",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "tyranids",
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40933,
+   "tlLabel": "ок. 933.M41",
+   "tlApprox": true,
+   "place": "Периремунда",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "war",
+    "intrigue",
+    "horror"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Эмберли Вейл"
+   ],
+   "desc": "К Периремунде летит флот тиранидов, и полк Каина помогает готовить оборону. Но на планете уже прячутся гибриды генокрадов. Кто-то упорно пытается убить самого комиссара. А Эмберли Вейл явно прилетела сюда за чем-то своим.",
+   "hook": "Тираниды на подлёте, убийцы за углом, а Каин мечтает о тихом штабе.",
+   "prereq": [
+    "death-or-glory"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 122050,
+   "id": "cains-last-stand",
+   "titleEn": "Cain's Last Stand",
+   "titleRu": "Последний бой Каина",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "chaos-marines",
+    "inquisition"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Перлия",
+   "segmentum": "obscurus",
+   "tags": [
+    "humor",
+    "war",
+    "siege",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Эмберли Вейл"
+   ],
+   "desc": "Старый Каин давно на покое и учит кадетов в схоле на Перлии. Но начинается Тринадцатый Чёрный крестовый поход, и Хаос приходит прямо к порогу. Комиссару снова приходится вести людей в бой. Только теперь под его началом почти дети.",
+   "hook": "Пенсия отменяется: Хаос пришёл на Перлию, и Каину снова воевать.",
+   "prereq": [
+    "duty-calls"
+   ],
+   "note": "Самая поздняя история Каина по хронологии."
+  },
+  {
+   "fantlabId": 323693,
+   "id": "the-emperors-finest",
+   "titleEn": "The Emperor's Finest",
+   "titleRu": "Избранные воины Императора",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2010,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 7,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "tyranids",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40929,
+   "tlLabel": "ок. 929.M41",
+   "tlApprox": true,
+   "place": "Виридия, космический скиталец",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "horror",
+    "war",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген"
+   ],
+   "desc": "Каина приставляют связным к ордену космодесанта. Вместе с ним он летит на аграрную Виридию, где вспыхнул мятеж. За мятежом стоит культ генокрадов, и охота уводит героев в недра космического скитальца. Рядом с великанами в броне Каин особенно остро чувствует себя смертным.",
+   "hook": "Каин среди космодесантников. Они огромные, храбрые и обожают лезть в пекло.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 312404,
+   "id": "the-last-ditch",
+   "titleEn": "The Last Ditch",
+   "titleRu": "Последний рубеж",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 8,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks",
+    "tyranids"
+   ],
+   "era": "dark-millennium",
+   "tl": 40942,
+   "tlLabel": "942.M41",
+   "tlApprox": false,
+   "place": "Нускуам Фундументибус",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "war",
+    "horror",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Регина Кастин"
+   ],
+   "desc": "Каин возвращается на ледяной Нускуам Фундументибус, чтобы добить орков. Задача выглядит скучной, и комиссара это полностью устраивает. Но под толстым льдом спит то, что лучше бы не будить. Скоро орки станут самой маленькой из его бед.",
+   "hook": "Скучная зачистка орков во льдах. Конечно, скучной она не останется.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 742235,
+   "id": "old-soldiers-never-die",
+   "titleEn": "Old Soldiers Never Die",
+   "titleRu": "Старые солдаты не умирают",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40938,
+   "tlLabel": "ок. 938.M41",
+   "tlApprox": true,
+   "place": "Лентония",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "horror",
+    "survival"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген"
+   ],
+   "desc": "Мятеж на планете подавлен, и Каин надеется на передышку. Вместо отдыха приходит странная болезнь: умершие встают и бросаются на живых. Короткая повесть о том, как Каин и Юрген отбиваются от ходячих мертвецов. Заодно они встречают старых боевых друзей.",
+   "hook": "Каин против зомби. Коротко, бодро и с привычным юмором.",
+   "prereq": [],
+   "note": "Повесть. Можно читать в любой момент."
+  },
+  {
+   "fantlabId": 426588,
+   "id": "the-greater-good",
+   "titleEn": "The Greater Good",
+   "titleRu": "Высшее Благо",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 9,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "tau",
+    "tyranids",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40992,
+   "tlLabel": "ок. 992.M41",
+   "tlApprox": true,
+   "place": "Квадравидия",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "intrigue",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Эмберли Вейл"
+   ],
+   "desc": "Т'ау нападают на имперскую Квадравидию, но к системе уже идёт флот тиранидов. Чтобы выжить, бывшим врагам придётся договориться. Каин становится посредником в этом странном союзе. Ему надо удержать от драки и людей, и чужаков.",
+   "hook": "Империум и т'ау против тиранидов. Каину досталась роль дипломата.",
+   "prereq": [
+    "the-last-ditch"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1065087,
+   "id": "choose-your-enemies",
+   "titleEn": "Choose Your Enemies",
+   "titleRu": "Врагов выбирают",
+   "ru": "fan",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "ciaphas-cain",
+   "seriesNo": 10,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "aeldari",
+    "chaos",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40952,
+   "tlLabel": "ок. 952.M41",
+   "tlApprox": true,
+   "place": "Дрехия",
+   "segmentum": "ultima",
+   "tags": [
+    "humor",
+    "intrigue",
+    "war",
+    "adventure"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Кайафас Каин",
+    "Юрген",
+    "Регина Кастин"
+   ],
+   "desc": "Полк Каина отправляют на ледяную Дрехию защищать её от набегов эльдарских пиратов. В шахтах под поверхностью комиссар натыкается на культистов Хаоса. Их цель куда важнее самой Дрехии: рядом лежит мир-кузница. Союзники и враги здесь путаются особенно сильно.",
+   "hook": "Эльдар, культисты и мир-кузница. Кому верить, решать Каину.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 36114,
+   "id": "first-only",
+   "titleEn": "First & Only",
+   "titleRu": "Первый и Единственный",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 1999,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40766,
+   "tlLabel": "ок. 766.M41",
+   "tlApprox": true,
+   "place": "Фортис Бинари, Меназоид Эпсилон",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "intrigue",
+    "betrayal",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек",
+    "Брин Майло"
+   ],
+   "desc": "Родной мир танитцев сгорел в день, когда собрали их полк. Комиссар Ибрам Гаунт и его «Призраки» воюют без дома и без пополнений. В окопах мира-кузницы Фортис Бинари они попадают ещё и в грязную игру собственных генералов. Первая книга самой известной гвардейской саги.",
+   "hook": "Полк без родины воюет за Империум, который готов его подставить.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 36115,
+   "id": "ghostmaker",
+   "titleEn": "Ghostmaker",
+   "titleRu": "Создатель Призраков",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2000,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40767,
+   "tlLabel": "765–768.M41",
+   "tlApprox": true,
+   "place": "Монтакс и другие миры",
+   "segmentum": "pacificus",
+   "tags": [
+    "character",
+    "war",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек",
+    "Брин Майло"
+   ],
+   "desc": "Призраки ждут боя в болотах Монтакса, а книга вспоминает их прошлые кампании. Каждая глава отдана одному бойцу: снайперу, разведчику, юному волынщику. Так из безликой толпы солдат вырастают живые люди. Потом за каждого из них по-настоящему страшно.",
+   "hook": "Книга-портрет: знакомимся с Призраками по одному, лицом к лицу.",
+   "prereq": [
+    "first-only"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36121,
+   "id": "necropolis",
+   "titleEn": "Necropolis",
+   "titleRu": "Некрополь",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40768,
+   "tlLabel": "768.M41",
+   "tlApprox": false,
+   "place": "Верхаст, улей Вервун",
+   "segmentum": "pacificus",
+   "tags": [
+    "siege",
+    "war",
+    "epic",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Агун Сорик",
+    "Тона Крийд"
+   ],
+   "desc": "Улей Вервун на Верхасте превращается в огромную мясорубку. Враг берёт город в кольцо, а внутри паника и неразбериха. Призраки дерутся бок о бок с рабочими, беженцами и ополченцами. После этой осады полк уже никогда не будет прежним.",
+   "hook": "Осада целого города-улья. Одна из лучших книг о войне в 40K.",
+   "prereq": [
+    "ghostmaker"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36120,
+   "id": "honour-guard",
+   "titleEn": "Honour Guard",
+   "titleRu": "Почётная гвардия",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40769,
+   "tlLabel": "769.M41",
+   "tlApprox": false,
+   "place": "Хагия",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "adventure",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек",
+    "Брин Майло"
+   ],
+   "desc": "Призраков посылают на Хагию, святой мир, где родилась Саббат. Им поручают вывезти мощи святой, пока враг не захватил их. Путь лежит через горы, засады и ошибки командования. Здесь серия впервые всерьёз говорит о вере и чудесах.",
+   "hook": "Отряд везёт мощи святой через линию фронта. Вера против пушек.",
+   "prereq": [
+    "necropolis"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36129,
+   "id": "the-guns-of-tanith",
+   "titleEn": "The Guns of Tanith",
+   "titleRu": "Танитское оружие",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "navy",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40771,
+   "tlLabel": "771.M41",
+   "tlApprox": false,
+   "place": "Фантина",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "adventure",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек"
+   ],
+   "desc": "Фантина — мир облаков, где города висят над ядовитой бездной. Без её топлива встанет весь крестовый поход, и планету надо отбить. Призракам впервые приходится прыгать в бой с воздуха. Десанты, штурм небесных городов и воздушные бои.",
+   "hook": "Десант в облака: Призраки штурмуют города над бездной.",
+   "prereq": [
+    "honour-guard"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36130,
+   "id": "straight-silver",
+   "titleEn": "Straight Silver",
+   "titleRu": "Верное серебро",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40772,
+   "tlLabel": "772.M41",
+   "tlApprox": false,
+   "place": "Аэкс Кардинал",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "survival",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек",
+    "Элим Роун"
+   ],
+   "desc": "На Аэкс Кардинал уже сорок лет идёт окопная война, очень похожая на Первую мировую. Призраки попадают в грязь, газ и бессмысленные атаки. А кто-то из своих тихо играет против них. Самая «окопная» книга всей серии.",
+   "hook": "Траншеи, грязь и газ. Первая мировая в далёком будущем.",
+   "prereq": [
+    "the-guns-of-tanith"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36137,
+   "id": "sabbat-martyr",
+   "titleEn": "Sabbat Martyr",
+   "titleRu": "Мученики Саббат",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 7,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40773,
+   "tlLabel": "773.M41",
+   "tlApprox": false,
+   "place": "Геродор",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "siege",
+    "tragedy",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Колм Корбек",
+    "Беати"
+   ],
+   "desc": "На Геродоре появилась девушка, которую люди считают воскресшей святой Саббат. Призраки должны уберечь её, пока враг стягивает к планете огромные силы. Гаунт не уверен, что верит в чудо, но выбора у него нет. Финал второго цикла и одна из самых тяжёлых книг серии.",
+   "hook": "Святая вернулась. Теперь её надо удержать в живых.",
+   "prereq": [
+    "straight-silver"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36146,
+   "id": "double-eagle",
+   "titleEn": "Double Eagle",
+   "titleRu": "Двуглавый орел",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "sabbat-worlds",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "chaos",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40773,
+   "tlLabel": "ок. 773.M41",
+   "tlApprox": true,
+   "place": "Энозис",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "adventure",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Бри Ягдея",
+    "Вилтри"
+   ],
+   "desc": "Главный фронт этой книги — небо над Энозисом. Пилоты фантинского авиакорпуса и имперского флота дерутся с асами врага. Призраков здесь нет, зато есть воздушные дуэли, жёсткие посадки и очень уставшие люди в кабинах. Редкий для 40K роман о лётчиках.",
+   "hook": "Воздушная война Миров Саббат: асы, перегрузки и смерть в небе.",
+   "prereq": [],
+   "note": "Отдельная история в мире «Призраков Гаунта»."
+  },
+  {
+   "fantlabId": 36153,
+   "id": "traitor-general",
+   "titleEn": "Traitor General",
+   "titleRu": "Генерал-предатель",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 8,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40774,
+   "tlLabel": "774.M41",
+   "tlApprox": false,
+   "place": "Гереон",
+   "segmentum": "pacificus",
+   "tags": [
+    "survival",
+    "adventure",
+    "betrayal",
+    "war"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Элим Роун",
+    "Мколл"
+   ],
+   "desc": "Гаунт и горстка лучших Призраков тайно высаживаются на Гереон, захваченный Хаосом. Их задача — найти и убить генерала, который перешёл на сторону врага. Помогать будут местные партизаны, но доверять им до конца нельзя. Вместо больших сражений здесь шпионский триллер.",
+   "hook": "Двенадцать бойцов в тылу Хаоса. Цель — генерал-изменник.",
+   "prereq": [
+    "sabbat-martyr"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36156,
+   "id": "the-armour-of-contempt",
+   "titleEn": "The Armour of Contempt",
+   "titleRu": "Броня презрения",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2006,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 10,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40777,
+   "tlLabel": "777.M41",
+   "tlApprox": false,
+   "place": "Гереон",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "intrigue",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Элим Роун",
+    "Вик Харк"
+   ],
+   "desc": "Империум возвращается освобождать Гереон, и Призраки идут в первых рядах. Но тех, кто долго жил в тылу Хаоса, теперь подозревают в скверне. Гаунту приходится воевать на два фронта: с врагом и с недоверием своих. Книга о войне, после которой не отмыться.",
+   "hook": "Освободить планету проще, чем доказать, что ты не заражён.",
+   "prereq": [
+    "traitor-general"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 55518,
+   "id": "only-in-death",
+   "titleEn": "Only in Death",
+   "titleRu": "Лишь со смертью",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 11,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40778,
+   "tlLabel": "778.M41",
+   "tlApprox": false,
+   "place": "Джаго, крепость Хинцерхаус",
+   "segmentum": "pacificus",
+   "tags": [
+    "siege",
+    "horror",
+    "tragedy",
+    "mystery"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Элим Роун",
+    "Вик Харк"
+   ],
+   "desc": "Призракам приказано удержать Хинцерхаус — старую крепость в скалах пустынного Джаго. Снаружи давит враг, а внутри стен творится что-то жуткое. История рассказана как расследование уже после событий. Самая мрачная книга серии и, по мнению многих, лучшая.",
+   "hook": "Осада, страх и тени в коридорах старой крепости.",
+   "prereq": [
+    "the-armour-of-contempt"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 117907,
+   "id": "titanicus",
+   "titleEn": "Titanicus",
+   "titleRu": "Титаникус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "sabbat-worlds",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40779,
+   "tlLabel": "779.M41",
+   "tlApprox": false,
+   "place": "Орестес",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "epic",
+    "intrigue",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Эрик Варко"
+   ],
+   "desc": "Мир-кузницу Орестес атакуют титаны Хаоса. На защиту встаёт легион Инвикта, который зашёл сюда на ремонт. Абнетт показывает войну шагающих гигантов изнутри, вместе со сварами жрецов Механикус. Читается отдельно от «Призраков Гаунта».",
+   "hook": "Битва богов-машин: титаны против титанов за мир-кузницу.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 739761,
+   "id": "the-warmaster",
+   "titleEn": "The Warmaster",
+   "titleRu": "Магистр войны",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 14,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40791,
+   "tlLabel": "791.M41",
+   "tlApprox": false,
+   "place": "Урдеш",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "intrigue",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Элим Роун",
+    "Макарот"
+   ],
+   "desc": "После долгих лет войны Призраки прибывают на Урдеш, где решается судьба всего крестового похода. Гаунт стал большим начальником и тонет в интригах штаба. А враг готовит удар, который может всё перевернуть. Начало финальной части саги.",
+   "hook": "Призраки снова в деле: битва за Урдеш начинается.",
+   "prereq": [
+    "only-in-death"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1111928,
+   "id": "the-anarch",
+   "titleEn": "The Anarch",
+   "titleRu": "Анарх",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": "gaunts-ghosts",
+   "seriesNo": 15,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40792,
+   "tlLabel": "792.M41",
+   "tlApprox": false,
+   "place": "Урдеш",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "epic",
+    "siege"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ибрам Гаунт",
+    "Элим Роун",
+    "Анакванар Сек"
+   ],
+   "desc": "Битва за Урдеш выходит на пик. Призраки сходятся с Анархом Секом, одним из главных вождей врага. Абнетт стягивает нити, которые тянулись через всю серию. Большая и громкая книга, где на сцену выходят почти все старые герои.",
+   "hook": "Призраки против Анарха. Кульминация многолетней саги.",
+   "prereq": [
+    "the-warmaster"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1439233,
+   "id": "urdesh-the-serpent-and-the-saint",
+   "titleEn": "Urdesh: The Serpent and the Saint",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "sabbat-worlds",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "chaos",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40791,
+   "tlLabel": "ок. 791.M41",
+   "tlApprox": true,
+   "place": "Урдеш",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "sorcery",
+    "intrigue"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Беати"
+   ],
+   "desc": "На Урдеше идёт главная битва крестового похода. Космодесантники ордена Железных Змей охраняют святую Саббат, снова пришедшую в мир людей. Враг тоже охотится за ней и не брезгует колдовством. Та же война за Урдеш, но глазами Астартес.",
+   "hook": "Железные Змеи и живая святая посреди войны за Урдеш.",
+   "prereq": [
+    "the-warmaster"
+   ],
+   "note": "Первая часть дилогии. На русском пока не выходила."
+  },
+  {
+   "fantlabId": 2016145,
+   "id": "interceptor-city",
+   "titleEn": "Interceptor City",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2024,
+   "setting": "40k",
+   "series": "sabbat-worlds",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40794,
+   "tlLabel": "ок. 794.M41",
+   "tlApprox": true,
+   "place": "Лисандр, улей Весперус",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "mystery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Бри Ягдея"
+   ],
+   "desc": "Бри Ягдея когда-то была лучшим асом, а теперь возит грузы подальше от фронта. Случай снова сажает её в боевую машину, в эскадрилью «Цирк 66». Пилоты превращают мёртвый улей Весперус в базу перехватчиков. А среди своих, похоже, завёлся убийца.",
+   "hook": "Бывший ас снова в кабине. Над мёртвым ульем идёт охота.",
+   "prereq": [
+    "double-eagle"
+   ],
+   "note": "Продолжение «Двуглавого орла». Вышла через двадцать лет после него. На русском пока не выходила."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-gaunts-ghosts",
+   "name": "Призраки Гаунта по порядку",
+   "about": "Главная гвардейская сага: полк без родины проходит весь крестовый поход.",
+   "steps": [
+    {
+     "id": "first-only",
+     "note": "Знакомство с Гаунтом и полком."
+    },
+    {
+     "id": "ghostmaker",
+     "note": "Истории отдельных бойцов, после неё их не перепутать."
+    },
+    {
+     "id": "necropolis",
+     "note": "Огромная осада и новые лица в полку."
+    },
+    {
+     "id": "honour-guard",
+     "note": "Начало линии святой Саббат."
+    },
+    {
+     "id": "the-guns-of-tanith",
+     "note": "Воздушный десант на Фантине."
+    },
+    {
+     "id": "straight-silver",
+     "note": "Окопная война на Аэкс Кардинал."
+    },
+    {
+     "id": "sabbat-martyr",
+     "note": "Финал цикла о святой."
+    },
+    {
+     "id": "traitor-general",
+     "note": "Рейд в тыл врага на Гереоне."
+    },
+    {
+     "id": "the-armour-of-contempt",
+     "note": "Возвращение на Гереон: теперь его надо освободить."
+    },
+    {
+     "id": "only-in-death",
+     "note": "Самая мрачная книга серии. Многие считают её лучшей."
+    },
+    {
+     "id": "the-warmaster",
+     "note": "Начало финальной дилогии: битва за Урдеш."
+    },
+    {
+     "id": "the-anarch",
+     "note": "Развязка битвы за Урдеш."
+    }
+   ]
+  },
+  {
+   "id": "path-ciaphas-cain",
+   "name": "Каин в порядке выхода",
+   "about": "Сноски Эмберли Вейл ссылаются на прошлые книги, поэтому лучше читать по выходу.",
+   "steps": [
+    {
+     "id": "for-the-emperor",
+     "note": "Знакомство с Каином, Юргеном и Вейл."
+    },
+    {
+     "id": "caves-of-ice",
+     "note": "Тот же полк, новый ледяной кошмар."
+    },
+    {
+     "id": "the-traitors-hand",
+     "note": "Каин против Хаоса и культа."
+    },
+    {
+     "id": "death-or-glory",
+     "note": "Приквел: как всё начиналось."
+    },
+    {
+     "id": "duty-calls",
+     "note": "Тираниды и тайные дела Вейл."
+    },
+    {
+     "id": "cains-last-stand",
+     "note": "Старый Каин на Перлии."
+    },
+    {
+     "id": "the-emperors-finest",
+     "note": "Каин и космодесант."
+    },
+    {
+     "id": "the-last-ditch",
+     "note": "Орки, лёд и неприятный сюрприз."
+    },
+    {
+     "id": "the-greater-good",
+     "note": "Союз с т'ау против тиранидов."
+    },
+    {
+     "id": "choose-your-enemies",
+     "note": "Эльдар и культ на ледяной Дрехии."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Названия, годы и авторы из входа не менялись.",
+  "В списке не хватает книг «Призраков Гаунта»: №9 His Last Command (2005), №12 Blood Pact (2009), №13 Salvation's Reach (2011). Нумерация оставлена официальной, поэтому после №8 идёт №10, а после №11 — №14. Их нет ни в одном входном чанке.",
+  "В списке нет 11-й книги о Каине: Vainglorious (2021).",
+  "Alex Stewart — настоящее имя автора; на обложках (и в русских изданиях) книги о Каине выходят под псевдонимом Sandy Mitchell / Сэнди Митчелл. Ключ автора оставлен как во входе (он же используется в чанке inquisition), но для отображения стоит подумать о псевдониме.",
+  "Old Soldiers Never Die — повесть без номера в серии (seriesNo = null)."
+ ]
+}

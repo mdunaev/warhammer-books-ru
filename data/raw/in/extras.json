@@ -1,0 +1,227 @@
+{
+ "chunk": "extras",
+ "authors": {
+  "Dan Abnett": "Дэн Абнетт",
+  "Alex Stewart": "Алекс Стюарт",
+  "Nick Kyme": "Ник Кайм",
+  "Lindsey Priestley": "Линдси Пристли",
+  "Christian Dunn": "Кристиан Данн",
+  "Gav Thorpe": "Гэв Торп",
+  "Justin D. Hill": "Джастин Д. Хилл",
+  "Laurie Goulding": "Лори Голдинг"
+ },
+ "books": [
+  {
+   "fantlabId": 36149,
+   "titleEn": "His Last Command",
+   "titleRu": "Его последняя команда",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.47,
+   "fantlabVoters": 34
+  },
+  {
+   "fantlabId": 183163,
+   "titleEn": "Blood Pact",
+   "titleRu": "Кровавый Договор",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.55,
+   "fantlabVoters": 29
+  },
+  {
+   "fantlabId": 299994,
+   "titleEn": "Salvations Reach",
+   "titleRu": "Последнее Пристанище",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2011,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.44,
+   "fantlabVoters": 25
+  },
+  {
+   "fantlabId": 1764659,
+   "titleEn": "Vainglorious",
+   "titleRu": "Тщеславный",
+   "ru": "fan",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.63,
+   "fantlabVoters": 30
+  },
+  {
+   "fantlabId": 283135,
+   "titleEn": "Tales of Heresy",
+   "titleRu": "Легенды Ереси",
+   "ru": "official",
+   "authors": [
+    "Nick Kyme",
+    "Lindsey Priestley"
+   ],
+   "year": 2009,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.57,
+   "fantlabVoters": 309
+  },
+  {
+   "fantlabId": 458716,
+   "titleEn": "The Primarchs",
+   "titleRu": "Примархи",
+   "ru": "official",
+   "authors": [
+    "Christian Dunn",
+    "Nick Kyme"
+   ],
+   "year": 2012,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.43,
+   "fantlabVoters": 183
+  },
+  {
+   "fantlabId": 1491322,
+   "titleEn": "The Wolftime",
+   "titleRu": "Время волка",
+   "ru": "fan",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 7.6,
+   "fantlabVoters": 15
+  },
+  {
+   "fantlabId": 1445376,
+   "titleEn": "Traitor Rock",
+   "titleRu": "Скала Предателя",
+   "ru": "fan",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кадия",
+   "fantlabRating": 7.25,
+   "fantlabVoters": 8
+  },
+  {
+   "fantlabId": 2387171,
+   "titleEn": "Hive. Part Two",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2026,
+   "fantlabType": "novel",
+   "fantlabSeries": "Hive",
+   "fantlabRating": 9,
+   "fantlabVoters": 2
+  },
+  {
+   "fantlabId": 757233,
+   "titleEn": "Mark of Calth",
+   "titleRu": "Отметка Калта",
+   "ru": "official",
+   "authors": [
+    "Laurie Goulding"
+   ],
+   "year": 2013,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.54,
+   "fantlabVoters": 160
+  },
+  {
+   "fantlabId": 801172,
+   "titleEn": "Legacies of Betrayal",
+   "titleRu": "Заветы предательства",
+   "ru": "official",
+   "authors": [
+    "Laurie Goulding"
+   ],
+   "year": 2014,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.22,
+   "fantlabVoters": 106
+  },
+  {
+   "fantlabId": 914458,
+   "titleEn": "War Without End",
+   "titleRu": "Нет войне конца",
+   "ru": "official",
+   "authors": [
+    "Laurie Goulding"
+   ],
+   "year": 2016,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.34,
+   "fantlabVoters": 92
+  },
+  {
+   "fantlabId": 961793,
+   "titleEn": "Eye of Terra",
+   "titleRu": "Око Терры",
+   "ru": "official",
+   "authors": [
+    "Laurie Goulding"
+   ],
+   "year": 2016,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.27,
+   "fantlabVoters": 86
+  },
+  {
+   "fantlabId": 989160,
+   "titleEn": "Shattered Legions",
+   "titleRu": "Разбитые легионы",
+   "ru": "official",
+   "authors": [
+    "Laurie Goulding"
+   ],
+   "year": 2017,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.19,
+   "fantlabVoters": 68
+  },
+  {
+   "fantlabId": 1036606,
+   "titleEn": "Born of Flame",
+   "titleRu": "Рождённые в пламени",
+   "ru": "official",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2018,
+   "fantlabType": "anthology",
+   "fantlabSeries": "Ересь Хоруса",
+   "fantlabRating": 7.37,
+   "fantlabVoters": 46
+  }
+ ]
+}

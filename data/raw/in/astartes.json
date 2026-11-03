@@ -1,0 +1,511 @@
+{
+ "chunk": "astartes",
+ "authors": {
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Chris Wraight": "Крис Райт",
+  "Guy Haley": "Гай Хейли",
+  "Steve Lyons": "Стив Лайонс",
+  "Justin D. Hill": "Джастин Д. Хилл",
+  "Dan Abnett": "Дэн Абнетт",
+  "Ben Counter": "Бен Каунтер",
+  "Steve Parker": "Стив Паркер",
+  "Robbie MacNiven": "Робби Макнивен",
+  "William King": "Уильям Кинг",
+  "Lee Lightner": "Ли Лайтнер",
+  "David Annandale": "Дэвид Аннандейл",
+  "Darius Hinks": "Дариус Хинкс",
+  "Graham McNeill": "Грэм Макнилл"
+ },
+ "books": [
+  {
+   "fantlabId": 336292,
+   "titleEn": "Helsreach",
+   "titleRu": "Хельсрич",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 7.9,
+   "fantlabVoters": 136
+  },
+  {
+   "fantlabId": 336297,
+   "titleEn": "Battle of the Fang",
+   "titleRu": "Битва за Клык",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2011,
+   "fantlabType": "novel",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 8.17,
+   "fantlabVoters": 92
+  },
+  {
+   "fantlabId": 710421,
+   "titleEn": "The Death of Integrity",
+   "titleRu": "Гибель Единства",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 8.2,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 858169,
+   "titleEn": "Angron's Monolith",
+   "titleRu": "Монолит Ангрона",
+   "ru": "official",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2014,
+   "fantlabType": "novella",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 7.94,
+   "fantlabVoters": 32
+  },
+  {
+   "fantlabId": 710416,
+   "titleEn": "Blood and Fire",
+   "titleRu": "Кровь и огонь",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2015,
+   "fantlabType": "novella",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 7.72,
+   "fantlabVoters": 46
+  },
+  {
+   "fantlabId": 851279,
+   "titleEn": "Storm of Damocles",
+   "titleRu": "Шторм в Дамокловом заливе",
+   "ru": "official",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2016,
+   "fantlabType": "novel",
+   "fantlabSeries": "Битвы Космодесанта",
+   "fantlabRating": 8.23,
+   "fantlabVoters": 22
+  },
+  {
+   "fantlabId": 474526,
+   "titleEn": "Brothers of the Snake",
+   "titleRu": "Братья Змея",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Железные Змеи",
+   "fantlabRating": 6.94,
+   "fantlabVoters": 62
+  },
+  {
+   "fantlabId": 1007182,
+   "titleEn": "The Devastation of Baal",
+   "titleRu": "Опустошение Баала",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Завоевания Космодесанта",
+   "fantlabRating": 8,
+   "fantlabVoters": 48
+  },
+  {
+   "fantlabId": 59095,
+   "titleEn": "Soul Drinker",
+   "titleRu": "Испивающие Души",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Испивающие Души",
+   "fantlabRating": 7.51,
+   "fantlabVoters": 198
+  },
+  {
+   "fantlabId": 59097,
+   "titleEn": "The Bleeding Chalice",
+   "titleRu": "Чаша Скорби",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Испивающие Души",
+   "fantlabRating": 7.52,
+   "fantlabVoters": 132
+  },
+  {
+   "fantlabId": 59100,
+   "titleEn": "Crimson Tears",
+   "titleRu": "Багровые слёзы",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Испивающие Души",
+   "fantlabRating": 7.59,
+   "fantlabVoters": 112
+  },
+  {
+   "fantlabId": 143720,
+   "titleEn": "Hellforged",
+   "titleRu": "Выкованные в преисподней",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2009,
+   "fantlabType": "novel",
+   "fantlabSeries": "Испивающие Души",
+   "fantlabRating": 7.97,
+   "fantlabVoters": 37
+  },
+  {
+   "fantlabId": 745920,
+   "titleEn": "Phalanx",
+   "titleRu": "Фаланга",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Испивающие Души",
+   "fantlabRating": 7.89,
+   "fantlabVoters": 35
+  },
+  {
+   "fantlabId": 932305,
+   "titleEn": "Deathwatch",
+   "titleRu": "Караул Смерти",
+   "ru": "official",
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Караул Смерти",
+   "fantlabRating": 8.25,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 1149366,
+   "titleEn": "Shadowbreaker",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Караул Смерти",
+   "fantlabRating": 8.1,
+   "fantlabVoters": 21
+  },
+  {
+   "fantlabId": 880418,
+   "titleEn": "Carcharodons: Red Tithe",
+   "titleRu": "Кархародоны. Красная подать",
+   "ru": "official",
+   "authors": [
+    "Robbie MacNiven"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кархародоны",
+   "fantlabRating": 7.85,
+   "fantlabVoters": 61
+  },
+  {
+   "fantlabId": 1012375,
+   "titleEn": "Carcharodons: Outer Dark",
+   "titleRu": "Кархародоны. Внешняя тьма",
+   "ru": "official",
+   "authors": [
+    "Robbie MacNiven"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кархародоны",
+   "fantlabRating": 7.95,
+   "fantlabVoters": 42
+  },
+  {
+   "fantlabId": 36070,
+   "titleEn": "Space Wolf",
+   "titleRu": "Космический Волк",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 1999,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.61,
+   "fantlabVoters": 371
+  },
+  {
+   "fantlabId": 36071,
+   "titleEn": "Ragnar’s Claw",
+   "titleRu": "Коготь Рагнара",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 1999,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.41,
+   "fantlabVoters": 324
+  },
+  {
+   "fantlabId": 36080,
+   "titleEn": "Grey Hunter",
+   "titleRu": "Серый Охотник",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.58,
+   "fantlabVoters": 300
+  },
+  {
+   "fantlabId": 36090,
+   "titleEn": "Wolfblade",
+   "titleRu": "Волчий Клинок",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.49,
+   "fantlabVoters": 271
+  },
+  {
+   "fantlabId": 83771,
+   "titleEn": "Sons of Fenris",
+   "titleRu": "Сыны Фенриса",
+   "ru": "official",
+   "authors": [
+    "Lee Lightner"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.37,
+   "fantlabVoters": 158
+  },
+  {
+   "fantlabId": 83772,
+   "titleEn": "Wolfs Honour",
+   "titleRu": "Честь Волка",
+   "ru": "official",
+   "authors": [
+    "Lee Lightner"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Космический Волк",
+   "fantlabRating": 7.58,
+   "fantlabVoters": 117
+  },
+  {
+   "fantlabId": 436825,
+   "titleEn": "Blood of Asaheim",
+   "titleRu": "Кровь Асахейма",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кровь Асахейма",
+   "fantlabRating": 8.27,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 761578,
+   "titleEn": "Stormcaller",
+   "titleRu": "Зовущий бурю",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кровь Асахейма",
+   "fantlabRating": 8.49,
+   "fantlabVoters": 35
+  },
+  {
+   "fantlabId": 710415,
+   "titleEn": "Ragnar Blackmane",
+   "titleRu": "Рагнар Чёрная Грива",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2015,
+   "fantlabType": "novella",
+   "fantlabSeries": "Легенды Космического Десанта",
+   "fantlabRating": 8.42,
+   "fantlabVoters": 50
+  },
+  {
+   "fantlabId": 926900,
+   "titleEn": "Lemartes",
+   "titleRu": "Лемартес",
+   "ru": "official",
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2016,
+   "fantlabType": "novella",
+   "fantlabSeries": "Легенды Космического Десанта",
+   "fantlabRating": 7.71,
+   "fantlabVoters": 35
+  },
+  {
+   "fantlabId": 1016791,
+   "titleEn": "Mephiston: Blood of Sanguinius",
+   "titleRu": "Мефистон. Кровь Сангвиния",
+   "ru": "official",
+   "authors": [
+    "Darius Hinks"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Мефистон",
+   "fantlabRating": 7,
+   "fantlabVoters": 36
+  },
+  {
+   "fantlabId": 59099,
+   "titleEn": "Grey Knights",
+   "titleRu": "Серые Рыцари",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Серые Рыцари",
+   "fantlabRating": 7.37,
+   "fantlabVoters": 220
+  },
+  {
+   "fantlabId": 59101,
+   "titleEn": "Dark Adeptus",
+   "titleRu": "Адепты Тьмы",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Серые Рыцари",
+   "fantlabRating": 7.45,
+   "fantlabVoters": 193
+  },
+  {
+   "fantlabId": 59103,
+   "titleEn": "Hammer of Daemons",
+   "titleRu": "Молот демонов",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Серые Рыцари",
+   "fantlabRating": 7.53,
+   "fantlabVoters": 118
+  },
+  {
+   "fantlabId": 36294,
+   "titleEn": "Nightbringer",
+   "titleRu": "Несущий ночь",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ультрамарины",
+   "fantlabRating": 7.48,
+   "fantlabVoters": 317
+  },
+  {
+   "fantlabId": 36303,
+   "titleEn": "Warriors of Ultramar",
+   "titleRu": "Воины Ультрамара",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ультрамарины",
+   "fantlabRating": 7.59,
+   "fantlabVoters": 289
+  },
+  {
+   "fantlabId": 36305,
+   "titleEn": "Dead Sky, Black Sun",
+   "titleRu": "Чёрное солнце",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ультрамарины",
+   "fantlabRating": 7.35,
+   "fantlabVoters": 278
+  },
+  {
+   "fantlabId": 92777,
+   "titleEn": "The Killing Ground",
+   "titleRu": "Зона поражения",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ультрамарины",
+   "fantlabRating": 7.52,
+   "fantlabVoters": 75
+  }
+ ]
+}

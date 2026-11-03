@@ -1,0 +1,1574 @@
+{
+ "36070": {
+  "ru": "https://fantlab.ru/images/editions/big/52666",
+  "en": "https://fantlab.ru/images/editions/big/166032",
+  "pages": 384
+ },
+ "36071": {
+  "ru": "https://fantlab.ru/images/editions/big/11811",
+  "en": "https://fantlab.ru/images/editions/big/165968",
+  "pages": 416
+ },
+ "36080": {
+  "ru": "https://fantlab.ru/images/editions/big/11813",
+  "en": "https://fantlab.ru/images/editions/big/165791",
+  "pages": 352
+ },
+ "36090": {
+  "ru": "https://fantlab.ru/images/editions/big/11814",
+  "en": "https://fantlab.ru/images/editions/big/165790",
+  "pages": 384
+ },
+ "36114": {
+  "ru": "https://fantlab.ru/images/editions/big/54406",
+  "en": "https://fantlab.ru/images/editions/big/43005",
+  "pages": 352
+ },
+ "36115": {
+  "ru": "https://fantlab.ru/images/editions/big/76770",
+  "en": "https://fantlab.ru/images/editions/big/43006",
+  "pages": 384
+ },
+ "36120": {
+  "ru": "https://fantlab.ru/images/editions/big/109599",
+  "en": "https://covers.openlibrary.org/b/id/894522-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/894522-L.jpg"
+ },
+ "36121": {
+  "ru": "https://fantlab.ru/images/editions/big/99973",
+  "en": "https://fantlab.ru/images/editions/big/43008",
+  "pages": 352
+ },
+ "36123": {
+  "ru": "https://fantlab.ru/images/editions/big/11815",
+  "en": "https://fantlab.ru/images/editions/big/42999",
+  "pages": 448
+ },
+ "36124": {
+  "ru": "https://fantlab.ru/images/editions/big/11816",
+  "en": "https://fantlab.ru/images/editions/big/42998",
+  "pages": 416
+ },
+ "36128": {
+  "ru": "https://fantlab.ru/images/editions/big/12284",
+  "en": "https://fantlab.ru/images/editions/big/43002",
+  "pages": 416
+ },
+ "36129": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/43001",
+  "pages": 315
+ },
+ "36130": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/43004",
+  "pages": 320
+ },
+ "36137": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/43041",
+  "pages": 320
+ },
+ "36146": {
+  "ru": "https://fantlab.ru/images/editions/big/50269",
+  "en": "https://covers.openlibrary.org/b/id/894565-L.jpg",
+  "pages": 544,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/894565-L.jpg"
+ },
+ "36149": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/894678-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/894678-L.jpg"
+ },
+ "36151": {
+  "ru": "https://fantlab.ru/images/editions/big/13024",
+  "en": "https://fantlab.ru/images/editions/big/80032",
+  "pages": 448
+ },
+ "36152": {
+  "ru": "https://fantlab.ru/images/editions/big/15670",
+  "en": "https://fantlab.ru/images/editions/big/168203",
+  "pages": 464
+ },
+ "36153": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/42623",
+  "pages": 416
+ },
+ "36155": {
+  "ru": "https://fantlab.ru/images/editions/big/44143",
+  "en": "https://fantlab.ru/images/editions/big/166029",
+  "pages": 416
+ },
+ "36156": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/42633",
+  "pages": 416
+ },
+ "36166": {
+  "ru": "https://fantlab.ru/images/editions/big/51871",
+  "en": "https://fantlab.ru/images/editions/big/165571",
+  "pages": 480
+ },
+ "36294": {
+  "ru": "https://fantlab.ru/images/editions/big/11829",
+  "en": "https://fantlab.ru/images/editions/big/166177",
+  "pages": 480
+ },
+ "36295": {
+  "ru": "https://fantlab.ru/images/editions/big/306728",
+  "en": "https://fantlab.ru/images/editions/big/42606",
+  "pages": 624
+ },
+ "36303": {
+  "ru": "https://fantlab.ru/images/editions/big/11831",
+  "en": "https://fantlab.ru/images/editions/big/168205",
+  "pages": 448
+ },
+ "36305": {
+  "ru": "https://fantlab.ru/images/editions/big/11832",
+  "en": "https://fantlab.ru/images/editions/big/168204",
+  "pages": 480
+ },
+ "36311": {
+  "ru": "https://fantlab.ru/images/editions/big/54405",
+  "en": "https://fantlab.ru/images/editions/big/165572",
+  "pages": 448
+ },
+ "37611": {
+  "ru": "https://fantlab.ru/images/editions/big/12183",
+  "en": null,
+  "pages": 416,
+  "olOk": true,
+  "olUrl": null
+ },
+ "37615": {
+  "ru": "https://fantlab.ru/images/editions/big/15954",
+  "en": null,
+  "pages": 352,
+  "olOk": true
+ },
+ "37617": {
+  "ru": "https://fantlab.ru/images/editions/big/59806",
+  "en": "https://fantlab.ru/images/editions/big/42632",
+  "pages": 384
+ },
+ "37618": {
+  "ru": "https://fantlab.ru/images/editions/big/50268",
+  "en": null,
+  "pages": 416,
+  "olOk": true
+ },
+ "55518": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165567",
+  "pages": 416
+ },
+ "55737": {
+  "ru": "https://fantlab.ru/images/editions/big/44657",
+  "en": "https://fantlab.ru/images/editions/big/42628",
+  "pages": 480
+ },
+ "58546": {
+  "ru": "https://fantlab.ru/images/editions/big/58274",
+  "en": "https://fantlab.ru/images/editions/big/165570",
+  "pages": 416
+ },
+ "59095": {
+  "ru": "https://fantlab.ru/images/editions/big/70990",
+  "en": "https://fantlab.ru/images/editions/big/170149",
+  "pages": 384
+ },
+ "59097": {
+  "ru": "https://fantlab.ru/images/editions/big/50267",
+  "en": "https://fantlab.ru/images/editions/big/43042",
+  "pages": 384
+ },
+ "59099": {
+  "ru": "https://fantlab.ru/images/editions/big/86528",
+  "en": null,
+  "pages": 448,
+  "olOk": true,
+  "olUrl": null
+ },
+ "59100": {
+  "ru": "https://fantlab.ru/images/editions/big/54407",
+  "en": "https://fantlab.ru/images/editions/big/43043",
+  "pages": 384
+ },
+ "59101": {
+  "ru": "https://fantlab.ru/images/editions/big/86529",
+  "en": null,
+  "pages": 384,
+  "olOk": true,
+  "olUrl": null
+ },
+ "59103": {
+  "ru": "https://fantlab.ru/images/editions/big/83143",
+  "en": "https://covers.openlibrary.org/b/id/2029144-L.jpg",
+  "pages": 352,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/2029144-L.jpg"
+ },
+ "59107": {
+  "ru": "https://fantlab.ru/images/editions/big/17361",
+  "en": "https://fantlab.ru/images/editions/big/166030",
+  "pages": 384
+ },
+ "59111": {
+  "ru": "https://fantlab.ru/images/editions/big/17360",
+  "en": "https://fantlab.ru/images/editions/big/166031",
+  "pages": 384
+ },
+ "59137": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/93962",
+  "pages": 415
+ },
+ "59141": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165564",
+  "pages": 416
+ },
+ "63661": {
+  "ru": "https://fantlab.ru/images/editions/big/62842",
+  "en": "https://fantlab.ru/images/editions/big/165872",
+  "pages": 384
+ },
+ "65013": {
+  "ru": "https://fantlab.ru/images/editions/big/59807",
+  "en": "https://fantlab.ru/images/editions/big/165569",
+  "pages": 416
+ },
+ "65016": {
+  "ru": "https://fantlab.ru/images/editions/big/58270",
+  "en": "https://fantlab.ru/images/editions/big/42631",
+  "pages": 352
+ },
+ "73236": {
+  "ru": "https://fantlab.ru/images/editions/big/51869",
+  "en": "https://fantlab.ru/images/editions/big/42629",
+  "pages": 384
+ },
+ "81728": {
+  "ru": "https://fantlab.ru/images/editions/big/20049",
+  "en": "https://fantlab.ru/images/editions/big/168207",
+  "pages": 432
+ },
+ "83771": {
+  "ru": "https://fantlab.ru/images/editions/big/44121",
+  "en": "https://fantlab.ru/images/editions/big/165566",
+  "pages": 416
+ },
+ "83772": {
+  "ru": "https://fantlab.ru/images/editions/big/76772",
+  "en": "https://fantlab.ru/images/editions/big/165558",
+  "pages": 384
+ },
+ "92777": {
+  "ru": "https://fantlab.ru/images/editions/big/99970",
+  "en": "https://fantlab.ru/images/editions/big/42615",
+  "pages": 384
+ },
+ "117907": {
+  "ru": "https://fantlab.ru/images/editions/big/211921",
+  "en": "https://covers.openlibrary.org/b/id/8461443-L.jpg",
+  "pages": 512,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8461443-L.jpg"
+ },
+ "122049": {
+  "ru": "https://fantlab.ru/images/editions/big/73641",
+  "en": "https://covers.openlibrary.org/b/id/12923615-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/12923615-L.jpg"
+ },
+ "122050": {
+  "ru": "https://fantlab.ru/images/editions/big/103228",
+  "en": "https://fantlab.ru/images/editions/big/42626",
+  "pages": 384
+ },
+ "127949": {
+  "ru": "https://fantlab.ru/images/editions/big/68214",
+  "en": "https://fantlab.ru/images/editions/big/42630",
+  "pages": 416
+ },
+ "143720": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165496",
+  "pages": 416
+ },
+ "183163": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165871",
+  "pages": 316
+ },
+ "183166": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165565",
+  "pages": 416
+ },
+ "192162": {
+  "ru": "https://fantlab.ru/images/editions/big/99975",
+  "en": "https://fantlab.ru/images/editions/big/43065",
+  "pages": 320
+ },
+ "283118": {
+  "ru": "https://fantlab.ru/images/editions/big/68215",
+  "en": "https://fantlab.ru/images/editions/big/170150",
+  "pages": 384
+ },
+ "283119": {
+  "ru": "https://fantlab.ru/images/editions/big/72050",
+  "en": "https://fantlab.ru/images/editions/big/165971",
+  "pages": 512
+ },
+ "283120": {
+  "ru": "https://fantlab.ru/images/editions/big/72051",
+  "en": "https://fantlab.ru/images/editions/big/165972",
+  "pages": 384
+ },
+ "283121": {
+  "ru": "https://fantlab.ru/images/editions/big/86533",
+  "en": "https://fantlab.ru/images/editions/big/165974",
+  "pages": 384
+ },
+ "283122": {
+  "ru": "https://fantlab.ru/images/editions/big/76782",
+  "en": "https://fantlab.ru/images/editions/big/165973",
+  "pages": 416
+ },
+ "283135": {
+  "ru": "https://fantlab.ru/images/editions/big/70988",
+  "en": "https://fantlab.ru/images/editions/big/165568",
+  "pages": 448
+ },
+ "299994": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/69288",
+  "pages": 320
+ },
+ "310302": {
+  "ru": "https://fantlab.ru/images/editions/big/90073",
+  "en": "https://fantlab.ru/images/editions/big/71268",
+  "pages": 448
+ },
+ "310768": {
+  "ru": "https://fantlab.ru/images/editions/big/86535",
+  "en": "https://fantlab.ru/images/editions/big/71287",
+  "pages": 416
+ },
+ "312404": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/71552",
+  "pages": 320
+ },
+ "316075": {
+  "ru": "https://fantlab.ru/images/editions/big/83145",
+  "en": "https://fantlab.ru/images/editions/big/321371",
+  "pages": 320
+ },
+ "323693": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/74219",
+  "pages": 416
+ },
+ "326549": {
+  "ru": "https://fantlab.ru/images/editions/big/201032",
+  "en": "https://fantlab.ru/images/editions/big/165560",
+  "pages": 448
+ },
+ "336292": {
+  "ru": "https://fantlab.ru/images/editions/big/76781",
+  "en": "https://fantlab.ru/images/editions/big/168201",
+  "pages": 352
+ },
+ "336297": {
+  "ru": "https://fantlab.ru/images/editions/big/86534",
+  "en": "https://covers.openlibrary.org/b/id/7520174-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/7520174-L.jpg"
+ },
+ "345065": {
+  "ru": "https://fantlab.ru/images/editions/big/99972",
+  "en": "https://fantlab.ru/images/editions/big/78953",
+  "pages": 384
+ },
+ "346310": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/79329",
+  "pages": 416
+ },
+ "356585": {
+  "ru": "https://fantlab.ru/images/editions/big/86536",
+  "en": "https://fantlab.ru/images/editions/big/82164",
+  "pages": 384
+ },
+ "361153": {
+  "ru": "https://fantlab.ru/images/editions/big/83140",
+  "en": "https://fantlab.ru/images/editions/big/104753",
+  "pages": 384
+ },
+ "361155": {
+  "ru": "https://fantlab.ru/images/editions/big/90081",
+  "en": "https://fantlab.ru/images/editions/big/97745",
+  "pages": 384
+ },
+ "361156": {
+  "ru": "https://fantlab.ru/images/editions/big/106930",
+  "en": "https://fantlab.ru/images/editions/big/83884",
+  "pages": 448
+ },
+ "377000": {
+  "ru": "https://fantlab.ru/images/editions/big/251236",
+  "en": "https://fantlab.ru/images/editions/big/86549",
+  "pages": 384
+ },
+ "388201": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/343099",
+  "pages": 320
+ },
+ "391044": {
+  "ru": "https://fantlab.ru/images/editions/big/90074",
+  "en": "https://covers.openlibrary.org/b/id/7649286-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/7649286-L.jpg"
+ },
+ "391369": {
+  "ru": "https://fantlab.ru/images/editions/big/109594",
+  "en": "https://fantlab.ru/images/editions/big/90166",
+  "pages": 480
+ },
+ "398530": {
+  "ru": "https://fantlab.ru/images/editions/big/99969",
+  "en": "https://covers.openlibrary.org/b/id/7453225-L.jpg",
+  "pages": 320,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/7453225-L.jpg"
+ },
+ "407287": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/93963",
+  "pages": 413
+ },
+ "407288": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/93964",
+  "pages": 413
+ },
+ "410868": {
+  "ru": "https://fantlab.ru/images/editions/big/330548",
+  "en": "https://fantlab.ru/images/editions/big/94875",
+  "pages": 480
+ },
+ "422342": {
+  "ru": "https://fantlab.ru/images/editions/big/98238",
+  "en": "https://covers.openlibrary.org/b/id/7610229-L.jpg",
+  "pages": 320,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/7610229-L.jpg"
+ },
+ "426588": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/99235",
+  "pages": 320
+ },
+ "426614": {
+  "ru": "https://fantlab.ru/images/editions/big/163761",
+  "en": "https://fantlab.ru/images/editions/big/99257",
+  "pages": 576
+ },
+ "436825": {
+  "ru": "https://fantlab.ru/images/editions/big/189751",
+  "en": "https://covers.openlibrary.org/b/id/7743558-L.jpg",
+  "pages": 448,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/7743558-L.jpg"
+ },
+ "436826": {
+  "ru": "https://fantlab.ru/images/editions/big/179994",
+  "en": "https://fantlab.ru/images/editions/big/102049",
+  "pages": 448
+ },
+ "437961": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/102361",
+  "pages": 320
+ },
+ "443089": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165563",
+  "pages": 320
+ },
+ "443090": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165842",
+  "pages": 251
+ },
+ "443091": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165843",
+  "pages": 255
+ },
+ "450105": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/105333",
+  "pages": 316
+ },
+ "458257": {
+  "ru": "https://fantlab.ru/images/editions/big/106936",
+  "en": "https://fantlab.ru/images/editions/big/165501",
+  "pages": 384
+ },
+ "458716": {
+  "ru": "https://fantlab.ru/images/editions/big/107007",
+  "en": "https://fantlab.ru/images/editions/big/165502",
+  "pages": 416
+ },
+ "473972": {
+  "ru": "https://fantlab.ru/images/editions/big/109428",
+  "en": "https://fantlab.ru/images/editions/big/434485",
+  "pages": 384
+ },
+ "473973": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/434487",
+  "pages": 401
+ },
+ "473974": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/434488",
+  "pages": 409
+ },
+ "473975": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/361963",
+  "pages": 414
+ },
+ "474526": {
+  "ru": "https://fantlab.ru/images/editions/big/109598",
+  "en": "https://covers.openlibrary.org/b/id/894817-L.jpg",
+  "pages": 448,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/894817-L.jpg"
+ },
+ "572386": {
+  "ru": "https://fantlab.ru/images/editions/big/166172",
+  "en": "https://fantlab.ru/images/editions/big/170132",
+  "pages": 480
+ },
+ "596776": {
+  "ru": "https://fantlab.ru/images/editions/big/174593",
+  "en": "https://fantlab.ru/images/editions/big/170138",
+  "pages": 352
+ },
+ "709616": {
+  "ru": "https://fantlab.ru/images/editions/big/171358",
+  "en": "https://fantlab.ru/images/editions/big/170137",
+  "pages": 416
+ },
+ "710415": {
+  "ru": "https://fantlab.ru/images/editions/big/200570",
+  "en": "https://fantlab.ru/images/editions/big/159271",
+  "pages": 208
+ },
+ "710416": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165249",
+  "pages": 128
+ },
+ "710418": {
+  "ru": "https://fantlab.ru/images/editions/big/174015",
+  "en": "https://fantlab.ru/images/editions/big/165844",
+  "pages": 416
+ },
+ "710421": {
+  "ru": "https://fantlab.ru/images/editions/big/173324",
+  "en": "https://fantlab.ru/images/editions/big/165229",
+  "pages": 416
+ },
+ "739761": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/164333",
+  "pages": 320
+ },
+ "742235": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/15252745-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "manual": true
+ },
+ "745920": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/165839",
+  "pages": 412
+ },
+ "757233": {
+  "ru": "https://fantlab.ru/images/editions/big/167189",
+  "en": "https://fantlab.ru/images/editions/big/170136",
+  "pages": 448
+ },
+ "759847": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/361964",
+  "pages": 413
+ },
+ "759848": {
+  "ru": "https://fantlab.ru/images/editions/big/195715",
+  "en": null,
+  "pages": 128,
+  "olOk": true
+ },
+ "761578": {
+  "ru": "https://fantlab.ru/images/editions/big/196413",
+  "en": "https://covers.openlibrary.org/b/id/10711158-L.jpg",
+  "pages": 448,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10711158-L.jpg"
+ },
+ "763523": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/168707",
+  "pages": 416
+ },
+ "770364": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/343100",
+  "pages": 320
+ },
+ "770365": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/343101",
+  "pages": 320
+ },
+ "770367": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/8596488-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8596488-L.jpg"
+ },
+ "777864": {
+  "ru": "https://fantlab.ru/images/editions/big/171414",
+  "en": "https://fantlab.ru/images/editions/big/172864",
+  "pages": 416
+ },
+ "777929": {
+  "ru": "https://fantlab.ru/images/editions/big/189278",
+  "en": "https://fantlab.ru/images/editions/big/172865",
+  "pages": 576
+ },
+ "777931": {
+  "ru": "https://fantlab.ru/images/editions/big/197025",
+  "en": "https://fantlab.ru/images/editions/big/172860",
+  "pages": 416
+ },
+ "801172": {
+  "ru": "https://fantlab.ru/images/editions/big/196416",
+  "en": "https://fantlab.ru/images/editions/big/174719",
+  "pages": 480
+ },
+ "801187": {
+  "ru": "https://fantlab.ru/images/editions/big/200327",
+  "en": "https://covers.openlibrary.org/b/id/10330119-L.jpg",
+  "pages": 512,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10330119-L.jpg"
+ },
+ "802056": {
+  "ru": "https://fantlab.ru/images/editions/big/217199",
+  "en": null,
+  "pages": 400,
+  "olOk": true
+ },
+ "813725": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "828874": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "828875": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "828876": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "839995": {
+  "ru": "https://fantlab.ru/images/editions/big/182861",
+  "en": null,
+  "pages": 240,
+  "olOk": true
+ },
+ "842682": {
+  "ru": "https://fantlab.ru/images/editions/big/209687",
+  "en": null,
+  "pages": 272,
+  "olOk": true
+ },
+ "851279": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/216113",
+  "pages": null
+ },
+ "858169": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/205876",
+  "pages": 142
+ },
+ "858189": {
+  "ru": "https://fantlab.ru/images/editions/big/295503",
+  "en": "https://covers.openlibrary.org/b/id/10516851-L.jpg",
+  "pages": 416,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10516851-L.jpg"
+ },
+ "858569": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/12618817-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/12618817-L.jpg"
+ },
+ "865458": {
+  "ru": "https://fantlab.ru/images/editions/big/281002",
+  "en": "https://covers.openlibrary.org/b/id/10710520-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10710520-L.jpg"
+ },
+ "866789": {
+  "ru": "https://fantlab.ru/images/editions/big/211923",
+  "en": "https://covers.openlibrary.org/b/id/12836690-L.jpg",
+  "pages": 352,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/12836690-L.jpg"
+ },
+ "873765": {
+  "ru": "https://fantlab.ru/images/editions/big/205746",
+  "en": "https://fantlab.ru/images/editions/big/190812",
+  "pages": 192
+ },
+ "880418": {
+  "ru": "https://fantlab.ru/images/editions/big/228257",
+  "en": "https://covers.openlibrary.org/b/id/8446358-L.jpg",
+  "pages": 352,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8446358-L.jpg"
+ },
+ "908261": {
+  "ru": "https://fantlab.ru/images/editions/big/211255",
+  "en": "https://fantlab.ru/images/editions/big/197541",
+  "pages": 208
+ },
+ "912367": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/10191665-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10191665-L.jpg"
+ },
+ "914458": {
+  "ru": "https://fantlab.ru/images/editions/big/207087",
+  "en": "https://fantlab.ru/images/editions/big/199968",
+  "pages": 608
+ },
+ "914482": {
+  "ru": "https://fantlab.ru/images/editions/big/206942",
+  "en": "https://fantlab.ru/images/editions/big/199967",
+  "pages": 480
+ },
+ "915589": {
+  "ru": "https://fantlab.ru/images/editions/big/225192",
+  "en": "https://fantlab.ru/images/editions/big/199956",
+  "pages": 224
+ },
+ "926900": {
+  "ru": "https://fantlab.ru/images/editions/big/228256",
+  "en": "https://covers.openlibrary.org/b/id/8541328-L.jpg",
+  "pages": 208,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8541328-L.jpg"
+ },
+ "932305": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/328362",
+  "pages": 414
+ },
+ "939737": {
+  "ru": "https://fantlab.ru/images/editions/big/238613",
+  "en": "https://fantlab.ru/images/editions/big/207171",
+  "pages": 368
+ },
+ "941814": {
+  "ru": "https://fantlab.ru/images/editions/big/211920",
+  "en": "https://fantlab.ru/images/editions/big/206892",
+  "pages": 480
+ },
+ "941819": {
+  "ru": "https://fantlab.ru/images/editions/big/224575",
+  "en": "https://fantlab.ru/images/editions/big/206894",
+  "pages": 448
+ },
+ "942739": {
+  "ru": "https://fantlab.ru/images/editions/big/231167",
+  "en": "https://fantlab.ru/images/editions/big/207104",
+  "pages": 448
+ },
+ "942740": {
+  "ru": "https://fantlab.ru/images/editions/big/248347",
+  "en": "https://covers.openlibrary.org/b/id/9372397-L.jpg",
+  "pages": 576,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/9372397-L.jpg"
+ },
+ "942741": {
+  "ru": "https://fantlab.ru/images/editions/big/223002",
+  "en": null,
+  "pages": 240,
+  "olOk": true
+ },
+ "943352": {
+  "ru": "https://fantlab.ru/images/editions/big/241855",
+  "en": "https://covers.openlibrary.org/b/id/8750970-L.jpg",
+  "pages": 240,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8750970-L.jpg"
+ },
+ "958548": {
+  "ru": "https://fantlab.ru/images/editions/big/211922",
+  "en": "https://covers.openlibrary.org/b/id/10106523-L.jpg",
+  "pages": 368,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10106523-L.jpg"
+ },
+ "961793": {
+  "ru": "https://fantlab.ru/images/editions/big/217110",
+  "en": "https://fantlab.ru/images/editions/big/211919",
+  "pages": 464
+ },
+ "962013": {
+  "ru": "https://fantlab.ru/images/editions/big/241640",
+  "en": "https://covers.openlibrary.org/b/id/10711154-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10711154-L.jpg"
+ },
+ "988821": {
+  "ru": "https://fantlab.ru/images/editions/big/248350",
+  "en": "https://covers.openlibrary.org/b/id/8454342-L.jpg",
+  "pages": 512,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8454342-L.jpg"
+ },
+ "988827": {
+  "ru": "https://fantlab.ru/images/editions/big/255207",
+  "en": null,
+  "pages": 224,
+  "olOk": true
+ },
+ "989152": {
+  "ru": "https://fantlab.ru/images/editions/big/256686",
+  "en": "https://covers.openlibrary.org/b/id/8764296-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8764296-L.jpg"
+ },
+ "989153": {
+  "ru": "https://fantlab.ru/images/editions/big/252961",
+  "en": "https://covers.openlibrary.org/b/id/9200398-L.jpg",
+  "pages": 480,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/9200398-L.jpg"
+ },
+ "989154": {
+  "ru": "https://fantlab.ru/images/editions/big/314616",
+  "en": "https://covers.openlibrary.org/b/id/10710679-L.jpg",
+  "pages": 256,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10710679-L.jpg"
+ },
+ "989157": {
+  "ru": "https://fantlab.ru/images/editions/big/228284",
+  "en": "https://covers.openlibrary.org/b/id/10691720-L.jpg",
+  "pages": 464,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10691720-L.jpg"
+ },
+ "989160": {
+  "ru": "https://fantlab.ru/images/editions/big/240018",
+  "en": "https://covers.openlibrary.org/b/id/14181758-L.jpg",
+  "pages": 512,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14181758-L.jpg"
+ },
+ "997353": {
+  "ru": "https://fantlab.ru/images/editions/big/269855",
+  "en": "https://covers.openlibrary.org/b/id/14841160-L.jpg",
+  "pages": 392,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14841160-L.jpg"
+ },
+ "1005623": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1007181": {
+  "ru": "https://fantlab.ru/images/editions/big/265694",
+  "en": "https://covers.openlibrary.org/b/id/8750968-L.jpg",
+  "pages": 412,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8750968-L.jpg"
+ },
+ "1007182": {
+  "ru": "https://fantlab.ru/images/editions/big/321761",
+  "en": "https://covers.openlibrary.org/b/id/8501749-L.jpg",
+  "pages": 480,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8501749-L.jpg"
+ },
+ "1012375": {
+  "ru": "https://fantlab.ru/images/editions/big/302790",
+  "en": null,
+  "pages": 384,
+  "olOk": true
+ },
+ "1013161": {
+  "ru": "https://fantlab.ru/images/editions/big/256433",
+  "en": "https://covers.openlibrary.org/b/id/10398511-L.jpg",
+  "pages": 640,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10398511-L.jpg"
+ },
+ "1016791": {
+  "ru": "https://fantlab.ru/images/editions/big/265234",
+  "en": "https://covers.openlibrary.org/b/id/8765200-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8765200-L.jpg"
+ },
+ "1016811": {
+  "ru": "https://fantlab.ru/images/editions/big/225195",
+  "en": null,
+  "pages": 368,
+  "olOk": true
+ },
+ "1016843": {
+  "ru": "https://fantlab.ru/images/editions/big/322757",
+  "en": null,
+  "pages": 416,
+  "olOk": true
+ },
+ "1018133": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/10716287-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10716287-L.jpg"
+ },
+ "1018143": {
+  "ru": "https://fantlab.ru/images/editions/big/284634",
+  "en": "https://covers.openlibrary.org/b/id/11495025-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/11495025-L.jpg"
+ },
+ "1036606": {
+  "ru": "https://fantlab.ru/images/editions/big/264484",
+  "en": "https://covers.openlibrary.org/b/id/10710681-L.jpg",
+  "pages": 536,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10710681-L.jpg"
+ },
+ "1038095": {
+  "ru": "https://fantlab.ru/images/editions/big/410236",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1054845": {
+  "ru": "https://fantlab.ru/images/editions/big/279044",
+  "en": "https://covers.openlibrary.org/b/id/10185915-L.jpg",
+  "pages": 352,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10185915-L.jpg"
+ },
+ "1060504": {
+  "ru": "https://fantlab.ru/images/editions/big/305873",
+  "en": "https://covers.openlibrary.org/b/id/8567833-L.jpg",
+  "pages": 368,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8567833-L.jpg"
+ },
+ "1060505": {
+  "ru": "https://fantlab.ru/images/editions/big/418611",
+  "en": "https://covers.openlibrary.org/b/id/8600634-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/8600634-L.jpg"
+ },
+ "1065087": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/500851",
+  "pages": 394
+ },
+ "1078820": {
+  "ru": "https://fantlab.ru/images/editions/big/277867",
+  "en": "https://covers.openlibrary.org/b/id/13236088-L.jpg",
+  "pages": 432,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/13236088-L.jpg"
+ },
+ "1083289": {
+  "ru": "https://fantlab.ru/images/editions/big/296535",
+  "en": "https://covers.openlibrary.org/b/id/10424118-L.jpg",
+  "pages": 472,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10424118-L.jpg"
+ },
+ "1088369": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1094707": {
+  "ru": "https://fantlab.ru/images/editions/big/289250",
+  "en": "https://covers.openlibrary.org/b/id/10376533-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10376533-L.jpg"
+ },
+ "1097541": {
+  "ru": "https://fantlab.ru/images/editions/big/309791",
+  "en": "https://covers.openlibrary.org/b/id/14841162-L.jpg",
+  "pages": 416,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14841162-L.jpg"
+ },
+ "1105331": {
+  "ru": "https://fantlab.ru/images/editions/big/432766",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1111928": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/10493764-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10493764-L.jpg"
+ },
+ "1122239": {
+  "ru": "https://fantlab.ru/images/editions/big/315183",
+  "en": null,
+  "pages": 352,
+  "olOk": true
+ },
+ "1127493": {
+  "ru": "https://fantlab.ru/images/editions/big/303294",
+  "en": "https://covers.openlibrary.org/b/id/14841161-L.jpg",
+  "pages": 420,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14841161-L.jpg"
+ },
+ "1127499": {
+  "ru": "https://fantlab.ru/images/editions/big/270268",
+  "en": "https://covers.openlibrary.org/b/id/15247244-L.jpg",
+  "pages": 224,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15247244-L.jpg"
+ },
+ "1142243": {
+  "ru": "https://fantlab.ru/images/editions/big/253130",
+  "en": "https://covers.openlibrary.org/b/id/13291041-L.jpg",
+  "pages": 432,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/13291041-L.jpg"
+ },
+ "1149366": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/462956",
+  "pages": 570
+ },
+ "1151569": {
+  "ru": "https://fantlab.ru/images/editions/big/274869",
+  "en": null,
+  "pages": 224,
+  "olOk": true
+ },
+ "1177584": {
+  "ru": "https://fantlab.ru/images/editions/big/312560",
+  "en": null,
+  "pages": 352,
+  "olOk": true
+ },
+ "1194961": {
+  "ru": "https://fantlab.ru/images/editions/big/304047",
+  "en": "https://covers.openlibrary.org/b/id/14265288-L.jpg",
+  "pages": 416,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14265288-L.jpg"
+ },
+ "1201390": {
+  "ru": "https://fantlab.ru/images/editions/big/306515",
+  "en": null,
+  "pages": 480,
+  "olOk": true
+ },
+ "1210026": {
+  "ru": "https://fantlab.ru/images/editions/big/315228",
+  "en": "https://covers.openlibrary.org/b/id/10225719-L.jpg",
+  "pages": 432,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10225719-L.jpg"
+ },
+ "1219199": {
+  "ru": "https://fantlab.ru/images/editions/big/309644",
+  "en": null,
+  "pages": 208,
+  "olOk": true
+ },
+ "1252209": {
+  "ru": "https://fantlab.ru/images/editions/big/315403",
+  "en": "https://covers.openlibrary.org/b/id/10711150-L.jpg",
+  "pages": 448,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10711150-L.jpg"
+ },
+ "1252210": {
+  "ru": "https://fantlab.ru/images/editions/big/314853",
+  "en": "https://covers.openlibrary.org/b/id/9355950-L.jpg",
+  "pages": 176,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/9355950-L.jpg"
+ },
+ "1277480": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/10468475-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10468475-L.jpg"
+ },
+ "1302332": {
+  "ru": "https://fantlab.ru/images/editions/big/339398",
+  "en": "https://covers.openlibrary.org/b/id/10413534-L.jpg",
+  "pages": 592,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10413534-L.jpg"
+ },
+ "1312691": {
+  "ru": "https://fantlab.ru/images/editions/big/335214",
+  "en": null,
+  "pages": 608,
+  "olOk": true
+ },
+ "1312694": {
+  "ru": "https://fantlab.ru/images/editions/big/335810",
+  "en": "https://covers.openlibrary.org/b/id/14119708-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14119708-L.jpg"
+ },
+ "1328527": {
+  "ru": "https://fantlab.ru/images/editions/big/324149",
+  "en": null,
+  "pages": 416,
+  "olOk": true
+ },
+ "1331448": {
+  "ru": "https://fantlab.ru/images/editions/big/354778",
+  "en": "https://covers.openlibrary.org/b/id/14037359-L.jpg",
+  "pages": 592,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14037359-L.jpg"
+ },
+ "1342206": {
+  "ru": "https://fantlab.ru/images/editions/big/318826",
+  "en": "https://covers.openlibrary.org/b/id/12750157-L.jpg",
+  "pages": 384,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/12750157-L.jpg"
+ },
+ "1344078": {
+  "ru": "https://fantlab.ru/images/editions/big/332664",
+  "en": null,
+  "pages": 432,
+  "olOk": true
+ },
+ "1345154": {
+  "ru": "https://fantlab.ru/images/editions/big/341024",
+  "en": null,
+  "pages": 272,
+  "olOk": true
+ },
+ "1347057": {
+  "ru": "https://fantlab.ru/images/editions/big/330128",
+  "en": null,
+  "pages": 416,
+  "olOk": true
+ },
+ "1350292": {
+  "ru": "https://fantlab.ru/images/editions/big/345056",
+  "en": "https://covers.openlibrary.org/b/id/12728043-L.jpg",
+  "pages": 440,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/12728043-L.jpg"
+ },
+ "1358846": {
+  "ru": "https://fantlab.ru/images/editions/big/322857",
+  "en": "https://covers.openlibrary.org/b/id/10868430-L.jpg",
+  "pages": 480,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10868430-L.jpg"
+ },
+ "1359415": {
+  "ru": "https://fantlab.ru/images/editions/big/343941",
+  "en": null,
+  "pages": 224,
+  "olOk": true
+ },
+ "1395421": {
+  "ru": "https://fantlab.ru/images/editions/big/407900",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1402628": {
+  "ru": "https://fantlab.ru/images/editions/big/343097",
+  "en": "https://covers.openlibrary.org/b/id/15255046-L.jpg",
+  "pages": 528,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15255046-L.jpg"
+ },
+ "1418589": {
+  "ru": "https://fantlab.ru/images/editions/big/339189",
+  "en": null,
+  "pages": 208,
+  "olOk": true
+ },
+ "1419766": {
+  "ru": "https://fantlab.ru/images/editions/big/340951",
+  "en": "https://covers.openlibrary.org/b/id/10711147-L.jpg",
+  "pages": 576,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10711147-L.jpg"
+ },
+ "1428765": {
+  "ru": "https://fantlab.ru/images/editions/big/352411",
+  "en": null,
+  "pages": 544,
+  "olOk": true
+ },
+ "1432908": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/13447411-L.jpg",
+  "pages": null,
+  "manual": true
+ },
+ "1435087": {
+  "ru": "https://fantlab.ru/images/editions/big/449364",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1439233": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1445372": {
+  "ru": "https://fantlab.ru/images/editions/big/428595",
+  "en": "https://covers.openlibrary.org/b/id/13162183-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/13162183-L.jpg"
+ },
+ "1445374": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1445376": {
+  "ru": "https://fantlab.ru/images/editions/big/451049",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1491322": {
+  "ru": "https://fantlab.ru/images/editions/big/428630",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1503418": {
+  "ru": "https://fantlab.ru/images/editions/big/518814",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1522827": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/15253022-L.jpg",
+  "pages": null,
+  "manual": true
+ },
+ "1527586": {
+  "ru": "https://fantlab.ru/images/editions/big/418610",
+  "en": "https://fantlab.ru/images/editions/big/389443",
+  "pages": 368
+ },
+ "1527588": {
+  "ru": "https://fantlab.ru/images/editions/big/478933",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1538853": {
+  "ru": "https://fantlab.ru/images/editions/big/403144",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1550297": {
+  "ru": "https://fantlab.ru/images/editions/big/438682",
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1560895": {
+  "ru": "https://fantlab.ru/images/editions/big/459049",
+  "en": "https://covers.openlibrary.org/b/id/15253081-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15253081-L.jpg"
+ },
+ "1610868": {
+  "ru": "https://fantlab.ru/images/editions/big/438685",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1610869": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "1613059": {
+  "ru": "https://fantlab.ru/images/editions/big/415898",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1617261": {
+  "ru": "https://fantlab.ru/images/editions/big/462948",
+  "en": "https://covers.openlibrary.org/b/id/13239218-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/13239218-L.jpg"
+ },
+ "1640205": {
+  "ru": "https://fantlab.ru/images/editions/big/407905",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1649973": {
+  "ru": "https://fantlab.ru/images/editions/big/449362",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1653877": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/13610253-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/13610253-L.jpg"
+ },
+ "1660163": {
+  "ru": "https://fantlab.ru/images/editions/big/415037",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1679010": {
+  "ru": "https://fantlab.ru/images/editions/big/459047",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1687825": {
+  "ru": "https://fantlab.ru/images/editions/big/460427",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1692101": {
+  "ru": "https://fantlab.ru/images/editions/big/458220",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1692102": {
+  "ru": "https://fantlab.ru/images/editions/big/464832",
+  "en": "https://covers.openlibrary.org/b/id/15252998-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15252998-L.jpg"
+ },
+ "1718748": {
+  "ru": "https://fantlab.ru/images/editions/big/430309",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1743566": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/15248807-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15248807-L.jpg"
+ },
+ "1748267": {
+  "ru": "https://fantlab.ru/images/editions/big/497144",
+  "en": "https://covers.openlibrary.org/b/id/15253307-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15253307-L.jpg"
+ },
+ "1764659": {
+  "ru": null,
+  "en": "https://fantlab.ru/images/editions/big/500856",
+  "pages": 352
+ },
+ "1777526": {
+  "ru": "https://fantlab.ru/images/editions/big/483542",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1779051": {
+  "ru": "https://fantlab.ru/images/editions/big/452689",
+  "en": "https://covers.openlibrary.org/b/id/14750348-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/14750348-L.jpg"
+ },
+ "1792080": {
+  "ru": "https://fantlab.ru/images/editions/big/434146",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1797305": {
+  "ru": "https://fantlab.ru/images/editions/big/462949",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "1807850": {
+  "ru": "https://fantlab.ru/images/editions/big/494392",
+  "en": "https://covers.openlibrary.org/b/id/15253916-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15253916-L.jpg"
+ },
+ "1824520": {
+  "ru": "https://fantlab.ru/images/editions/big/407909",
+  "en": "https://fantlab.ru/images/editions/big/406563",
+  "pages": 512
+ },
+ "1942133": {
+  "ru": "https://fantlab.ru/images/editions/big/506833",
+  "en": "https://covers.openlibrary.org/b/id/15253917-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15253917-L.jpg"
+ },
+ "2016145": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/15248098-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15248098-L.jpg"
+ },
+ "2156016": {
+  "ru": "https://fantlab.ru/images/editions/big/506834",
+  "en": null,
+  "pages": null,
+  "olOk": true,
+  "olUrl": null
+ },
+ "2219741": {
+  "ru": "https://fantlab.ru/images/editions/big/515598",
+  "en": "https://fantlab.ru/images/editions/big/478953",
+  "pages": 400
+ },
+ "2387170": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "2387171": {
+  "ru": null,
+  "en": null,
+  "pages": null,
+  "olOk": true
+ },
+ "Severed": {
+  "ru": null,
+  "en": "https://covers.openlibrary.org/b/id/15253021-L.jpg",
+  "pages": null,
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/15253021-L.jpg"
+ }
+}

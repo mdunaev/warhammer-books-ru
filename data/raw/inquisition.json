@@ -1,0 +1,1545 @@
+{
+ "chunk": "inquisition",
+ "authors": {
+  "Matthew Farrer": "Мэтью Фаррер",
+  "Robert Rath": "Роберт Раф",
+  "Guy Haley": "Гай Хейли",
+  "Dan Abnett": "Дэн Абнетт",
+  "Chris Wraight": "Крис Райт",
+  "Graham McNeill": "Грэм Макнилл",
+  "Denny Flowers": "Дэнни Флауэрс",
+  "Danie Ware": "Дени Уэйр",
+  "Alex Stewart": "Алекс Стюарт",
+  "David Annandale": "Дэвид Аннандейл",
+  "Marc Collins": "Марк Коллинз",
+  "Nick Kyme": "Ник Кайм"
+ },
+ "series": [
+  {
+   "id": "eisenhorn",
+   "name": "Эйзенхорн",
+   "nameEn": "Eisenhorn",
+   "setting": "40k"
+  },
+  {
+   "id": "ravenor",
+   "name": "Рейвенор",
+   "nameEn": "Ravenor",
+   "setting": "40k"
+  },
+  {
+   "id": "bequin",
+   "name": "Биквин",
+   "nameEn": "Bequin",
+   "setting": "40k"
+  },
+  {
+   "id": "shira-calpurnia",
+   "name": "Арбитр",
+   "nameEn": "Shira Calpurnia",
+   "setting": "40k"
+  },
+  {
+   "id": "belisarius-cawl",
+   "name": "Велизарий Коул",
+   "nameEn": "Belisarius Cawl",
+   "setting": "40k"
+  },
+  {
+   "id": "vaults-of-terra",
+   "name": "Крипты Терры",
+   "nameEn": "Vaults of Terra",
+   "setting": "40k"
+  },
+  {
+   "id": "forges-of-mars",
+   "name": "Кузницы Марса",
+   "nameEn": "Forges of Mars",
+   "setting": "40k"
+  },
+  {
+   "id": "necromunda",
+   "name": "Некромунда",
+   "nameEn": "Necromunda",
+   "setting": "40k"
+  },
+  {
+   "id": "sister-augusta",
+   "name": "Сестра Августа",
+   "nameEn": "Sister Augusta",
+   "setting": "40k"
+  },
+  {
+   "id": "dark-heresy",
+   "name": "Тёмная ересь",
+   "nameEn": "Dark Heresy",
+   "setting": "40k"
+  },
+  {
+   "id": "watchers-of-the-throne",
+   "name": "Хранители Трона",
+   "nameEn": "Watchers of the Throne",
+   "setting": "40k"
+  },
+  {
+   "id": "castellan-crowe",
+   "name": "Кастелян Кроу",
+   "nameEn": "Castellan Crowe",
+   "setting": "40k"
+  },
+  {
+   "id": "warhammer-crime",
+   "name": "Warhammer Crime",
+   "nameEn": "Warhammer Crime",
+   "setting": "40k"
+  },
+  {
+   "id": "warhammer-horror",
+   "name": "Warhammer Horror",
+   "nameEn": "Warhammer Horror",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 443089,
+   "id": "crossfire",
+   "titleEn": "Crossfire",
+   "titleRu": "Перекрёстный огонь",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "shira-calpurnia",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Гидрафур",
+   "segmentum": "pacificus",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Шира Кальпурния"
+   ],
+   "desc": "Арбитр Шира Кальпурния только что прилетела на Гидрафур, крепость имперского флота. Город готовится к огромному празднику, а на неё уже кто-то охотится. Это честный полицейский детектив в мире, где закон жесток, а каждый чиновник что-то прячет.",
+   "hook": "Имперский закон с дробовиком: детектив глазами арбитра.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 443090,
+   "id": "legacy",
+   "titleEn": "Legacy",
+   "titleRu": "Наследие",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "shira-calpurnia",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "navy",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40901,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Гидрафур",
+   "segmentum": "pacificus",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Шира Кальпурния"
+   ],
+   "desc": "Умер старый вольный торговец, и его знаменитая торговая хартия должна перейти к сыну. На Гидрафур слетаются соперники и интриганы. Кальпурния следит, чтобы наследство передали строго по закону, и быстро понимает: за эту бумагу здесь готовы убивать.",
+   "hook": "Наследство, за которое в Империуме готовы убивать.",
+   "prereq": [
+    "crossfire"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 443091,
+   "id": "blind",
+   "titleEn": "Blind",
+   "titleRu": "Слепцы",
+   "ru": "official",
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2006,
+   "setting": "40k",
+   "series": "shira-calpurnia",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40902,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Гидрафур, Слепая башня",
+   "segmentum": "pacificus",
+   "tags": [
+    "mystery",
+    "sorcery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Шира Кальпурния"
+   ],
+   "desc": "Убит глава Слепой башни, где живут астропаты Гидрафура. Кальпурния в опале, и это дело — её последний шанс. Расследование идёт в закрытой башне, а все подозреваемые — псайкеры, которые не любят чужаков и могут залезть в голову.",
+   "hook": "Убийство в запертой башне, где все подозреваемые — телепаты.",
+   "prereq": [
+    "legacy"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1550297,
+   "id": "assassinorum-kingmaker",
+   "titleEn": "Assassinorum: Kingmaker",
+   "titleRu": "Ассасинорум. Делатель королей",
+   "ru": "fan",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "assassins",
+    "knights",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41003,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Доминион, мир рыцарей",
+   "segmentum": "beyond",
+   "tags": [
+    "intrigue",
+    "adventure",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Абсолом Рейт",
+    "Сикоракс"
+   ],
+   "desc": "Рыцарский мир Доминион вот-вот отколется от Империума, а его король теряет рассудок. Туда тайно отправляют команду ассасинов из разных храмов. Их задача тоньше простого убийства: сменить власть так, чтобы рыцари снова встали под знамя Императора.",
+   "hook": "Шпионский триллер про ассасинов и рыцарей-гигантов.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1201390,
+   "id": "belisarius-cawl-the-great-work",
+   "titleEn": "Belisarius Cawl: The Great Work",
+   "titleRu": "Велизарий Коул. Великий труд",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": "belisarius-cawl",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "astartes",
+    "ultramarines"
+   ],
+   "era": "indomitus",
+   "tl": 41010,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Сота",
+   "segmentum": "ultima",
+   "tags": [
+    "lore",
+    "character",
+    "mystery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Велизарий Коул",
+    "Тетрарх Феликс"
+   ],
+   "desc": "Архимагос Велизарий Коул, создатель космодесантников Примарис, летит на мёртвый мир Сота. Там пробуждается древняя машина, к которой он шёл много веков. Роман связывает прошлое и настоящее Коула и раскрывает несколько важных тайн вселенной.",
+   "hook": "Безумный гений Механикус и его самая большая тайна.",
+   "prereq": [],
+   "note": "Лучше читать, когда уже знаком с эпохой Тёмного Империума."
+  },
+  {
+   "fantlabId": 1779051,
+   "id": "genefather",
+   "titleEn": "Genefather",
+   "titleRu": "Генный отец",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2023,
+   "setting": "40k",
+   "series": "belisarius-cawl",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "emperors-children",
+    "necrons"
+   ],
+   "era": "indomitus",
+   "tl": 41012,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Понтус Авернес",
+   "segmentum": "beyond",
+   "tags": [
+    "intrigue",
+    "lore",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Велизарий Коул",
+    "Фабий Байл"
+   ],
+   "desc": "Коул собирает лучших учёных Империума. Он хочет с помощью древних пилонов некронов сдержать Великий Разлом. На встречу без приглашения является Фабий Байл, главный генетик Хаоса. Два гения, готовых на всё ради своих целей, наконец сходятся лицом к лицу.",
+   "hook": "Велизарий Коул против Фабия Байла: дуэль двух безумных учёных.",
+   "prereq": [
+    "belisarius-cawl-the-great-work"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36123,
+   "id": "malleus",
+   "titleEn": "Malleus",
+   "titleRu": "Инквизитор. Ордо Маллеус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "setting": "40k",
+   "series": "eisenhorn",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "daemons",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40339,
+   "tlLabel": "ок. 339.M41",
+   "tlApprox": true,
+   "place": "Тракиан Примарис и сектор Скарус",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "sorcery",
+    "character",
+    "betrayal"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Грегор Эйзенхорн",
+    "Елизавета Биквин"
+   ],
+   "desc": "Прошло сто лет. Праздник в честь победы превращается в бойню, и след ведёт к старому врагу Эйзенхорна. Чтобы победить, инквизитор берётся за запретное оружие. Это книга о том, как хороший человек шаг за шагом становится похож на тех, кого ловит.",
+   "hook": "Можно ли бороться с демонами их же оружием?",
+   "prereq": [
+    "xenos"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36124,
+   "id": "xenos",
+   "titleEn": "Xenos",
+   "titleRu": "Инквизитор. Ордо Ксенос",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "setting": "40k",
+   "series": "eisenhorn",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos",
+    "xenos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40240,
+   "tlLabel": "240.M41",
+   "tlApprox": false,
+   "place": "Спесь, Гудрун и другие миры сектора Скарус",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "adventure",
+    "character",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Грегор Эйзенхорн",
+    "Елизавета Биквин",
+    "Мидас Бетанкор"
+   ],
+   "desc": "Инквизитор Грегор Эйзенхорн гонится за еретиками, которые ищут Некротеук — древнюю запретную книгу. Погоня идёт от мира к миру, и враги с каждым шагом опаснее. Хороший вход в мир Инквизиции: детектив, шпионаж и мистика в одной книге.",
+   "hook": "Детектив об инквизиторе: погоня за запретной книгой.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 36128,
+   "id": "hereticus",
+   "titleEn": "Hereticus",
+   "titleRu": "Инквизитор. Ордо Еретикус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "eisenhorn",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "daemons",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40386,
+   "tlLabel": "386.M41",
+   "tlApprox": false,
+   "place": "Миры сектора Скарус",
+   "segmentum": "obscurus",
+   "tags": [
+    "betrayal",
+    "sorcery",
+    "character",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Грегор Эйзенхорн",
+    "Медея Бетанкор"
+   ],
+   "desc": "Эйзенхорн стал радикалом, и собственные коллеги объявили его еретиком. Ему нужно спасаться от Инквизиции и при этом добить давнего врага. Самая мрачная часть трилогии: здесь видно, чего стоили герою все его решения.",
+   "hook": "Инквизитор вне закона: Эйзенхорн против всего Империума.",
+   "prereq": [
+    "malleus"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36151,
+   "id": "ravenor",
+   "titleEn": "Ravenor",
+   "titleRu": "Рейвенор",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "ravenor",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40402,
+   "tlLabel": "ок. 402.M41",
+   "tlApprox": true,
+   "place": "Юстис Майорис",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "character",
+    "sorcery"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Гидеон Рейвенор",
+    "Карл Тониус",
+    "Пэйшенс Кис"
+   ],
+   "desc": "Гидеон Рейвенор, ученик Эйзенхорна, после страшных ожогов заперт в бронированном кресле. Но его разум свободен и очень силён. Вместе с командой он распутывает на Юстис Майорис дело о новом наркотике, который явно пришёл не из нашего мира.",
+   "hook": "Инквизитор без тела, но с невероятной силой разума.",
+   "prereq": [],
+   "note": "Можно читать отдельно, но с «Эйзенхорном» интереснее."
+  },
+  {
+   "fantlabId": 36152,
+   "id": "ravenor-returned",
+   "titleEn": "Ravenor Returned",
+   "titleRu": "Возвращение Рейвенора",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": "ravenor",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "daemons",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40403,
+   "tlLabel": "ок. 403.M41",
+   "tlApprox": true,
+   "place": "Юстис Майорис и другие миры",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "sorcery",
+    "adventure"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Гидеон Рейвенор",
+    "Пэйшенс Кис",
+    "Харлон Нейл"
+   ],
+   "desc": "Рейвенор продолжает охоту на тех, кто стоит за варп-наркотиком. Его команда разбросана, у каждого свой опасный путь, а за кулисами действует сила из варпа. Вторая книга острее и мрачнее первой: здесь Абнетт по-настоящему разгоняется.",
+   "hook": "Охота разгоняется: команда Рейвенора на грани гибели.",
+   "prereq": [
+    "ravenor"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36155,
+   "id": "ravenor-rogue",
+   "titleEn": "Ravenor Rogue",
+   "titleRu": "Рейвенор — отступник",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "ravenor",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "daemons",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40404,
+   "tlLabel": "ок. 404.M41",
+   "tlApprox": true,
+   "place": "Несколько миров сектора Ангелус",
+   "segmentum": "obscurus",
+   "tags": [
+    "adventure",
+    "sorcery",
+    "character"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Гидеон Рейвенор",
+    "Карл Тониус"
+   ],
+   "desc": "Рейвенор нарушает приказ и сам становится отступником, лишь бы добраться до своего врага. Погоня идёт через несколько миров, а на кону куда больше, чем жизнь одной команды. Финал трилогии сводит вместе все её линии и героев.",
+   "hook": "Инквизитор нарушает приказ ради последней охоты.",
+   "prereq": [
+    "ravenor-returned"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 410868,
+   "id": "pariah",
+   "titleEn": "Pariah",
+   "titleRu": "Пария",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "bequin",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "ок. 500.M41",
+   "tlApprox": true,
+   "place": "Квин-Мэб, Санкур",
+   "segmentum": "obscurus",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Бета Биквин",
+    "Грегор Эйзенхорн",
+    "Гидеон Рейвенор"
+   ],
+   "desc": "Город Квин-Мэб полон туманов, призраков и тайных обществ. Юная Бета Биквин живёт тихо, пока за ней не начинают следить сразу несколько сторон. Так начинается новая трилогия, где сходятся два великих инквизитора — Эйзенхорн и Рейвенор.",
+   "hook": "Два великих инквизитора сходятся, а в центре игры — простая девушка.",
+   "prereq": [
+    "hereticus",
+    "ravenor-rogue"
+   ],
+   "note": "Лучше сначала прочитать «Эйзенхорна» и «Рейвенора»."
+  },
+  {
+   "fantlabId": 1013161,
+   "id": "the-magos",
+   "titleEn": "The Magos​",
+   "titleRu": "Магос",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "eisenhorn",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "mechanicus",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40395,
+   "tlLabel": "ок. 395.M41",
+   "tlApprox": true,
+   "place": "Гершом",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "horror",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Грегор Эйзенхорн",
+    "Валентин Драшер"
+   ],
+   "desc": "На глухой планете Гершом находят тела людей, будто растерзанных зверем. Местный маршал зовёт на помощь магоса-биолога Драшера, а вскоре в деле появляется и Эйзенхорн. В книгу также вошли все рассказы об инквизиторе.",
+   "hook": "Потерянное дело Эйзенхорна и мостик к трилогии о Биквин.",
+   "prereq": [
+    "hereticus"
+   ],
+   "note": "Читать перед «Парией». В издание входят все рассказы об Эйзенхорне."
+  },
+  {
+   "fantlabId": 1402628,
+   "id": "penitent",
+   "titleEn": "Penitent",
+   "titleRu": "Покаянница",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "bequin",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40501,
+   "tlLabel": "ок. 500.M41",
+   "tlApprox": true,
+   "place": "Квин-Мэб",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "horror"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Бета Биквин",
+    "Грегор Эйзенхорн"
+   ],
+   "desc": "Бета Биквин снова в Квин-Мэб. Город тонет в тумане, где-то рядом прячется древнее зло, а Эйзенхорн ведёт свою опасную игру. Неспешный и очень атмосферный роман: в нём больше загадок и тайных обществ, чем стрельбы.",
+   "hook": "Туманный город, тайные общества и древнее зло в тени.",
+   "prereq": [
+    "pariah"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1016811,
+   "id": "vaults-of-terra-the-carrion-throne",
+   "titleEn": "Vaults of Terra: The Carrion Throne",
+   "titleRu": "Крипты Терры. Прогнивший Трон",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "vaults-of-terra",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "custodes",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40995,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Кроул",
+    "Спиноза"
+   ],
+   "desc": "Терра, сердце Империума, тонет в толпах паломников на празднике Сангвиналии. Инквизитор Кроул и его помощница Спиноза ищут культ прямо под боком у Золотого Трона. Редкий шанс увидеть Тронный мир изнутри: грязный, огромный и полный тайн.",
+   "hook": "Детектив на Терре: культ прячется в тени Золотого Трона.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1177584,
+   "id": "vaults-of-terra-the-hollow-mountain",
+   "titleEn": "Vaults of Terra: The Hollow Mountain",
+   "titleRu": "Крипты Терры. Полая гора",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": "vaults-of-terra",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "custodes",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "horror"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кроул",
+    "Спиноза"
+   ],
+   "desc": "Кроул и Спиноза не успели перевести дух после прошлого дела. Над галактикой раскрывается Великий Разлом, Терра в панике. А новое расследование ведёт инквизиторов к самым старым и опасным тайнам Тронного мира.",
+   "hook": "Небо разрывается, а на Терре всплывают древние тайны.",
+   "prereq": [
+    "vaults-of-terra-the-carrion-throne"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 388201,
+   "id": "priests-of-mars",
+   "titleEn": "Priests of Mars",
+   "titleRu": "Жрецы Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "forges-of-mars",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "black-templars",
+    "guard",
+    "navy"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Корабль «Сперанца», край галактики",
+   "segmentum": "beyond",
+   "tags": [
+    "adventure",
+    "space",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Лекселл Котов",
+    "Линья Тихон"
+   ],
+   "desc": "Архимагос Котов собирает огромный флот и уходит за край известной галактики. Он ищет следы магоса, который пропал тысячи лет назад вместе с великим открытием. С ним Механикус, титаны, Чёрные Храмовники, гвардейцы и вольный торговец, и у каждого свои цели.",
+   "hook": "Экспедиция Механикус за край карты в поисках утерянного чуда.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 770364,
+   "id": "lords-of-mars",
+   "titleEn": "Lords of Mars",
+   "titleRu": "Владыки Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "forges-of-mars",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "black-templars",
+    "aeldari",
+    "navy"
+   ],
+   "era": "dark-millennium",
+   "tl": 40901,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "За краем галактики",
+   "segmentum": "beyond",
+   "tags": [
+    "adventure",
+    "space",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Лекселл Котов",
+    "Линья Тихон"
+   ],
+   "desc": "Флот Котова перешёл границу и оказался там, где не бывал человек. Каждая находка опаснее прошлой, а люди внутри экспедиции всё меньше доверяют друг другу. Средняя часть трилогии: много космоса и боёв, но сюжет движется неспешно.",
+   "hook": "За краем галактики всё труднее понять, кто здесь враг.",
+   "prereq": [
+    "priests-of-mars"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 770365,
+   "id": "gods-of-mars",
+   "titleEn": "Gods of Mars",
+   "titleRu": "Боги Марса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "forges-of-mars",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "black-templars",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40902,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "За краем галактики",
+   "segmentum": "beyond",
+   "tags": [
+    "war",
+    "epic",
+    "lore"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Лекселл Котов",
+    "Веттий Телок"
+   ],
+   "desc": "Экспедиция наконец находит того, кого искала. Но цена древнего знания может оказаться выше, чем готов заплатить Котов. Финал трилогии: битвы титанов, древние машины и главный вопрос — во что на самом деле верит Механикус.",
+   "hook": "Битвы титанов и древние машины в финале «Кузниц Марса».",
+   "prereq": [
+    "lords-of-mars"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 813725,
+   "id": "junktion",
+   "titleEn": "Junktion",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": "necromunda",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Некромунда, подулье, городок Джанкшен",
+   "segmentum": "solar",
+   "tags": [
+    "survival",
+    "character",
+    "war"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Синдер Касс"
+   ],
+   "desc": "Джанкшен — бедный городок в подулье Некромунды. Он живёт, пока работает его единственный источник энергии. Когда за контроль над ним начинается грязная борьба, старые союзы рушатся. Камерная история о простых людях подулья, где выжить важнее, чем сохранить честь.",
+   "hook": "Маленький городок подулья и большая драка за свет.",
+   "prereq": [],
+   "note": "На русском не выходила."
+  },
+  {
+   "fantlabId": 1428765,
+   "id": "fire-made-flesh",
+   "titleEn": "Fire Made Flesh",
+   "titleRu": "Огонь во плоти",
+   "ru": "official",
+   "authors": [
+    "Denny Flowers"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "necromunda",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Некромунда, улей Примус, купол Перикулус",
+   "segmentum": "solar",
+   "tags": [
+    "adventure",
+    "horror",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Темпес Сол",
+    "Сайлас Пьюрберн"
+   ],
+   "desc": "Банда Голиафов находит в подулье Некромунды давно потерянный купол Перикулус. Слухи о древних технологиях стягивают туда гильдийцев, знать из верхнего улья, следопытов и бойцов ям. Но внутри купола их ждёт что-то голодное и заразное.",
+   "hook": "Потерянный купол, древние технологии и голодная тьма подулья.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1088369,
+   "id": "the-bloodied-rose",
+   "titleEn": "The Bloodied Rose",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Danie Ware"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "sister-augusta",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "sisters",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Лаутис",
+   "segmentum": "beyond",
+   "tags": [
+    "war",
+    "horror",
+    "character"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Августа Санторус"
+   ],
+   "desc": "Сестра Августа и её отделение прилетают на Лаутис — гнилой мир джунглей на краю Империума. Под старым собором проснулось что-то кровавое, и сёстрам придётся спуститься в крипты. Короткая быстрая повесть: огнемёты, вера и сплошной экшен.",
+   "hook": "Огнемёты, молитвы и ужас в криптах под собором.",
+   "prereq": [],
+   "note": "Повесть. На русском не выходила."
+  },
+  {
+   "fantlabId": 59141,
+   "id": "scourge-the-heretic",
+   "titleEn": "Scourge the Heretic",
+   "titleRu": "Искорени еретика",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "dark-heresy",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Сектор Каликсида",
+   "segmentum": "obscurus",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Отряд аколитов Ордо Еретикус расследует в секторе Каликсида торговлю людьми. Простое дело о контрабанде быстро тянет за собой псайкеров, культы и кое-что похуже. Книга по ролевой игре Dark Heresy от автора «Кайафаса Каина», но заметно мрачнее.",
+   "hook": "Простые слуги Инквизиции против заговора в Каликсиде.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 183166,
+   "id": "innocence-proves-nothing",
+   "titleEn": "Innocence Proves Nothing",
+   "titleRu": "Невиновность — не доказательство",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2009,
+   "setting": "40k",
+   "series": "dark-heresy",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40901,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Система Сцинтиллы",
+   "segmentum": "obscurus",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кирлок",
+    "Элира"
+   ],
+   "desc": "Команда аколитов снова в деле. Двое агентов внедряются в подпольную сеть беглых псайкеров, а остальные ловят торговцев артефактами чужих. Скоро ясно, что за обоими делами стоит один заговор, и под угрозой вся система Сцинтиллы.",
+   "hook": "Слежка, паранойя и беглые псайкеры в сердце Каликсиды.",
+   "prereq": [
+    "scourge-the-heretic"
+   ],
+   "note": "Сюжет обрывается: продолжения так и не вышло."
+  },
+  {
+   "fantlabId": 1016843,
+   "id": "watchers-of-the-throne-the-emperors-legion",
+   "titleEn": "Watchers of the Throne: The Emperor's Legion",
+   "titleRu": "Хранители Трона. Легион Императора",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "watchers-of-the-throne",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "custodes",
+    "sons-of-horus",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "lore",
+    "character",
+    "epic"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Валериан",
+    "Алея"
+   ],
+   "desc": "Адептус Кустодес тысячи лет стерегли Императора и держались в стороне от войн Империума. Теперь Разлом раскрыл небо, Терре грозит беда, и золотые стражи впервые за века выходят в бой. Рядом с ними — Алея, Сестра Безмолвия.",
+   "hook": "Золотые стражи Императора впервые за века идут на войну.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1344078,
+   "id": "watchers-of-the-throne-the-regents-shadow",
+   "titleEn": "Watchers of the Throne: The Regent's Shadow",
+   "titleRu": "Хранители Трона. Тень Регента",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "watchers-of-the-throne",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "custodes",
+    "imperium",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41002,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "intrigue",
+    "lore",
+    "war"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Валериан",
+    "Алея",
+    "Робаут Гиллиман"
+   ],
+   "desc": "Гиллиман стал лорд-регентом и начал перекраивать Империум. Многим на Терре это не нравится, и пока регента отвлекают войны, во Дворце зреет заговор. Валериан и Алея снова вместе, но теперь против врага, которого не видно.",
+   "hook": "Интриги в тени Дворца: у регента есть враги и на Терре.",
+   "prereq": [
+    "watchers-of-the-throne-the-emperors-legion"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1018133,
+   "id": "castellan",
+   "titleEn": "Castellan",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "castellan-crowe",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "grey-knights",
+    "daemons"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Сандава III",
+   "segmentum": "beyond",
+   "tags": [
+    "war",
+    "sorcery",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Гарран Кроу"
+   ],
+   "desc": "Кастелян Гарран Кроу из Серых Рыцарей хранит проклятый клинок Антвира. Меч каждый день шепчет ему соблазны. Великий Разлом обрушивает варп на целую планету, и Кроу с горсткой братьев оказывается в самом пекле. Выстоять нужно и против демонов, и против своего меча.",
+   "hook": "Рыцарь, который каждый день борется со своим проклятым мечом.",
+   "prereq": [],
+   "note": "Продолжение романа Warden of the Blade. На русском не выходила."
+  },
+  {
+   "fantlabId": 2387170,
+   "id": "hive-part-one",
+   "titleEn": "Hive. Part One",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2026,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Сакраментус",
+   "segmentum": "beyond",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "character",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Сакраментус — огромный город-улей. Старого губернатора свергли, а новую правительницу прислали чужаки. В городе бурлят банды, рабочие и тайные культы, и арбитры едва держат порядок. Абнетт ведёт сразу много героев и складывает из них большую картину жизни улья.",
+   "hook": "Большой роман Абнетта о том, как огромный улей идёт вразнос.",
+   "prereq": [],
+   "note": "Первая половина романа Hive. Вторая вышла одновременно с ней."
+  },
+  {
+   "fantlabId": 1328527,
+   "id": "bloodlines",
+   "titleEn": "Bloodlines",
+   "titleRu": "Кровные узы",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "warhammer-crime",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Варангантуа, Алекто",
+   "segmentum": "beyond",
+   "tags": [
+    "mystery",
+    "intrigue",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Агусто Зидаров"
+   ],
+   "desc": "Пробатор Агусто Зидаров — усталый сыщик Варангантуа, огромного города на мире Алекто. Ему поручают найти пропавшего сына богатой семьи. Дело быстро уводит его в мир банд и больших денег, где кое-кто очень не хочет, чтобы правду нашли.",
+   "hook": "Нуарный детектив в городе, где закон продаётся.",
+   "prereq": [],
+   "note": "Отдельная история. Книги серии можно читать в любом порядке."
+  },
+  {
+   "fantlabId": 1347057,
+   "id": "flesh-and-steel",
+   "titleEn": "Flesh and Steel",
+   "titleRu": "Плоть и сталь",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "warhammer-crime",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "mechanicus"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Варангантуа, Алекто",
+   "segmentum": "beyond",
+   "tags": [
+    "mystery",
+    "character",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Симеон Ноктис",
+    "Ро-1 Люкс"
+   ],
+   "desc": "На границе между городом и землями Механикус находят убитого. Дело поручают сразу двоим: пробатору Ноктису и техножрецу Ро-1 Люксу. Они совсем разные и плохо ладят, но вместе им придётся распутать историю о запретных технологиях.",
+   "hook": "Сыщик и техножрец: странная пара против техноереси.",
+   "prereq": [],
+   "note": "Отдельная история. Книги серии можно читать в любом порядке."
+  },
+  {
+   "fantlabId": 1038095,
+   "id": "grim-repast",
+   "titleEn": "Grim Repast",
+   "titleRu": "Мрачная трапеза",
+   "ru": "fan",
+   "authors": [
+    "Marc Collins"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": "warhammer-crime",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "arbites",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 41020,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Варангантуа, район Поларис",
+   "segmentum": "beyond",
+   "tags": [
+    "mystery",
+    "horror",
+    "character"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Квиллон Драск"
+   ],
+   "desc": "В морозном районе Поларис орудует серийный убийца, который дразнит сыщиков записками. Дело достаётся Квиллону Драску — пробатору с тяжёлым прошлым и славой любителя странных дел. Чем глубже он копает, тем темнее тайны самого города.",
+   "hook": "Серийный убийца, записки-насмешки и ледяной нуар.",
+   "prereq": [],
+   "note": "Отдельная история. Книги серии можно читать в любом порядке."
+  },
+  {
+   "fantlabId": 1277480,
+   "id": "sepulturum",
+   "titleEn": "Sepulturum",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "warhammer-horror",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "inquisition",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Улей Блекгейст",
+   "segmentum": "beyond",
+   "tags": [
+    "horror",
+    "survival",
+    "mystery"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Моргравия Санктус",
+    "Кристо"
+   ],
+   "desc": "Инквизитор Моргравия Санктус очнулась без памяти, и за ней кто-то охотится. Она прячется в нижних ярусах улья Блекгейст, но там вспыхивает чума, которая превращает людей в чудовищ. Зомби-хоррор в мире сорокатысячника: бегство, паника и кровь.",
+   "hook": "Зомби-чума в подулье и инквизитор, которая не помнит себя.",
+   "prereq": [],
+   "note": "На русском не выходила."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-inquisition-abnett",
+   "name": "Инквизиция Абнетта",
+   "about": "Главная сага об инквизиторах: учитель, ученик и девушка, за которую они спорят.",
+   "steps": [
+    {
+     "id": "xenos",
+     "note": "Начало: Эйзенхорн гонится за запретной книгой."
+    },
+    {
+     "id": "malleus",
+     "note": "Герой впервые берётся за запретное оружие."
+    },
+    {
+     "id": "hereticus",
+     "note": "Финал первой трилогии и цена всех решений."
+    },
+    {
+     "id": "ravenor",
+     "note": "Ученик Эйзенхорна заводит свою команду."
+    },
+    {
+     "id": "ravenor-returned",
+     "note": "Дело о варп-наркотике становится по-настоящему опасным."
+    },
+    {
+     "id": "ravenor-rogue",
+     "note": "Рейвенор идёт против приказа."
+    },
+    {
+     "id": "the-magos",
+     "note": "Мостик между старыми книгами и новой трилогией."
+    },
+    {
+     "id": "pariah",
+     "note": "Учитель и ученик сходятся в одной игре."
+    },
+    {
+     "id": "penitent",
+     "note": "Продолжение истории Беты Биквин."
+    }
+   ]
+  },
+  {
+   "id": "path-terra-rift",
+   "name": "Терра на краю Разлома",
+   "about": "Тронный мир изнутри: инквизиторы и кустодии в год, когда раскалывается небо.",
+   "steps": [
+    {
+     "id": "vaults-of-terra-the-carrion-throne",
+     "note": "Терра накануне катастрофы глазами инквизитора."
+    },
+    {
+     "id": "watchers-of-the-throne-the-emperors-legion",
+     "note": "Разлом раскрывается, и кустодии выходят на войну."
+    },
+    {
+     "id": "vaults-of-terra-the-hollow-mountain",
+     "note": "Тот же год глазами Кроула и Спинозы."
+    },
+    {
+     "id": "watchers-of-the-throne-the-regents-shadow",
+     "note": "Гиллиман правит, а во Дворце плетут заговор."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "The Magos (fantlabId 1013161): в titleEn во входе на конце стоит невидимый символ U+200B (zero-width space). Оставлен как есть, чтобы совпасть со входным списком; при сборке его лучше убрать. id = the-magos.",
+  "Scourge the Heretic и Innocence Proves Nothing вышли под псевдонимом Sandy Mitchell (Сэнди Митчелл), а не под именем Alex Stewart. Автор оставлен как во входе — так же записан и «Кайафас Каин» в чанке guard-a; при желании поменять везде разом.",
+  "Robert Rath в карте авторов записан как «Роберт Раф»; привычнее «Роберт Рат». Не менял — проверьте, как он подписан на Fantlab.",
+  "Hive. Part One — это первая половина романа Hive (2026), вторая половина вышла одновременно и во входной список не попала."
+ ]
+}

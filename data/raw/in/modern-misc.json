@@ -1,0 +1,532 @@
+{
+ "chunk": "modern-misc",
+ "authors": {
+  "Peter Fehervari": "Петер Фехервари",
+  "Guy Haley": "Гай Хейли",
+  "Andy Clark": "Энди Кларк",
+  "Nick Kyme": "Ник Кайм",
+  "Marc Collins": "Марк Коллинз",
+  "Chris Wraight": "Крис Райт",
+  "Dan Abnett": "Дэн Абнетт",
+  "Gav Thorpe": "Гэв Торп",
+  "Simon Spurrier": "Саймон Спуриэр",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Anthony Reynolds": "Энтони Рейнольдс",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Mike Brooks": "Майк Брукс",
+  "Nate Crowley": "Нейт Кроули",
+  "Edoardo Albert": "Эдоардо Альберт",
+  "Adrian Tchaikovsky": "Адриан Чайковски",
+  "Steve Lyons": "Стив Лайонс",
+  "Robert Rath": "Роберт Раф",
+  "Darius Hinks": "Дариус Хинкс",
+  "Jude Reid": "Джуди Рид",
+  "David Guymer": "Дэвид Гаймер"
+ },
+ "books": [
+  {
+   "fantlabId": 842682,
+   "titleEn": "Genestealer Cults",
+   "titleRu": "Культы генокрадов",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2016,
+   "fantlabType": "novel",
+   "fantlabSeries": "Легенды Тёмного Тысячелетия",
+   "fantlabRating": 8.27,
+   "fantlabVoters": 103
+  },
+  {
+   "fantlabId": 1331448,
+   "titleEn": "Avenging Son",
+   "titleRu": "Мстящий Сын",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 8.29,
+   "fantlabVoters": 31
+  },
+  {
+   "fantlabId": 1395421,
+   "titleEn": "The Gate of Bones",
+   "titleRu": "Костяные врата",
+   "ru": "fan",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 7.67,
+   "fantlabVoters": 21
+  },
+  {
+   "fantlabId": 1560895,
+   "titleEn": "Throne of Light",
+   "titleRu": "Трон Света",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 7.38,
+   "fantlabVoters": 16
+  },
+  {
+   "fantlabId": 1692102,
+   "titleEn": "The Iron Kingdom",
+   "titleRu": "Железное королевство",
+   "ru": "fan",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 7.82,
+   "fantlabVoters": 11
+  },
+  {
+   "fantlabId": 1748267,
+   "titleEn": "The Martyr's Tomb",
+   "titleRu": "Грoбница мучeницы",
+   "ru": "fan",
+   "authors": [
+    "Marc Collins"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 5.8,
+   "fantlabVoters": 5
+  },
+  {
+   "fantlabId": 1807850,
+   "titleEn": "Sea of Souls",
+   "titleRu": "Море душ",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 7.83,
+   "fantlabVoters": 6
+  },
+  {
+   "fantlabId": 1942133,
+   "titleEn": "Hand of Abaddon",
+   "titleRu": "Рука Абаддона",
+   "ru": "fan",
+   "authors": [
+    "Nick Kyme"
+   ],
+   "year": 2024,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 4.33,
+   "fantlabVoters": 3
+  },
+  {
+   "fantlabId": 2156016,
+   "titleEn": "The Silent King",
+   "titleRu": "Безмолвный Царь",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2025,
+   "fantlabType": "novel",
+   "fantlabSeries": "Огненная Заря",
+   "fantlabRating": 6.5,
+   "fantlabVoters": 6
+  },
+  {
+   "fantlabId": 770367,
+   "titleEn": "I Am Slaughter",
+   "titleRu": "Я — Резня",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2015,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пришествие Зверя",
+   "fantlabRating": 7.47,
+   "fantlabVoters": 74
+  },
+  {
+   "fantlabId": 858569,
+   "titleEn": "The Beheading",
+   "titleRu": "Обезглавливание",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2016,
+   "fantlabType": "novel",
+   "fantlabSeries": "Пришествие Зверя",
+   "fantlabRating": 7.75,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 1007181,
+   "titleEn": "Dark Imperium",
+   "titleRu": "Тёмный Империум",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный Империум",
+   "fantlabRating": 7.57,
+   "fantlabVoters": 58
+  },
+  {
+   "fantlabId": 1078820,
+   "titleEn": "Dark Imperium: Plague War",
+   "titleRu": "Чумная война",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный Империум",
+   "fantlabRating": 7.73,
+   "fantlabVoters": 51
+  },
+  {
+   "fantlabId": 1432908,
+   "titleEn": "Dark Imperium: Godblight",
+   "titleRu": "Божья пагуба",
+   "ru": "fan",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Тёмный Империум",
+   "fantlabRating": 8.13,
+   "fantlabVoters": 39
+  },
+  {
+   "fantlabId": 192162,
+   "titleEn": "Angels of Darkness",
+   "titleRu": "Ангелы Тьмы",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.05,
+   "fantlabVoters": 79
+  },
+  {
+   "fantlabId": 81728,
+   "titleEn": "Lord of the Night",
+   "titleRu": "Повелитель Ночи",
+   "ru": "official",
+   "authors": [
+    "Simon Spurrier"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.15,
+   "fantlabVoters": 226
+  },
+  {
+   "fantlabId": 377000,
+   "titleEn": "The Emperor's Gift",
+   "titleRu": "Дар Императора",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.26,
+   "fantlabVoters": 117
+  },
+  {
+   "fantlabId": 839995,
+   "titleEn": "Khârn: Eater of Worlds",
+   "titleRu": "Кхарн. Пожиратель миров",
+   "ru": "official",
+   "authors": [
+    "Anthony Reynolds"
+   ],
+   "year": 2014,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 7.79,
+   "fantlabVoters": 53
+  },
+  {
+   "fantlabId": 912367,
+   "titleEn": "Valedor",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2015,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 7.75,
+   "fantlabVoters": 4
+  },
+  {
+   "fantlabId": 962013,
+   "titleEn": "Dante",
+   "titleRu": "Данте",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.17,
+   "fantlabVoters": 41
+  },
+  {
+   "fantlabId": 1018143,
+   "titleEn": "Shroud of Night",
+   "titleRu": "Саван ночи",
+   "ru": "official",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 7.41,
+   "fantlabVoters": 34
+  },
+  {
+   "fantlabId": 1094707,
+   "titleEn": "Spear Of The Emperor",
+   "titleRu": "Копьё Императора",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.51,
+   "fantlabVoters": 57
+  },
+  {
+   "fantlabId": 1060504,
+   "titleEn": "The Lords of Silence",
+   "titleRu": "Повелители Тишины",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8,
+   "fantlabVoters": 50
+  },
+  {
+   "fantlabId": 858189,
+   "titleEn": "Lukas the Trickster",
+   "titleRu": "Лукас Ловкач",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.09,
+   "fantlabVoters": 35
+  },
+  {
+   "fantlabId": 1194961,
+   "titleEn": "Rites of Passage",
+   "titleRu": "Обряды Перехода",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 7.83,
+   "fantlabVoters": 29
+  },
+  {
+   "fantlabId": 1312694,
+   "titleEn": "Indomitus",
+   "titleRu": "Индомитус",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 5.94,
+   "fantlabVoters": 16
+  },
+  {
+   "fantlabId": 1435087,
+   "titleEn": "Ghazghkull Thraka: Prophet of the Waaagh!",
+   "titleRu": "Газгкулл Трака. Пророк ВААА-йны",
+   "ru": "fan",
+   "authors": [
+    "Nate Crowley"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.04,
+   "fantlabVoters": 26
+  },
+  {
+   "fantlabId": 1640205,
+   "titleEn": "Kasrkin",
+   "titleRu": "Касркин",
+   "ru": "fan",
+   "authors": [
+    "Edoardo Albert"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.59,
+   "fantlabVoters": 17
+  },
+  {
+   "fantlabId": 1610869,
+   "titleEn": "Warboss",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 2,
+   "fantlabVoters": 1
+  },
+  {
+   "fantlabId": 1527586,
+   "titleEn": "Day of Ascension",
+   "titleRu": "День Вознесения",
+   "ru": "fan",
+   "authors": [
+    "Adrian Tchaikovsky"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 6.71,
+   "fantlabVoters": 21
+  },
+  {
+   "fantlabId": 1527588,
+   "titleEn": "Krieg",
+   "titleRu": "Криг",
+   "ru": "fan",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 7.67,
+   "fantlabVoters": 33
+  },
+  {
+   "fantlabId": 1718748,
+   "titleEn": "The Lion: Son Of The Forest",
+   "titleRu": "Лев. Сын леса",
+   "ru": "fan",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.12,
+   "fantlabVoters": 33
+  },
+  {
+   "fantlabId": 1792080,
+   "titleEn": "The Fall of Cadia",
+   "titleRu": "Падение Кадии",
+   "ru": "fan",
+   "authors": [
+    "Robert Rath"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 8.64,
+   "fantlabVoters": 14
+  },
+  {
+   "fantlabId": 1743566,
+   "titleEn": "Leviathan",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Darius Hinks"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 5.5,
+   "fantlabVoters": 2
+  },
+  {
+   "fantlabId": 1777526,
+   "titleEn": "Creed: Ashes of Cadia",
+   "titleRu": "Крид. Пепел Кадии",
+   "ru": "fan",
+   "authors": [
+    "Jude Reid"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 3.75,
+   "fantlabVoters": 4
+  },
+  {
+   "fantlabId": 1687825,
+   "titleEn": "Angron: The Red Angel",
+   "titleRu": "Ангрон. Красный Ангел",
+   "ru": "fan",
+   "authors": [
+    "David Guymer"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "",
+   "fantlabRating": 6.73,
+   "fantlabVoters": 11
+  }
+ ]
+}

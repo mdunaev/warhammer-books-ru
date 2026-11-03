@@ -1,0 +1,1599 @@
+{
+ "chunk": "astartes",
+ "authors": {
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Chris Wraight": "Крис Райт",
+  "Guy Haley": "Гай Хейли",
+  "Steve Lyons": "Стив Лайонс",
+  "Justin D. Hill": "Джастин Д. Хилл",
+  "Dan Abnett": "Дэн Абнетт",
+  "Ben Counter": "Бен Каунтер",
+  "Steve Parker": "Стив Паркер",
+  "Robbie MacNiven": "Робби Макнивен",
+  "William King": "Уильям Кинг",
+  "Lee Lightner": "Ли Лайтнер",
+  "David Annandale": "Дэвид Аннандейл",
+  "Darius Hinks": "Дариус Хинкс",
+  "Graham McNeill": "Грэм Макнилл"
+ },
+ "series": [
+  {
+   "id": "space-marine-battles",
+   "name": "Битвы Космодесанта",
+   "nameEn": "Space Marine Battles",
+   "setting": "40k"
+  },
+  {
+   "id": "space-marine-conquests",
+   "name": "Завоевания Космодесанта",
+   "nameEn": "Space Marine Conquests",
+   "setting": "40k"
+  },
+  {
+   "id": "space-marine-legends",
+   "name": "Легенды Космического Десанта",
+   "nameEn": "Space Marine Legends",
+   "setting": "40k"
+  },
+  {
+   "id": "iron-snakes",
+   "name": "Железные Змеи",
+   "nameEn": "Iron Snakes",
+   "setting": "40k"
+  },
+  {
+   "id": "soul-drinkers",
+   "name": "Испивающие Души",
+   "nameEn": "Soul Drinkers",
+   "setting": "40k"
+  },
+  {
+   "id": "deathwatch",
+   "name": "Караул Смерти",
+   "nameEn": "Deathwatch",
+   "setting": "40k"
+  },
+  {
+   "id": "carcharodons",
+   "name": "Кархародоны",
+   "nameEn": "Carcharodons",
+   "setting": "40k"
+  },
+  {
+   "id": "space-wolf",
+   "name": "Космический Волк",
+   "nameEn": "Space Wolf",
+   "setting": "40k"
+  },
+  {
+   "id": "blood-of-asaheim",
+   "name": "Кровь Асахейма",
+   "nameEn": "Blood of Asaheim",
+   "setting": "40k"
+  },
+  {
+   "id": "mephiston",
+   "name": "Мефистон",
+   "nameEn": "Mephiston",
+   "setting": "40k"
+  },
+  {
+   "id": "grey-knights",
+   "name": "Серые Рыцари",
+   "nameEn": "Grey Knights",
+   "setting": "40k"
+  },
+  {
+   "id": "ultramarines",
+   "name": "Ультрамарины",
+   "nameEn": "Ultramarines",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 336292,
+   "id": "helsreach",
+   "titleEn": "Helsreach",
+   "titleRu": "Хельсрич",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2010,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "black-templars",
+    "orks",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40998,
+   "tlLabel": "998.M41",
+   "tlApprox": false,
+   "place": "Улей Хельсрич, Армагеддон",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "siege",
+    "character",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Гримальд"
+   ],
+   "desc": "Третья война за Армагеддон. Орды Газгкулла снова высаживаются на планету, и капеллан Чёрных Храмовников Гримальд получает приказ удержать улей Хельсрич. Город обречён, но он должен стоять как можно дольше. Жёсткая, почти окопная книга о вере, долге и цене каждой улицы.",
+   "hook": "Чёрные Храмовники держат обречённый город против моря орков.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 336297,
+   "id": "battle-of-the-fang",
+   "titleEn": "Battle of the Fang",
+   "titleRu": "Битва за Клык",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2011,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "thousand-sons"
+   ],
+   "era": "after-heresy",
+   "tl": 31100,
+   "tlLabel": "ок. M32",
+   "tlApprox": true,
+   "place": "Фенрис, крепость Клык",
+   "segmentum": "obscurus",
+   "tags": [
+    "siege",
+    "war",
+    "sorcery",
+    "epic",
+    "villain-pov"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Харек Железный Шлем",
+    "Магнус Красный"
+   ],
+   "desc": "Тридцать второе тысячелетие. Космические Волки узнают, где прячется Магнус Красный, и почти всем орденом уходят мстить. Дома, на Фенрисе, остаётся горстка воинов. И тут к стенам Клыка приходит Тысяча Сынов. Войну показывают глазами обеих сторон, и каждая по-своему права.",
+   "hook": "Волки уходят на охоту, а враг стучится в их собственный дом.",
+   "prereq": [],
+   "note": "Действие — через века после Ереси, а не в 41-м тысячелетии."
+  },
+  {
+   "fantlabId": 710421,
+   "id": "the-death-of-integrity",
+   "titleEn": "The Death of Integrity",
+   "titleRu": "Гибель Единства",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": 12,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "ultramarines",
+    "tyranids",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 38500,
+   "tlLabel": "~M39",
+   "tlApprox": true,
+   "place": "Космический скиталец «Гибель Единства»",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "horror",
+    "intrigue",
+    "space"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Цедис"
+   ],
+   "desc": "Огромный космический скиталец «Гибель Единства» кишит генокрадами и дрейфует к населённой системе. Чтобы зачистить его, объединяются Кровопийцы, Новадесант и жрецы Механикус. Но у каждого союзника свои цели. А магистр Кровопийц Цедис гоняется за этим скитальцем уже много лет.",
+   "hook": "Тесные коридоры, тьма и генокрады за каждым углом.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 858169,
+   "id": "angrons-monolith",
+   "titleEn": "Angron's Monolith",
+   "titleRu": "Монолит Ангрона",
+   "ru": "official",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "astartes",
+    "orks"
+   ],
+   "era": "dark-millennium",
+   "tl": 40998,
+   "tlLabel": "998.M41",
+   "tlApprox": true,
+   "place": "Экваториальные джунгли Армагеддона",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "adventure",
+    "lore"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [],
+   "desc": "Реликторы — орден, который не брезгует трофеями врага. В разгар Третьей войны за Армагеддон их рота уходит в экваториальные джунгли за древней вещью, связанной с примархом-предателем Ангроном. Там их ждут дикие орки, жара и неудобный вопрос: где кончается знание и начинается ересь.",
+   "hook": "Реликторы ищут в джунглях вещь, которую лучше не находить.",
+   "prereq": [],
+   "note": "Короткая повесть, можно пропустить."
+  },
+  {
+   "fantlabId": 710416,
+   "id": "blood-and-fire",
+   "titleEn": "Blood and Fire",
+   "titleRu": "Кровь и огонь",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "black-templars",
+    "astartes",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40998,
+   "tlLabel": "998.M41",
+   "tlApprox": true,
+   "place": "Армагеддон",
+   "segmentum": "solar",
+   "tags": [
+    "character",
+    "intrigue",
+    "tragedy"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Гримальд"
+   ],
+   "desc": "Продолжение «Хельсрича». Через несколько недель после битвы за улей Гримальд разбирается с орденом Небесных Львов. Их почти истребили, и выжившие винят в этом Инквизицию. Тихая, задумчивая повесть о том, что делать с уцелевшими, когда война ещё не кончилась.",
+   "hook": "Гримальд после Хельсрича: тяжёлый выбор вместо громкой битвы.",
+   "prereq": [
+    "helsreach"
+   ],
+   "note": "Читать после «Хельсрича»."
+  },
+  {
+   "fantlabId": 851279,
+   "id": "storm-of-damocles",
+   "titleEn": "Storm of Damocles",
+   "titleRu": "Шторм в Дамокловом заливе",
+   "ru": "official",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "space-marine-battles",
+   "seriesNo": 18,
+   "format": "novel",
+   "factions": [
+    "deathwatch",
+    "white-scars",
+    "tau"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "ок. 999.M41",
+   "tlApprox": true,
+   "place": "Залив Дамокла",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "mystery",
+    "xenos-pov"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Нергуй"
+   ],
+   "desc": "Залив Дамокла, затяжная война Империума с т'ау. Белый Шрам Нергуй, теперь капитан Караула Смерти, выясняет, куда пропали два отделения его братьев. Тем временем у т'ау появились новые огромные боевые скафандры. Часть глав показана глазами ветерана огненных воинов.",
+   "hook": "Охотники на чужих против новой техники т'ау.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 474526,
+   "id": "brothers-of-the-snake",
+   "titleEn": "Brothers of the Snake",
+   "titleRu": "Братья Змея",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "iron-snakes",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "orks",
+    "drukhari"
+   ],
+   "era": "dark-millennium",
+   "tl": 40520,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Итака и Звёзды Рифа",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "character",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Приад"
+   ],
+   "desc": "Железные Змеи с океанской Итаки поклялись защищать Звёзды Рифа. Роман собран из нескольких миссий брата-сержанта Приада и его отделения «Дамокл». Каждая часть — новый мир и новый враг. Абнетт показывает десантников живыми людьми со своими привычками, а не бронзовыми статуями.",
+   "hook": "Абнетт о космодесанте: море, змеи и братство без пафоса.",
+   "prereq": [],
+   "note": "Орден Железных Змеев — наследники Ультрамаринов."
+  },
+  {
+   "fantlabId": 1007182,
+   "id": "the-devastation-of-baal",
+   "titleEn": "The Devastation of Baal",
+   "titleRu": "Опустошение Баала",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "space-marine-conquests",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "tyranids",
+    "astartes"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Система Баал",
+   "segmentum": "ultima",
+   "tags": [
+    "siege",
+    "war",
+    "epic",
+    "lore"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Данте"
+   ],
+   "desc": "Флот-улей Левиафан идёт на Баал, родину Кровавых Ангелов. Командор Данте собирает все ордены-наследники Сангвиния для последней обороны. А Галактика тем временем трещит по швам. Масштабная книга о самой страшной битве ордена и о Чёрной Ярости, что живёт в каждом воине.",
+   "hook": "Все сыны Сангвиния против Великого Пожирателя у стен Баала.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 59095,
+   "id": "soul-drinker",
+   "titleEn": "Soul Drinker",
+   "titleRu": "Испивающие Души",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "soul-drinkers",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "mechanicus",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Станция дома Ван Скорвольдов и другие миры",
+   "segmentum": "many",
+   "tags": [
+    "betrayal",
+    "war",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Сарпедон"
+   ],
+   "desc": "Испивающие Души, наследники Рогала Дорна, много веков ищут свою святыню — Копьё Души. Когда реликвия почти у них в руках, её прямо из-под носа уводят техногвардейцы Механикус. Библиарий Сарпедон решает вернуть её любой ценой. Этот выбор потянет за собой весь орден.",
+   "hook": "Верный орден делает один шаг против воли Империума.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 59097,
+   "id": "the-bleeding-chalice",
+   "titleEn": "The Bleeding Chalice",
+   "titleRu": "Чаша Скорби",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "soul-drinkers",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "inquisition",
+    "sisters",
+    "daemons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40501,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Миры Империума",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "sorcery",
+    "survival"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Сарпедон",
+    "Таддеуш"
+   ],
+   "desc": "Испивающие Души теперь вне закона. За ними идёт инквизитор Таддеуш с отрядами Сестёр Битвы. Сарпедон пытается удержать орден от порчи, которая проступает в телах его братьев. А тем временем просыпается демон чумы, и охотникам с добычей придётся решать, кто здесь главный враг.",
+   "hook": "Изгнанники против демона и собственных охотников.",
+   "prereq": [
+    "soul-drinker"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 59100,
+   "id": "crimson-tears",
+   "titleEn": "Crimson Tears",
+   "titleRu": "Багровые слёзы",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": "soul-drinkers",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40502,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Энтимион IV",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "betrayal",
+    "survival"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Сарпедон"
+   ],
+   "desc": "Изгнанные Испивающие Души прибывают на Энтимион IV. На планете пустил корни Хаос, а следом за ними приходят Багровые Кулаки — их бывшие братья по крови Дорна. Сарпедону приходится воевать на два фронта и решать, кому вообще можно верить.",
+   "hook": "Наследники Рогала Дорна сходятся в бою друг с другом.",
+   "prereq": [
+    "the-bleeding-chalice"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 143720,
+   "id": "hellforged",
+   "titleEn": "Hellforged",
+   "titleRu": "Выкованные в преисподней",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2009,
+   "setting": "40k",
+   "series": "soul-drinkers",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40504,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Глухой край космоса",
+   "segmentum": "many",
+   "tags": [
+    "survival",
+    "war",
+    "horror"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Сарпедон"
+   ],
+   "desc": "Испивающие Души прячутся в пустынном углу космоса, а Империум не прекращает охоту. Но в этой пустоте их ждёт враг куда древнее имперских флотов — некроны. Сарпедону нужно сберечь орден, который только начал собираться заново, и не дать ему развалиться изнутри.",
+   "hook": "Беглецы-десантники натыкаются на пробуждающихся некронов.",
+   "prereq": [
+    "crimson-tears"
+   ],
+   "note": "Перед этой книгой в цикле идёт роман Chapter War (№ 4)."
+  },
+  {
+   "fantlabId": 745920,
+   "id": "phalanx",
+   "titleEn": "Phalanx",
+   "titleRu": "Фаланга",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "soul-drinkers",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "inquisition",
+    "sisters",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40505,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Звёздная крепость «Фаланга»",
+   "segmentum": "many",
+   "tags": [
+    "intrigue",
+    "war",
+    "betrayal"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Сарпедон"
+   ],
+   "desc": "Финал цикла. Испивающих Души доставляют на «Фалангу» — огромную звёздную крепость Имперских Кулаков. Сюда съезжаются десантники полудюжины орденов, инквизиторы, Сёстры Битвы и техножрецы, чтобы судить отступников. Но в недрах крепости шевелится кое-что похуже еретиков.",
+   "hook": "Суд над отступниками в сердце крепости Имперских Кулаков.",
+   "prereq": [
+    "hellforged"
+   ],
+   "note": "Финал цикла, читать после предыдущих книг."
+  },
+  {
+   "fantlabId": 932305,
+   "id": "deathwatch",
+   "titleEn": "Deathwatch",
+   "titleRu": "Караул Смерти",
+   "ru": "official",
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "deathwatch",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "deathwatch",
+    "tyranids",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Захолустный мир с гнездом генокрадов",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "horror",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Каррас",
+    "Сигма"
+   ],
+   "desc": "Отряд «Коготь» собран из десантников разных орденов, и каждый тянет одеяло на себя. Ведёт их библиарий Каррас, а приказы отдаёт загадочный инквизитор Сигма. Первая большая миссия — гнездо генокрадов под нищим захолустным миром. Если отряд не справится, погибнет вся планета.",
+   "hook": "Спецназ из космодесантников спускается в логово генокрадов.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1149366,
+   "id": "shadowbreaker",
+   "titleEn": "Shadowbreaker",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": "deathwatch",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "deathwatch",
+    "tau",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40992,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Мир, захваченный т'ау",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "mystery",
+    "intrigue"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Каррас",
+    "Сигма"
+   ],
+   "desc": "Прямое продолжение «Караула Смерти». На планете, которую захватили т'ау, пропала женщина-инквизитор. Сигма бросает «Коготь» и штурмовиков Ордо Ксенос на поиски. Главный вопрос остаётся открытым до конца: её держат в плену или она сама перешла на сторону «Высшего блага»?",
+   "hook": "«Коготь» в тылу т'ау ищет пропавшего инквизитора.",
+   "prereq": [
+    "deathwatch"
+   ],
+   "note": "На русском официально не издавалась."
+  },
+  {
+   "fantlabId": 880418,
+   "id": "carcharodons-red-tithe",
+   "titleEn": "Carcharodons: Red Tithe",
+   "titleRu": "Кархародоны. Красная подать",
+   "ru": "official",
+   "authors": [
+    "Robbie MacNiven"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "carcharodons",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "night-lords",
+    "arbites"
+   ],
+   "era": "dark-millennium",
+   "tl": 40980,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Тюремный мир Зартак",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "horror",
+    "villain-pov"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Бейл Шарр"
+   ],
+   "desc": "На тюремный мир Зартак обрушиваются Повелители Ночи. Вскоре туда же приходят Кархародоны — молчаливые серые десантники из пустоты, которых побаивается сам Империум. Обе стаи хищников охотятся за одним необычным заключённым. Мрачная, жестокая и очень атмосферная книга.",
+   "hook": "Хищник против хищника: Кархародоны и Повелители Ночи.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1012375,
+   "id": "carcharodons-outer-dark",
+   "titleEn": "Carcharodons: Outer Dark",
+   "titleRu": "Кархародоны. Внешняя тьма",
+   "ru": "official",
+   "authors": [
+    "Robbie MacNiven"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "carcharodons",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "tyranids"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Благочестие V и другие миры",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "survival",
+    "lore"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Бейл Шарр"
+   ],
+   "desc": "Прошло десять лет после Зартака. Бейл Шарр и его рота отбиваются от тиранидских флотов-ульев, и эта война идёт плохо. Действие кочует по многим мирам, а решающий бой ждёт у Благочестия V. Книга глубже раскрывает странные обычаи и тёмное прошлое ордена.",
+   "hook": "Кархародоны против бесконечного голода тиранидов.",
+   "prereq": [
+    "carcharodons-red-tithe"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36070,
+   "id": "space-wolf",
+   "titleEn": "Space Wolf",
+   "titleRu": "Космический Волк",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 1999,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40930,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Фенрис",
+   "segmentum": "obscurus",
+   "tags": [
+    "character",
+    "adventure",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Рагнар — юный воин с ледяного Фенриса, где лучшей долей считают славную смерть в бою. Его забирают в Космические Волки. Роман ведёт героя через жестокие испытания, перерождение и первые битвы. Классика Black Library: быстро, задорно и очень по-викингски.",
+   "hook": "Викинги в силовой броне: как парень с Фенриса становится Волком.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 36071,
+   "id": "ragnars-claw",
+   "titleEn": "Ragnar’s Claw",
+   "titleRu": "Коготь Рагнара",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2000,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "orks",
+    "tyranids",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40935,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Аэриус и другие миры",
+   "segmentum": "many",
+   "tags": [
+    "adventure",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Рагнар теперь Кровавый Коготь. Его стаю отправляют помогать инквизиторам: мир Аэриус гибнет от чумы. Спасти его может древний талисман, но осколки разбросаны по всей Галактике. Впереди орки, тираниды и долгая погоня от планеты к планете.",
+   "hook": "Кровавые Когти носятся по Галактике за осколками талисмана.",
+   "prereq": [
+    "space-wolf"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36080,
+   "id": "grey-hunter",
+   "titleEn": "Grey Hunter",
+   "titleRu": "Серый Охотник",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "thousand-sons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40940,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Гарм",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "sorcery",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Гарм для Волков почти так же свят, как Фенрис: здесь хранилось Копьё Русса. Теперь святилище осквернено, а реликвию унесли слуги Хаоса. Рагнар, уже Серый Охотник, отправляется вернуть копьё. Путь приводит его к старейшему врагу ордена.",
+   "hook": "Рагнар идёт за украденным Копьём Русса.",
+   "prereq": [
+    "ragnars-claw"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 36090,
+   "id": "wolfblade",
+   "titleEn": "Wolfblade",
+   "titleRu": "Волчий Клинок",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "imperium",
+    "thousand-sons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40945,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Терра",
+   "segmentum": "solar",
+   "tags": [
+    "intrigue",
+    "betrayal",
+    "character"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Рагнар провинился, и Великий Волк отсылает его на Терру. Теперь он Волчий Клинок — телохранитель в союзном ордену доме Навигаторов. Сердце Империума оказывается змеиным гнездом. Вместо честной драки тут интриги, яд и удар в спину.",
+   "hook": "Космический Волк против дворцовых интриг на Терре.",
+   "prereq": [
+    "grey-hunter"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 83771,
+   "id": "sons-of-fenris",
+   "titleEn": "Sons of Fenris",
+   "titleRu": "Сыны Фенриса",
+   "ru": "official",
+   "authors": [
+    "Lee Lightner"
+   ],
+   "year": 2007,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "dark-angels",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40950,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Гиада",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "intrigue",
+    "betrayal"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Приходят вести, что на Гиаду напал Хаос. Рагнар прибывает разобраться и встречает там Тёмных Ангелов — давних соперников Волков. Обе стороны вызывают подкрепления. Старая вражда вот-вот перерастёт в бойню, а настоящий враг тем временем ждёт своего часа.",
+   "hook": "Волки и Тёмные Ангелы вот-вот вцепятся друг другу в горло.",
+   "prereq": [
+    "wolfblade"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 83772,
+   "id": "wolfs-honour",
+   "titleEn": "Wolfs Honour",
+   "titleRu": "Честь Волка",
+   "ru": "official",
+   "authors": [
+    "Lee Lightner"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "space-wolf",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "thousand-sons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40955,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Логово Тысячи Сынов",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "sorcery",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Рагнар Чёрная Грива",
+    "Мэдокс"
+   ],
+   "desc": "Тысяча Сынов снова грозят прорывом, и Волки бросаются в стремительную атаку на их логово. Для Рагнара это дело личное: у космодесантника Хаоса Мэдокса в руках Копьё Русса. Последняя книга цикла о молодом Рагнаре.",
+   "hook": "Рагнар против Мэдокса. Ставка — Копьё Русса.",
+   "prereq": [
+    "sons-of-fenris"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 436825,
+   "id": "blood-of-asaheim",
+   "titleEn": "Blood of Asaheim",
+   "titleRu": "Кровь Асахейма",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "blood-of-asaheim",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "death-guard",
+    "sisters"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Храмовый мир Рас Шакех",
+   "segmentum": "many",
+   "tags": [
+    "siege",
+    "character",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Ингвар",
+    "Гуннлаугур"
+   ],
+   "desc": "Ингвар и Гуннлаугур снова служат вместе после полувека разлуки. Их стаю бросают защищать храмовый мир от чумной Гвардии Смерти. Союзницы — Сёстры Битвы, которые считают Волков немногим лучше врага. Книга о стае, где старые обиды опаснее вражеских болтеров.",
+   "hook": "Стая Волков, Гвардия Смерти и очень неудобные союзницы.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 761578,
+   "id": "stormcaller",
+   "titleEn": "Stormcaller",
+   "titleRu": "Зовущий бурю",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "blood-of-asaheim",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "space-wolves",
+    "sisters",
+    "death-guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40991,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Храмовый мир Рас Шакех",
+   "segmentum": "many",
+   "tags": [
+    "war",
+    "intrigue",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ньяль Зовущий Бурю",
+    "Гуннлаугур",
+    "Ингвар"
+   ],
+   "desc": "Рас Шакех задыхается от чумы, и Империум присылает большие силы. С ними прибывает рунный жрец Ньяль Зовущий Бурю. Экклезиархия явно что-то ищет на этой планете, и её тайна может ударить по всему Империуму. Стая Ярнхамар снова оказывается в самой гуще.",
+   "hook": "Ньяль Зовущий Бурю против тайн Экклезиархии.",
+   "prereq": [
+    "blood-of-asaheim"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 710415,
+   "id": "ragnar-blackmane",
+   "titleEn": "Ragnar Blackmane",
+   "titleRu": "Рагнар Чёрная Грива",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": "space-marine-legends",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "space-wolves",
+    "sons-of-horus",
+    "dark-angels",
+    "blood-angels"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Кадия",
+   "segmentum": "obscurus",
+   "tags": [
+    "character",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Рагнар Чёрная Грива"
+   ],
+   "desc": "Кадия, Тринадцатый Чёрный крестовый поход. Рагнар — уже Волчий Лорд, и его рота бьётся с полчищами Абаддона. Параллельно идёт история сорокалетней давности, где молодой Рагнар задирает Тёмных Ангелов и Расчленителей. Старые поступки догоняют его в настоящем.",
+   "hook": "Горячий юнец и опытный лорд — один и тот же Рагнар.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 926900,
+   "id": "lemartes",
+   "titleEn": "Lemartes",
+   "titleRu": "Лемартес",
+   "ru": "official",
+   "authors": [
+    "David Annandale"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "space-marine-legends",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "blood-angels",
+    "chaos-marines"
+   ],
+   "era": "dark-millennium",
+   "tl": 40990,
+   "tlLabel": "кон. M41",
+   "tlApprox": true,
+   "place": "Флегетон",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "war",
+    "horror"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Лемартес"
+   ],
+   "desc": "Лемартес — капеллан Роты Смерти Кровавых Ангелов, единственный, кто держит Чёрную Ярость в узде. Его будят из стазиса и отправляют на Флегетон, мир, охваченный безумием. Там ждут такие же одержимые кровью предатели. Но главный бой идёт у него в голове.",
+   "hook": "Вести безумцев в бой и самому не сорваться.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1016791,
+   "id": "mephiston-blood-of-sanguinius",
+   "titleEn": "Mephiston: Blood of Sanguinius",
+   "titleRu": "Мефистон. Кровь Сангвиния",
+   "ru": "official",
+   "authors": [
+    "Darius Hinks"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "mephiston",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "chaos",
+    "imperium"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "ок. 999.M41",
+   "tlApprox": true,
+   "place": "Храмовый мир Дивинус Прим",
+   "segmentum": "many",
+   "tags": [
+    "sorcery",
+    "character",
+    "mystery"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Мефистон"
+   ],
+   "desc": "Храмовый мир Дивинус Прим скрылся за завесой, сквозь которую не пробивается свет Астрономикана. Мефистон, старший библиарий Кровавых Ангелов, отправляется туда с почётной стражей. Планету раздирает религиозная война за Окаменелый меч. Мефистон надеется найти там разгадку собственной природы.",
+   "hook": "Самый сильный псайкер Кровавых Ангелов ищет разгадку своей силы.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 59099,
+   "id": "grey-knights",
+   "titleEn": "Grey Knights",
+   "titleRu": "Серые Рыцари",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "grey-knights",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "grey-knights",
+    "daemons",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40510,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Несколько миров Империума",
+   "segmentum": "many",
+   "tags": [
+    "sorcery",
+    "war",
+    "mystery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Аларик"
+   ],
+   "desc": "Тысячу лет назад Серый Рыцарь Мандулис ценой жизни изгнал демона-принца Гаргатулота. Теперь срок вышел, и культ готовит его возвращение. Юстикар Аларик и его отделение идут по следу. Добротный оккультный боевик о демонах, культистах и Инквизиции.",
+   "hook": "Серые Рыцари против демона, который ждал тысячу лет.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 59101,
+   "id": "dark-adeptus",
+   "titleEn": "Dark Adeptus",
+   "titleRu": "Адепты Тьмы",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2006,
+   "setting": "40k",
+   "series": "grey-knights",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "grey-knights",
+    "mechanicus",
+    "chaos",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40511,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мир-кузница Каэрония",
+   "segmentum": "many",
+   "tags": [
+    "horror",
+    "war",
+    "mystery"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Аларик"
+   ],
+   "desc": "Мир-кузница Каэрония исчез сто лет назад и вдруг вернулся из варпа. Аларик и его Серые Рыцари летят выяснить, что с ним стало. Планету держат Тёмные Механикус и их одержимые машины. А в её глубинах хранится древняя технология, ради которой стоит рискнуть всем.",
+   "hook": "Серые Рыцари на заражённом Хаосом мире-кузнице.",
+   "prereq": [
+    "grey-knights"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 59103,
+   "id": "hammer-of-daemons",
+   "titleEn": "Hammer of Daemons",
+   "titleRu": "Молот демонов",
+   "ru": "official",
+   "authors": [
+    "Ben Counter"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "grey-knights",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "grey-knights",
+    "daemons",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40512,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Демонический мир в Оке Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "survival",
+    "sorcery",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Аларик"
+   ],
+   "desc": "После поражения на Сартис Майорис Аларик попадает в плен. Его увозят на демонический мир в Оке Ужаса, где слуги Кхорна устраивают бесконечные гладиаторские бои. Серому Рыцарю приходится драться на арене, чтобы выжить. Надежда на побег — легендарный Молот демонов.",
+   "hook": "Серый Рыцарь на арене Кхорна. Сражайся или умри.",
+   "prereq": [
+    "dark-adeptus"
+   ],
+   "note": "Можно читать отдельно: сюжет почти самостоятельный."
+  },
+  {
+   "fantlabId": 36294,
+   "id": "nightbringer",
+   "titleEn": "Nightbringer",
+   "titleRu": "Несущий ночь",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2002,
+   "setting": "40k",
+   "series": "ultramarines",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "drukhari",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40996,
+   "tlLabel": "ок. 996.M41",
+   "tlApprox": true,
+   "place": "Павонис",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "intrigue",
+    "mystery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Уриэль Вентрис",
+    "Арио Барзано"
+   ],
+   "desc": "Уриэль Вентрис только что стал капитаном Ультрамаринов. Его первое задание — Павонис, где перестали платить десятину и бунтуют, а с орбиты налетают тёмные эльдары. Вместе с чиновником Арио Барзано он распутывает заговор. Под планетой тем временем спит древнее зло.",
+   "hook": "Первая миссия капитана Вентриса: бунт, пираты и древнее зло.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 36303,
+   "id": "warriors-of-ultramar",
+   "titleEn": "Warriors of Ultramar",
+   "titleRu": "Воины Ультрамара",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "ultramarines",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "tyranids",
+    "inquisition"
+   ],
+   "era": "dark-millennium",
+   "tl": 40997,
+   "tlLabel": "997.M41",
+   "tlApprox": true,
+   "place": "Тарсис Ультра",
+   "segmentum": "ultima",
+   "tags": [
+    "siege",
+    "war",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Уриэль Вентрис",
+    "Пазаниус"
+   ],
+   "desc": "Осколок тиранидского флота-улья идёт на мир Тарсис Ультра. Рота Уриэля и братья из ордена Мортифакторов встают на оборону вместе с местной гвардией. Чтобы выстоять, Вентрис готов отступить от священного Кодекса Астартес. Долгая и жёсткая осада против роя.",
+   "hook": "Ультрамарины держат оборону против голодного роя.",
+   "prereq": [
+    "nightbringer"
+   ],
+   "note": "Сюжет почти самостоятельный, можно начинать и с неё."
+  },
+  {
+   "fantlabId": 36305,
+   "id": "dead-sky-black-sun",
+   "titleEn": "Dead Sky, Black Sun",
+   "titleRu": "Чёрное солнце",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2004,
+   "setting": "40k",
+   "series": "ultramarines",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "iron-warriors",
+    "daemons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40998,
+   "tlLabel": "ок. 998.M41",
+   "tlApprox": true,
+   "place": "Медренгард, Око Ужаса",
+   "segmentum": "eye",
+   "tags": [
+    "adventure",
+    "horror",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Уриэль Вентрис",
+    "Пазаниус"
+   ],
+   "desc": "Уриэль и сержант Пазаниус нарушили Кодекс и изгнаны из ордена. Смыть позор можно только Клятвой Смерти. Их путь лежит в Око Ужаса, на Медренгард — демонический мир Железных Воинов. Там нужно уничтожить Демонкулабу, кошмарную кузницу предателей.",
+   "hook": "Двое изгнанных Ультрамаринов идут в самое сердце Ока Ужаса.",
+   "prereq": [
+    "warriors-of-ultramar"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 92777,
+   "id": "the-killing-ground",
+   "titleEn": "The Killing Ground",
+   "titleRu": "Зона поражения",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2008,
+   "setting": "40k",
+   "series": "ultramarines",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "ultramarines",
+    "guard",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "ок. 999.M41",
+   "tlApprox": true,
+   "place": "Салинас",
+   "segmentum": "many",
+   "tags": [
+    "mystery",
+    "horror",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Уриэль Вентрис",
+    "Пазаниус"
+   ],
+   "desc": "Уриэль и Пазаниус вырвались из Ока Ужаса и оказались на Салинасе — мире, который ещё не оправился от войны. Двум бродягам в броне никто не верит. Чтобы вернуться домой, им нужно доказать, что Хаос их не коснулся. А у планеты есть своё тёмное прошлое.",
+   "hook": "Вернуться из Ока Ужаса — полдела. Надо доказать, что ты чист.",
+   "prereq": [
+    "dead-sky-black-sun"
+   ],
+   "note": null
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-space-wolves",
+   "name": "Сага Космических Волков",
+   "about": "Избранные книги о Волках Фенриса — от юного Рагнара до осады Кадии.",
+   "steps": [
+    {
+     "id": "space-wolf",
+     "note": "Классическое начало: как становятся Волком."
+    },
+    {
+     "id": "battle-of-the-fang",
+     "note": "Главная битва ордена за родной дом, века назад."
+    },
+    {
+     "id": "blood-of-asaheim",
+     "note": "Современные Волки глазами одной стаи."
+    },
+    {
+     "id": "stormcaller",
+     "note": "Прямое продолжение, в дело вступает Ньяль."
+    },
+    {
+     "id": "ragnar-blackmane",
+     "note": "Взрослый Рагнар на Кадии — красивое завершение."
+    }
+   ]
+  },
+  {
+   "id": "path-astartes-start",
+   "name": "Космодесант: с чего начать",
+   "about": "Четыре истории о разных орденах. Первые три можно читать с нуля, а перед «Опустошением Баала» лучше прочитать «Данте».",
+   "steps": [
+    {
+     "id": "helsreach",
+     "note": "Космодесант в осаде: один город против моря орков."
+    },
+    {
+     "id": "deathwatch",
+     "note": "Сборная команда охотников на чужих."
+    },
+    {
+     "id": "warriors-of-ultramar",
+     "note": "Ультрамарины и тираниды: осада против роя."
+    },
+    {
+     "id": "the-devastation-of-baal",
+     "note": "Огромная битва и вход в Эру Индомитус."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Wolfs Honour (83772): официальное название — «Wolf's Honour» (с апострофом). titleEn оставлен как во входе, чтобы совпал ключ сверки.",
+  "Blood and Fire (710416): английский первоисточник, похоже, вышел раньше 2015 (электронная повесть, отзывы с ноября 2014). Год оставлен как во входе.",
+  "Ragnar’s Claw / Grey Hunter: часть источников даёт 2000 и 2001 годы вместо 1999 и 2002. Год оставлен как во входе.",
+  "Ragnar’s Claw: год 1999 → 2000 (первое издание вышло в 2000-м)."
+ ]
+}

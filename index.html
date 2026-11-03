@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ru" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Скрипторий — карта книг 40K</title>
+  <meta name="description" content="Интерактивная карта книг по Warhammer 40,000 и Ереси Хоруса: хронология мира, пути чтения, фракции, оценки читателей и личный список прочитанного. Неофициальный фанатский проект.">
+  <meta name="theme-color" content="#0d0b09">
+  <meta property="og:title" content="Скрипторий — карта книг 40K">
+  <meta property="og:description" content="Что читать по Warhammer 40,000 и Ереси Хоруса: хронология, пути чтения, фракции и оценки.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='19' fill='%230d0b09' stroke='%23c9a25a' stroke-width='1.5'/%3E%3Cpath d='M20 5l2.2 11.6L34 18.5l-11.8 1.9L20 32l-2.2-11.6L6 18.5l11.8-1.9z' fill='%23c9a25a'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Cormorant+Garamond:ital,wght@1,500;1,600&family=Cormorant+SC:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="css/style.css?v=02a64195">
+  <script>
+    // Тема до отрисовки, чтобы не мигало
+    try {
+      var p = JSON.parse(localStorage.getItem("scriptorium.v1") || "{}").prefs || {};
+      if (p.theme) document.documentElement.dataset.theme = p.theme;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <canvas id="dust" aria-hidden="true"></canvas>
+
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Скрипторий — на главную">
+      <span class="brand-sigil" id="brand-sigil"></span>
+      <span><span class="brand-name">Скрипторий</span><span class="brand-sub">карта книг 41-го тысячелетия</span></span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Разделы"></nav>
+    <div class="top-actions">
+      <button class="icon-btn" id="btn-search" aria-label="Поиск"></button>
+      <button class="icon-btn" id="btn-theme" aria-label="Сменить тему"></button>
+      <button class="icon-btn" id="btn-settings" aria-label="Настройки"></button>
+    </div>
+  </header>
+
+  <main id="view" class="view" tabindex="-1"></main>
+
+  <footer class="footer">
+    <div class="footer-in">
+      <div>
+        <p><b>Неофициальный фанатский проект.</b> Не связан с Games Workshop и Black Library и не одобрен ими. Сайт бесплатный, без рекламы и сбора данных.</p>
+        <p>Warhammer 40,000, Horus Heresy, Black Library и связанные названия — товарные знаки Games Workshop Ltd. Обложки принадлежат правообладателям и загружаются с FantLab и Open Library только для узнавания книг. Если вы правообладатель и хотите что-то убрать — напишите, уберём.</p>
+      </div>
+      <div>
+        <p><b>Откуда данные.</b> Названия, переводы и оценки читателей — <a href="https://fantlab.ru" target="_blank" rel="noopener">FantLab</a>. Обложки — FantLab и <a href="https://openlibrary.org" target="_blank" rel="noopener">Open Library</a>. Даты и места действия собраны по <a href="https://wh40k.lexicanum.com" target="_blank" rel="noopener">Lexicanum</a>, вики и обзорам. Неточные даты помечены словом «примерно». Описания написаны для этого сайта.</p>
+        <p>Отметки «прочитано» и ваши списки хранятся только в этом браузере. <span id="data-built"></span></p>
+      </div>
+    </div>
+  </footer>
+
+  <nav class="bottom-nav" id="bottom-nav" aria-label="Разделы"></nav>
+  <div id="modal-root" class="modal-root"></div>
+  <div id="toast-root" class="toast-root" aria-live="polite"></div>
+
+  <script src="data/config.js?v=36294d48"></script>
+  <script src="data/meta.js?v=5a22a26c"></script>
+  <script src="data/books.js?v=a74026e7"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="js/core.js?v=e55f3707"></script>
+  <script src="js/data.js?v=0d7d5431"></script>
+  <script src="js/ui.js?v=aaf69932"></script>
+  <script src="js/modal.js?v=2927cc26"></script>
+  <script src="js/views/library.js?v=a2414cc7"></script>
+  <script src="js/views/timeline.js?v=c6c04306"></script>
+  <script src="js/views/galaxy.js?v=4b019a1a"></script>
+  <script src="js/views/paths.js?v=ad273cae"></script>
+  <script src="js/views/overview.js?v=b19f5d68"></script>
+  <script src="js/views/mine.js?v=70b03eaf"></script>
+  <script src="js/app.js?v=466767a8"></script>
+</body>
+</html>

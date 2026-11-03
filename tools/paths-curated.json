@@ -1,0 +1,205 @@
+{
+  "order": [
+    "path-first-step",
+    "path-heresy-core",
+    "path-inquisition-abnett",
+    "path-gaunts-ghosts",
+    "path-ciaphas-cain",
+    "path-astartes-start",
+    "path-long-war",
+    "path-xenos",
+    "path-era-indomitus",
+    "path-crime-horror",
+    "path-siege-of-terra",
+    "path-fallen-primarchs",
+    "path-imperium-secundus",
+    "path-heresy-all",
+    "path-space-wolves",
+    "path-guard-trenches",
+    "path-dark-coil",
+    "path-terra-rift",
+    "path-enemies-of-imperium"
+  ],
+  "hide": [
+    "path-hh-opening",
+    "path-hh-word-bearers",
+    "path-road-to-terra"
+  ],
+  "paths": [
+    {
+      "id": "path-first-step",
+      "name": "Первый шаг",
+      "about": "Семь книг, с которых проще всего войти во вселенную. Каждая читается отдельно и показывает свою сторону мира.",
+      "steps": [
+        {
+          "id": "xenos",
+          "note": "Детектив про инквизитора. Хорошее знакомство с тем, как устроен Империум."
+        },
+        {
+          "id": "for-the-emperor",
+          "note": "Комиссар-трус, который всех спасает. Смешно и легко."
+        },
+        {
+          "id": "fifteen-hours",
+          "note": "Война глазами рядового. Коротко и честно."
+        },
+        {
+          "id": "helsreach",
+          "note": "Космодесант в полную силу: осада города."
+        },
+        {
+          "id": "soul-hunter",
+          "note": "Теперь глазами Хаоса. Злодеи тоже люди."
+        },
+        {
+          "id": "the-infinite-and-the-divine",
+          "note": "Два бессмертных некрона и их вечная вражда. Ещё и с юмором."
+        },
+        {
+          "id": "horus-rising",
+          "note": "Начало Ереси Хоруса. Отсюда можно идти в главную серию."
+        }
+      ]
+    },
+    {
+      "id": "path-heresy-core",
+      "name": "Ересь Хоруса: главное",
+      "about": "Главные книги огромной серии — от первых сомнений до финала у стен Дворца. Это выжимка: местами сюжет перескакивает через пропущенные тома. Что стоит прочитать перед книгой, видно в её окне.",
+      "steps": [
+        {
+          "id": "horus-rising",
+          "note": "Хорус ещё герой. Всё начинается здесь."
+        },
+        {
+          "id": "false-gods",
+          "note": "Первая трещина: болезнь Хоруса."
+        },
+        {
+          "id": "galaxy-in-flames",
+          "note": "Предательство на Исстване III."
+        },
+        {
+          "id": "the-flight-of-the-eisenstein",
+          "note": "Гонка за предупреждением к Терре."
+        },
+        {
+          "id": "fulgrim",
+          "note": "Как пал самый совершенный из сыновей."
+        },
+        {
+          "id": "a-thousand-sons",
+          "note": "Магнус и его роковая ошибка."
+        },
+        {
+          "id": "the-first-heretic",
+          "note": "С чего на самом деле началась Ересь."
+        },
+        {
+          "id": "know-no-fear",
+          "note": "Удар по Калту. Одна из лучших книг серии."
+        },
+        {
+          "id": "betrayer",
+          "note": "Ангрон и Пожиратели Миров."
+        },
+        {
+          "id": "vengeful-spirit",
+          "note": "Хорус в полной силе."
+        },
+        {
+          "id": "the-path-of-heaven",
+          "note": "Белые Шрамы выбирают сторону."
+        },
+        {
+          "id": "the-master-of-mankind",
+          "note": "Сам Император и война в Паутине."
+        },
+        {
+          "id": "praetorian-of-dorn",
+          "note": "Тайная война за Терру накануне осады."
+        },
+        {
+          "id": "the-solar-war",
+          "note": "Начинается Осада Терры."
+        },
+        {
+          "id": "saturnine",
+          "note": "Главный штурм осады от автора «Возвышения Хоруса»."
+        },
+        {
+          "id": "echoes-of-eternity",
+          "note": "Сангвиний защищает Дворец."
+        },
+        {
+          "id": "the-end-and-the-death-volume-i",
+          "note": "Финал. Часть первая."
+        },
+        {
+          "id": "the-end-and-the-death-volume-ii",
+          "note": "Финал. Часть вторая."
+        },
+        {
+          "id": "the-end-and-the-death-volume-iii",
+          "note": "Конец Ереси."
+        }
+      ]
+    },
+    {
+      "id": "path-crime-horror",
+      "name": "Детектив и ужас во тьме",
+      "about": "Расследования, заговоры и страх. Для тех, кому битвы интересны меньше, чем тайны.",
+      "steps": [
+        {
+          "id": "xenos",
+          "note": "Классика жанра: инквизитор идёт по следу."
+        },
+        {
+          "id": "vaults-of-terra-the-carrion-throne",
+          "note": "Интриги в сердце Империума, на самой Терре."
+        },
+        {
+          "id": "bloodlines",
+          "note": "Нуарный детектив в городе-улье."
+        },
+        {
+          "id": "flesh-and-steel",
+          "note": "Ещё одно дело Варангантуи: следователь и киборг."
+        },
+        {
+          "id": "angels-of-darkness",
+          "note": "Допрос, где каждый скрывает правду."
+        },
+        {
+          "id": "the-reverie",
+          "note": "Мистика и безумие на дальней окраине."
+        },
+        {
+          "id": "dead-men-walking",
+          "note": "Гвардейцы против армии мертвецов."
+        },
+        {
+          "id": "sepulturum",
+          "note": "Чистый хоррор: город под чумой."
+        }
+      ]
+    },
+    {
+      "id": "path-heresy-all",
+      "name": "Ересь Хоруса целиком",
+      "about": "Основная серия по номерам, а затем «Осада Терры». Четырёх сборников серии (№ 37, 40, 48 и 52) в каталоге нет. Для тех, кто готов пройти путь до конца.",
+      "auto": "heresy-all"
+    },
+    {
+      "id": "path-gaunts-ghosts",
+      "name": "Призраки Гаунта по порядку",
+      "about": "Полк без родины проходит весь Саббатский крестовый поход. Лучше читать подряд: герои взрослеют, гибнут и меняются.",
+      "auto": "series:gaunts-ghosts"
+    },
+    {
+      "id": "path-ciaphas-cain",
+      "name": "Каин в порядке выхода",
+      "about": "Мемуары «героя Империума», который боится всего на свете. Читать лучше в порядке выхода: сноски Вейл ссылаются на прошлые книги.",
+      "auto": "series-year:ciaphas-cain"
+    }
+  ]
+}

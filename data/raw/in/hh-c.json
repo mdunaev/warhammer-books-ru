@@ -1,0 +1,354 @@
+{
+ "chunk": "hh-c",
+ "authors": {
+  "Guy Haley": "Гай Хейли",
+  "Graham McNeill": "Грэм Макнилл",
+  "Chris Wraight": "Крис Райт",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Gav Thorpe": "Гэв Торп",
+  "Ian St. Martin": "Иэн Сент-Мартин",
+  "John French": "Джон Френч",
+  "Dan Abnett": "Дэн Абнетт",
+  "Mike Brooks": "Майк Брукс",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "James Swallow": "Джеймс Сваллоу"
+ },
+ "books": [
+  {
+   "fantlabId": 915589,
+   "titleEn": "Perturabo: The Hammer of Olympia",
+   "titleRu": "Пертурабо. Молот Олимпии",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 8.17,
+   "fantlabVoters": 99
+  },
+  {
+   "fantlabId": 908261,
+   "titleEn": "Magnus the Red: Master of Prospero",
+   "titleRu": "Магнус Красный. Повелитель Просперо",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2017,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 8.12,
+   "fantlabVoters": 97
+  },
+  {
+   "fantlabId": 873765,
+   "titleEn": "Leman Russ: The Great Wolf",
+   "titleRu": "Леман Русс. Великий Волк",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 8.05,
+   "fantlabVoters": 94
+  },
+  {
+   "fantlabId": 943352,
+   "titleEn": "Fulgrim: The Palatine Phoenix",
+   "titleRu": "Фулгрим. Палатинский Феникс",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2017,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.72,
+   "fantlabVoters": 82
+  },
+  {
+   "fantlabId": 942741,
+   "titleEn": "Lorgar: Bearer of the Word",
+   "titleRu": "Лоргар. Носитель Слова",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2017,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.54,
+   "fantlabVoters": 92
+  },
+  {
+   "fantlabId": 988827,
+   "titleEn": "Jaghatai Khan: Warhawk of Chogoris",
+   "titleRu": "Джагатай-Хан. Боевой Ястреб Чогориса",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2018,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.9,
+   "fantlabVoters": 69
+  },
+  {
+   "fantlabId": 1151569,
+   "titleEn": "Konrad Curze: The Night Haunter",
+   "titleRu": "Конрад Курц. Ночной Призрак",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 8.42,
+   "fantlabVoters": 88
+  },
+  {
+   "fantlabId": 1127499,
+   "titleEn": "Angron: Slave of Nuceria",
+   "titleRu": "Ангрон. Раб Нуцерии",
+   "ru": "official",
+   "authors": [
+    "Ian St. Martin"
+   ],
+   "year": 2019,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 8.35,
+   "fantlabVoters": 91
+  },
+  {
+   "fantlabId": 1210026,
+   "titleEn": "The Lost and the Damned",
+   "titleRu": "Заблудшие и проклятые",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.05,
+   "fantlabVoters": 82
+  },
+  {
+   "fantlabId": 1097541,
+   "titleEn": "The Solar War",
+   "titleRu": "Солнечная война",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.73,
+   "fantlabVoters": 89
+  },
+  {
+   "fantlabId": 1252209,
+   "titleEn": "The First Wall",
+   "titleRu": "Первая стена",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.47,
+   "fantlabVoters": 72
+  },
+  {
+   "fantlabId": 1302332,
+   "titleEn": "Saturnine",
+   "titleRu": "Под знаком Сатурна",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2020,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.56,
+   "fantlabVoters": 77
+  },
+  {
+   "fantlabId": 1345154,
+   "titleEn": "The Fury of Magnus",
+   "titleRu": "Ярость Магнуса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2020,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.98,
+   "fantlabVoters": 60
+  },
+  {
+   "fantlabId": 1252210,
+   "titleEn": "Sons of Selenar",
+   "titleRu": "Сыны Селенар",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2020,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.58,
+   "fantlabVoters": 66
+  },
+  {
+   "fantlabId": 1445372,
+   "titleEn": "Warhawk",
+   "titleRu": "Боевой Ястреб",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.14,
+   "fantlabVoters": 59
+  },
+  {
+   "fantlabId": 1418589,
+   "titleEn": "Alpharius: Head of the Hydra",
+   "titleRu": "Альфарий. Голова Гидры",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2021,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.9,
+   "fantlabVoters": 70
+  },
+  {
+   "fantlabId": 1419766,
+   "titleEn": "Mortis",
+   "titleRu": "Мортис",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.78,
+   "fantlabVoters": 58
+  },
+  {
+   "fantlabId": 1617261,
+   "titleEn": "Echoes of Eternity",
+   "titleRu": "Отголоски Вечности",
+   "ru": "fan",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2022,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.49,
+   "fantlabVoters": 55
+  },
+  {
+   "fantlabId": 1660163,
+   "titleEn": "Sanguinius: The Great Angel",
+   "titleRu": "Сангвиний. Великий Ангел",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2022,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.77,
+   "fantlabVoters": 52
+  },
+  {
+   "fantlabId": 1613059,
+   "titleEn": "Rogal Dorn: The Emperor’s Crusader",
+   "titleRu": "Рогал Дорн. Крестоносец Императора",
+   "ru": "fan",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2022,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Примархи",
+   "fantlabRating": 7.78,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 1692101,
+   "titleEn": "The End and the Death: Volume I",
+   "titleRu": "Конец и смерть. Том I",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.56,
+   "fantlabVoters": 55
+  },
+  {
+   "fantlabId": 1797305,
+   "titleEn": "The End and the Death: Volume II",
+   "titleRu": "Конец и смерть. Том II",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2023,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.12,
+   "fantlabVoters": 49
+  },
+  {
+   "fantlabId": 1679010,
+   "titleEn": "Garro: Knight of Grey",
+   "titleRu": "Гарро. Рыцарь в сером",
+   "ru": "fan",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2023,
+   "fantlabType": "novella",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 7.87,
+   "fantlabVoters": 46
+  },
+  {
+   "fantlabId": 1824520,
+   "titleEn": "The End and the Death: Volume III",
+   "titleRu": "Конец и смерть. Том III",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2024,
+   "fantlabType": "novel",
+   "fantlabSeries": "Ересь Хоруса / Ересь Хоруса. Осада Терры",
+   "fantlabRating": 8.74,
+   "fantlabVoters": 43
+  }
+ ]
+}

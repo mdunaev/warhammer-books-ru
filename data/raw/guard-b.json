@@ -1,0 +1,937 @@
+{
+ "chunk": "guard-b",
+ "authors": {
+  "Andy Clark": "Энди Кларк",
+  "Steven B. Fischer": "Стивен Б. Фишер",
+  "Mitchel Scanlon": "Митчелл Сканлон",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "Steve Parker": "Стив Паркер",
+  "Steve Lyons": "Стив Лайонс",
+  "Justin D. Hill": "Джастин Д. Хилл",
+  "William King": "Уильям Кинг",
+  "Gordon Rennie": "Гордон Ренни",
+  "Denny Flowers": "Дэнни Флауэрс",
+  "Guy Haley": "Гай Хейли",
+  "Peter Fehervari": "Петер Фехервари"
+ },
+ "series": [
+  {
+   "id": "minka-lesk",
+   "name": "Минка Леск",
+   "nameEn": "Minka Lesk",
+   "setting": "40k"
+  },
+  {
+   "id": "the-macharian-crusade",
+   "name": "Крестовый поход Махариуса",
+   "nameEn": "The Macharian Crusade",
+   "setting": "40k"
+  },
+  {
+   "id": "gothic-war",
+   "name": "Готическая война",
+   "nameEn": "Gothic War",
+   "setting": "40k"
+  },
+  {
+   "id": "lucille-von-shard",
+   "name": "Люсиль фон Шард",
+   "nameEn": "Lucille von Shard",
+   "setting": "40k"
+  },
+  {
+   "id": "baneblade",
+   "name": "Гибельный клинок",
+   "nameEn": "Baneblade",
+   "setting": "40k"
+  },
+  {
+   "id": "the-dark-coil",
+   "name": "Тёмный клубок",
+   "nameEn": "The Dark Coil",
+   "setting": "40k"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 1503418,
+   "id": "steel-tread",
+   "titleEn": "Steel Tread",
+   "titleRu": "Стальная поступь",
+   "ru": "fan",
+   "authors": [
+    "Andy Clark"
+   ],
+   "year": 2021,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41010,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Кроатоас",
+   "segmentum": "obscurus",
+   "tags": [
+    "war",
+    "character",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Хадейя Эцул"
+   ],
+   "desc": "Танкистка Хадейя Эцул потеряла свою машину и экипаж, и её переводят к кадийцам. Ей вручают старый «Леман Русс» по прозвищу «Стальная поступь» и экипаж, который не хочет её слушать. Впереди решающее наступление на Кроатоасе против слуг Хаоса. Книга больше про людей в тесной броне, чем про пушки.",
+   "hook": "Чужой командир, злой экипаж и один танк на всех.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1653877,
+   "id": "witchbringer",
+   "titleEn": "Witchbringer",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Steven B. Fischer"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41010,
+   "tlLabel": "~M42",
+   "tlApprox": true,
+   "place": "Визаж",
+   "segmentum": "obscurus",
+   "tags": [
+    "sorcery",
+    "character",
+    "war",
+    "mystery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Главия Аэранд"
+   ],
+   "desc": "Главия Аэранд была капитаном кадийского полка, пока в ней не проснулся псайкерский дар. После пяти лет муштры в Схоластике Псайкана её возвращают к бывшим сослуживцам — уже как санкционированную ведьму. Солдаты её боятся. А на туманном болотном мире Визаж зреет беда страшнее мятежников.",
+   "hook": "Вчера она вела этих солдат в бой. Сегодня они видят в ней ведьму.",
+   "prereq": [],
+   "note": "Официального перевода на русский пока нет."
+  },
+  {
+   "fantlabId": 316075,
+   "id": "fifteen-hours",
+   "titleEn": "Fifteen Hours",
+   "titleRu": "Пятнадцать часов",
+   "ru": "official",
+   "authors": [
+    "Mitchel Scanlon"
+   ],
+   "year": 2005,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Брушерок",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Арвин Лэрн"
+   ],
+   "desc": "Фермерского парня Арвина Лэрна забирают в Гвардию и по ошибке высаживают на Брушерок. Там много лет идёт мясорубка с орками, а новобранец в среднем живёт пятнадцать часов. Никаких героев и космодесанта: только грязь, страх и ветераны, которые давно ни во что не верят.",
+   "hook": "Средняя жизнь новобранца — пятнадцать часов. Часы уже тикают.",
+   "prereq": [],
+   "note": "Короткий роман, читается за вечер."
+  },
+  {
+   "fantlabId": 398530,
+   "id": "cadian-blood",
+   "titleEn": "Cadian Blood",
+   "titleRu": "Кровь Кадии",
+   "ru": "official",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2009,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "raven-guard",
+    "death-guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Катур",
+   "segmentum": "obscurus",
+   "tags": [
+    "war",
+    "horror",
+    "survival"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Парменион Тейд"
+   ],
+   "desc": "Мир-святыню Катур накрыла чума Нургла: мёртвые встают и идут на живых. Кадийцы капитана Пармениона Тейда должны отбить планету, а рядом с ними воюют космодесантники Гвардии Ворона. Первый роман Дембски-Боудена — зомби-хоррор в обёртке армейского боевика.",
+   "hook": "Кадийцы против армии чумных мертвецов на святой планете.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 391044,
+   "id": "gunheads",
+   "titleEn": "Gunheads",
+   "titleRu": "Безбашенные",
+   "ru": "official",
+   "authors": [
+    "Steve Parker"
+   ],
+   "year": 2009,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40995,
+   "tlLabel": "ок. 995.M41",
+   "tlApprox": true,
+   "place": "Голгофа",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "adventure",
+    "character"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Оскар Вулфе"
+   ],
+   "desc": "Танковая рота сержанта Оскара Вулфе высаживается на Голгофу — пустынный мир, где хозяйничают орки. Приказ: найти и вывезти «Крепость величия», легендарный танк комиссара Яррика. Звучит почётно, но танкисты быстро понимают, что их жизнями платят за чужую реликвию.",
+   "hook": "Охота за танком Яррика посреди орочьей пустыни.",
+   "prereq": [],
+   "note": "Предыстория Вулфе — в рассказе «Mercy Run»."
+  },
+  {
+   "fantlabId": 422342,
+   "id": "dead-men-walking",
+   "titleEn": "Dead Men Walking",
+   "titleRu": "Мертвецы идут",
+   "ru": "official",
+   "authors": [
+    "Steve Lyons"
+   ],
+   "year": 2010,
+   "setting": "40k",
+   "series": null,
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "necrons"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Иероним Тета",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "horror",
+    "survival",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "комиссар Костеллин"
+   ],
+   "desc": "На молодой шахтёрской колонии Иероним Тета просыпаются некроны. Местные войска и горняки ничего не могут им противопоставить. Тогда на планету присылают Корпус Смерти Крига — солдат, которые не боятся гибели и словно ищут её. Война на истощение глазами кригцев и простых жителей.",
+   "hook": "Некроны не знают страха. Кригцы — тоже.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1060505,
+   "id": "cadia-stands",
+   "titleEn": "Cadia Stands",
+   "titleRu": "Кадия стоит",
+   "ru": "fan",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2017,
+   "setting": "40k",
+   "series": "minka-lesk",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "sons-of-horus",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 40999,
+   "tlLabel": "999.M41",
+   "tlApprox": false,
+   "place": "Кадия",
+   "segmentum": "obscurus",
+   "tags": [
+    "siege",
+    "war",
+    "epic",
+    "tragedy",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Урсаркар Крид",
+    "Минка Леск",
+    "Джарран Келл"
+   ],
+   "desc": "Тринадцатый Чёрный крестовый поход Абаддона обрушивается на Кадию — крепость, что тысячи лет стерегла выход из Ока Ужаса. Лорд-кастелян Урсаркар Крид собирает всех, кто ещё может держать оружие. Одно из главных событий новой эпохи показано глазами генералов и рядовых.",
+   "hook": "Последний рубеж самой стойкой планеты Империума.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1105331,
+   "id": "cadian-honour",
+   "titleEn": "Cadian Honour",
+   "titleRu": "Честь Кадии",
+   "ru": "fan",
+   "authors": [
+    "Justin D. Hill"
+   ],
+   "year": 2018,
+   "setting": "40k",
+   "series": "minka-lesk",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "indomitus",
+   "tl": 41001,
+   "tlLabel": "нач. M42",
+   "tlApprox": true,
+   "place": "Потенс",
+   "segmentum": "obscurus",
+   "tags": [
+    "war",
+    "intrigue",
+    "character"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Минка Леск",
+    "генерал Бендикт"
+   ],
+   "desc": "Родина кадийцев лежит в руинах, и выживших солдат теперь нигде не ждут. Сержанта Минку Леск и остатки 101-го полка отправляют на спокойную столичную планету Потенс. Но за мирным фасадом зреет измена, и кадийцам снова приходится доказывать, чего стоит их слово.",
+   "hook": "Дома больше нет. Осталась только честь — и её хотят отнять.",
+   "prereq": [
+    "cadia-stands"
+   ],
+   "note": "Читать после «Кадия стоит»."
+  },
+  {
+   "fantlabId": 450105,
+   "id": "angel-of-fire",
+   "titleEn": "Angel of Fire",
+   "titleRu": "Ангел Огня",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2012,
+   "setting": "40k",
+   "series": "the-macharian-crusade",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40394,
+   "tlLabel": "ок. 394.M41",
+   "tlApprox": true,
+   "place": "Карск, Железоград",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "epic",
+    "character",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Махариус",
+    "Лео Лемюэль"
+   ],
+   "desc": "Лорд-командующий Солар Махариус ведёт величайший крестовый поход со времён Императора. Сержант-танкист Лео Лемюэль попадает в его охрану и видит гения войны вблизи. На вулканическом Карске, в городе Железоград, тайный культ готовит пришествие огненного «ангела».",
+   "hook": "Самый великий полководец Империума глазами его телохранителя.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 437961,
+   "id": "fist-of-demetrius",
+   "titleEn": "Fist of Demetrius",
+   "titleRu": "Кулак Деметрия",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "the-macharian-crusade",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "drukhari",
+    "space-wolves"
+   ],
+   "era": "dark-millennium",
+   "tl": 40397,
+   "tlLabel": "ок. 397.M41",
+   "tlApprox": true,
+   "place": "Деметрий",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "adventure",
+    "epic"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Махариус",
+    "Лео Лемюэль"
+   ],
+   "desc": "Поход Махариуса на пике славы. Древнее пророчество зовёт полководца на мир Деметрий, где спрятана легендарная реликвия. За ней охотятся и тёмные эльдары. Лемюэль и его танкисты попадают в самую гущу этой гонки, а рядом с ними в бой идут Космические Волки.",
+   "hook": "Гонка за древней реликвией с тёмными эльдарами на хвосте.",
+   "prereq": [
+    "angel-of-fire"
+   ],
+   "note": "Вторая книга трилогии о Махариусе."
+  },
+  {
+   "fantlabId": 763523,
+   "id": "fall-of-macharius",
+   "titleEn": "Fall of Macharius",
+   "titleRu": "Закат Махариуса",
+   "ru": "official",
+   "authors": [
+    "William King"
+   ],
+   "year": 2014,
+   "setting": "40k",
+   "series": "the-macharian-crusade",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40399,
+   "tlLabel": "ок. 399.M41",
+   "tlApprox": true,
+   "place": "Локи",
+   "segmentum": "pacificus",
+   "tags": [
+    "war",
+    "tragedy",
+    "betrayal",
+    "epic"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Махариус",
+    "Лео Лемюэль"
+   ],
+   "desc": "Последние годы похода. Армия Махариуса вымотана, а его бывший соратник поднял мятеж и засел на заводском мире Локи. Война уходит в окопы и грязь, а сам великий полководец меняется на глазах. Финал трилогии о том, какую цену платят за великие победы.",
+   "hook": "Даже у величайшего полководца есть предел.",
+   "prereq": [
+    "fist-of-demetrius"
+   ],
+   "note": "Финал трилогии о Махариусе."
+  },
+  {
+   "fantlabId": 59107,
+   "id": "execution-hour",
+   "titleEn": "Execution Hour",
+   "titleRu": "Час казни",
+   "ru": "official",
+   "authors": [
+    "Gordon Rennie"
+   ],
+   "year": 2001,
+   "setting": "40k",
+   "series": "gothic-war",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "sons-of-horus",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40143,
+   "tlLabel": "ок. 143.M41",
+   "tlApprox": true,
+   "place": "Готический сектор",
+   "segmentum": "obscurus",
+   "tags": [
+    "space",
+    "war",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Леотен Семпер",
+    "Абаддон"
+   ],
+   "desc": "Абаддон Разоритель начинает Готическую войну и получает чудовищное оружие — корабль «Убийца планет». Крейсер «Лорд Солар Махариус» капитана Леотена Семпера бросают в самое пекло. Редкий роман о флоте: манёвры, абордажи и бортовые залпы вместо окопов.",
+   "hook": "Один крейсер против Чёрного крестового похода.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 59111,
+   "id": "shadowpoint",
+   "titleEn": "Shadowpoint",
+   "titleRu": "Перекрёсток Судеб",
+   "ru": "official",
+   "authors": [
+    "Gordon Rennie"
+   ],
+   "year": 2003,
+   "setting": "40k",
+   "series": "gothic-war",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "aeldari",
+    "chaos"
+   ],
+   "era": "dark-millennium",
+   "tl": 40150,
+   "tlLabel": "ок. 150.M41",
+   "tlApprox": true,
+   "place": "Готический сектор",
+   "segmentum": "obscurus",
+   "tags": [
+    "space",
+    "war",
+    "adventure"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Леотен Семпер"
+   ],
+   "desc": "Готическая война в разгаре, и экипаж «Лорда Солара Махариуса» снова на передовой. Теперь капитану Семперу приходится воевать бок о бок с эльдарами, которым он не верит ни на грош. Флотов всё больше, интриг тоже, а передышек всё меньше.",
+   "hook": "Союз с эльдарами — и неясно, кто кого использует.",
+   "prereq": [
+    "execution-hour"
+   ],
+   "note": "Продолжение «Часа казни»."
+  },
+  {
+   "fantlabId": 1610868,
+   "id": "outgunned",
+   "titleEn": "Outgunned",
+   "titleRu": "Неравный бой",
+   "ru": "fan",
+   "authors": [
+    "Denny Flowers"
+   ],
+   "year": 2022,
+   "setting": "40k",
+   "series": "lucille-von-shard",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "navy",
+    "orks",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Бахус",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "humor",
+    "character"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Люсиль фон Шард",
+    "Кайл Симлекс"
+   ],
+   "desc": "Пропагандиста Кайла Симлекса посылают снять героический фильм о лётчице-асе Люсиль фон Шард. На болотистом агромире Бахус всё идёт наперекосяк: фронт трещит, губернатор врёт, а сама героиня груба и терпеть не может людей. Воздушные бои с орками и закулисье военной пропаганды.",
+   "hook": "Снять кино про героя трудно, если герой ненавидит камеры.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 326549,
+   "id": "baneblade",
+   "titleEn": "Baneblade",
+   "titleRu": "Гибельный клинок",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "baneblade",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "orks",
+    "mechanicus"
+   ],
+   "era": "dark-millennium",
+   "tl": 40500,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "система Калидар",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "character",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Ло Банник",
+    "капитан Кортейн"
+   ],
+   "desc": "Сверхтяжёлый танк «Марс Победоносный» воюет с орками в системе Калидар. В его экипаж попадает молодой лейтенант Ло Банник — его собственная машина только что сгорела. Внутри стальной махины свои ссоры, старые обычаи и гордость родного мира. Это роман о танке как о живом существе.",
+   "hook": "Десять человек в стальном соборе на гусеницах против орочьей орды.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 958548,
+   "id": "shadowsword",
+   "titleEn": "Shadowsword",
+   "titleRu": "Теневой меч",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2016,
+   "setting": "40k",
+   "series": "baneblade",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "black-templars"
+   ],
+   "era": "dark-millennium",
+   "tl": 40505,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Гератомро",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "betrayal",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Ло Банник"
+   ],
+   "desc": "Ло Банник уже сам командует сверхтяжёлым танком. Его экипаж посылают на Гератомро прикрывать роту «Теневых мечей» — машин, созданных охотиться на титанов. Союзники здесь странные, враг хитёр, и на этой войне мало просто выжить — важно не потерять себя.",
+   "hook": "Танки-охотники против шагающих гигантов.",
+   "prereq": [
+    "baneblade"
+   ],
+   "note": "Продолжение «Гибельного клинка»."
+  },
+  {
+   "fantlabId": 436826,
+   "id": "fire-caste",
+   "titleEn": "Fire Caste",
+   "titleRu": "Каста огня",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2013,
+   "setting": "40k",
+   "series": "the-dark-coil",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "tau"
+   ],
+   "era": "dark-millennium",
+   "tl": 40800,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Федра, Клубок Долорозы",
+   "segmentum": "ultima",
+   "tags": [
+    "war",
+    "horror",
+    "mystery",
+    "xenos-pov"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Холт Айверсон",
+    "Джи'каара"
+   ],
+   "desc": "Полк Арканских Конфедератов бросают в болотный лабиринт Клубка Долорозы на мире Федра. Там годами тянется война с тау и людьми, которые перешли на их сторону. Полк быстро разваливается, а джунгли будто сводят солдат с ума. Мрачный и странный роман, после которого тау уже не кажутся простыми.",
+   "hook": "Вьетнам далёкого будущего, где враг — не только тау.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 802056,
+   "id": "fire-and-ice",
+   "titleEn": "Fire and Ice",
+   "titleRu": "Огонь и лёд",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2015,
+   "setting": "40k",
+   "series": "the-dark-coil",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "inquisition",
+    "tau",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40744,
+   "tlLabel": "ок. 744.M41",
+   "tlApprox": true,
+   "place": "Облазть",
+   "segmentum": "ultima",
+   "tags": [
+    "intrigue",
+    "mystery",
+    "xenos-pov"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Ханиэль Мордейн"
+   ],
+   "desc": "Робкий дознаватель Инквизиции Ханиэль Мордейн идёт по следу чужих тайн до ледяного мира Облазть. Там тау исподволь раскачивают восстание, а местный гвардейский полк больше похож на уличную банду. Повесть-головоломка, где у каждого своя игра и никто не говорит правды.",
+   "hook": "Ледяной мир, тайный мятеж и инквизитор, которому не стоит подражать.",
+   "prereq": [
+    "fire-caste"
+   ],
+   "note": "Повесть. Лучше читать после «Касты огня»."
+  },
+  {
+   "fantlabId": 1142243,
+   "id": "requiem-infernal",
+   "titleEn": "Requiem Infernal",
+   "titleRu": "Инфернальный реквием",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2019,
+   "setting": "40k",
+   "series": "the-dark-coil",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "sisters",
+    "guard"
+   ],
+   "era": "dark-millennium",
+   "tl": 40890,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Свечной мир",
+   "segmentum": "ultima",
+   "tags": [
+    "horror",
+    "mystery",
+    "sorcery",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Асената Гиад",
+    "Иона Тайт",
+    "комиссар Лемарш"
+   ],
+   "desc": "Сестра-госпитальер Асената Гиад везёт израненных гвардейцев-абордажников к сёстрам Последней Свечи — затворницам с далёкой планеты-храма. Чужаков там не любят, а у каждого паломника есть своя тёмная тайна. Медленный и тяжёлый хоррор о вере, вине и безумии.",
+   "hook": "Готический хоррор о Сёстрах Битвы, где страшнее всего — люди.",
+   "prereq": [
+    "fire-caste"
+   ],
+   "note": "Не для первого знакомства с Вархаммером."
+  },
+  {
+   "fantlabId": 1358846,
+   "id": "the-reverie",
+   "titleEn": "The Reverie",
+   "titleRu": "Грёза",
+   "ru": "official",
+   "authors": [
+    "Peter Fehervari"
+   ],
+   "year": 2020,
+   "setting": "40k",
+   "series": "the-dark-coil",
+   "seriesNo": null,
+   "format": "novel",
+   "factions": [
+    "astartes",
+    "imperium"
+   ],
+   "era": "dark-millennium",
+   "tl": 40900,
+   "tlLabel": "~M41",
+   "tlApprox": true,
+   "place": "Мальпертюи",
+   "segmentum": "ultima",
+   "tags": [
+    "horror",
+    "mystery",
+    "sorcery"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [],
+   "desc": "Ангелы Сияющие — орден космодесанта, где воины ещё и художники. Их родной мир Мальпертюи прекрасен, но в нём есть рана — Грёза, похожая на заснеженный лес. Туда тянет трёх очень разных путников, и каждый ищет своё. Тихий, красивый и жуткий роман из линейки Warhammer Horror.",
+   "hook": "Прекрасный мир ангелов-художников и лес, куда лучше не ходить.",
+   "prereq": [],
+   "note": "Можно читать отдельно. Связана с «Инфернальным реквиемом»."
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-guard-trenches",
+   "name": "Окопная правда Гвардии",
+   "about": "Пять книг о простых солдатах: от новобранца до экипажа сверхтяжёлого танка.",
+   "steps": [
+    {
+     "id": "fifteen-hours",
+     "note": "Самый честный старт: война глазами новобранца."
+    },
+    {
+     "id": "dead-men-walking",
+     "note": "Корпус Смерти Крига во всей мрачной красе."
+    },
+    {
+     "id": "gunheads",
+     "note": "Танкисты, орки и немного чёрного юмора."
+    },
+    {
+     "id": "baneblade",
+     "note": "Жизнь внутри стальной махины."
+    },
+    {
+     "id": "cadia-stands",
+     "note": "Главная катастрофа Гвардии в новой эпохе."
+    }
+   ]
+  },
+  {
+   "id": "path-dark-coil",
+   "name": "Тёмный клубок Фехервари",
+   "about": "Странная и жуткая сторона Вархаммера, где тау, сёстры и космодесант связаны одной тайной.",
+   "steps": [
+    {
+     "id": "fire-caste",
+     "note": "Вход в цикл: война в джунглях Федры."
+    },
+    {
+     "id": "fire-and-ice",
+     "note": "Инквизиция и тайные планы тау."
+    },
+    {
+     "id": "requiem-infernal",
+     "note": "Центральный роман цикла."
+    },
+    {
+     "id": "the-reverie",
+     "note": "Хоррор о мире Ангелов Сияющих."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "Shadowpoint: официальное английское название пишется «Shadow Point» (titleEn оставлен как во входе, чтобы совпадал ключ).",
+  "Execution Hour / Shadowpoint: на Fantlab цикл назван «Лорд Солар Махариус» (это название русского омнибуса и корабля). Это серия Gothic War, а не книги о самом Махариусе; использована серия gothic-war.",
+  "Cadia Stands / Cadian Honour: на Fantlab цикл «Кадия»; Black Library ведёт эту серию как Minka Lesk, использован id minka-lesk.",
+  "Baneblade / Shadowsword: Fantlab-цикл «Сверхтяжёлые танки» неофициальный; объединены в серию baneblade (одни герои, Ло Банник)."
+ ]
+}

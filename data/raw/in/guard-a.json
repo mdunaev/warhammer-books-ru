@@ -1,0 +1,388 @@
+{
+ "chunk": "guard-a",
+ "authors": {
+  "Alex Stewart": "Алекс Стюарт",
+  "Dan Abnett": "Дэн Абнетт",
+  "Matthew Farrer": "Мэтью Фаррер"
+ },
+ "books": [
+  {
+   "fantlabId": 37611,
+   "titleEn": "For the Emperor",
+   "titleRu": "За Императора!",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 8.08,
+   "fantlabVoters": 710
+  },
+  {
+   "fantlabId": 37615,
+   "titleEn": "Caves of Ice",
+   "titleRu": "Ледяные пещеры",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 556
+  },
+  {
+   "fantlabId": 37618,
+   "titleEn": "The Traitor’s Hand",
+   "titleRu": "Игра предателя",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2005,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.96,
+   "fantlabVoters": 431
+  },
+  {
+   "fantlabId": 37617,
+   "titleEn": "Death or Glory",
+   "titleRu": "Смерть или слава",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.94,
+   "fantlabVoters": 359
+  },
+  {
+   "fantlabId": 122049,
+   "titleEn": "Duty Calls",
+   "titleRu": "Зов долга",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.92,
+   "fantlabVoters": 304
+  },
+  {
+   "fantlabId": 122050,
+   "titleEn": "Cain's Last Stand",
+   "titleRu": "Последний бой Каина",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 8.02,
+   "fantlabVoters": 247
+  },
+  {
+   "fantlabId": 323693,
+   "titleEn": "The Emperor's Finest",
+   "titleRu": "Избранные воины Императора",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2010,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.93,
+   "fantlabVoters": 147
+  },
+  {
+   "fantlabId": 312404,
+   "titleEn": "The Last Ditch",
+   "titleRu": "Последний рубеж",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2012,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 8.08,
+   "fantlabVoters": 133
+  },
+  {
+   "fantlabId": 742235,
+   "titleEn": "Old Soldiers Never Die",
+   "titleRu": "Старые солдаты не умирают",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2012,
+   "fantlabType": "novella",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.68,
+   "fantlabVoters": 57
+  },
+  {
+   "fantlabId": 426588,
+   "titleEn": "The Greater Good",
+   "titleRu": "Высшее Благо",
+   "ru": "official",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2013,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 8.02,
+   "fantlabVoters": 104
+  },
+  {
+   "fantlabId": 1065087,
+   "titleEn": "Choose Your Enemies",
+   "titleRu": "Врагов выбирают",
+   "ru": "fan",
+   "authors": [
+    "Alex Stewart"
+   ],
+   "year": 2018,
+   "fantlabType": "novel",
+   "fantlabSeries": "Кайафас Каин",
+   "fantlabRating": 7.88,
+   "fantlabVoters": 41
+  },
+  {
+   "fantlabId": 36114,
+   "titleEn": "First & Only",
+   "titleRu": "Первый и Единственный",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 1999,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.64,
+   "fantlabVoters": 281
+  },
+  {
+   "fantlabId": 36115,
+   "titleEn": "Ghostmaker",
+   "titleRu": "Создатель Призраков",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2000,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.94,
+   "fantlabVoters": 176
+  },
+  {
+   "fantlabId": 36121,
+   "titleEn": "Necropolis",
+   "titleRu": "Некрополь",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.84,
+   "fantlabVoters": 137
+  },
+  {
+   "fantlabId": 36120,
+   "titleEn": "Honour Guard",
+   "titleRu": "Почётная гвардия",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2001,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.66,
+   "fantlabVoters": 90
+  },
+  {
+   "fantlabId": 36129,
+   "titleEn": "The Guns of Tanith",
+   "titleRu": "Танитское оружие",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.67,
+   "fantlabVoters": 46
+  },
+  {
+   "fantlabId": 36130,
+   "titleEn": "Straight Silver",
+   "titleRu": "Верное серебро",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2002,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.72,
+   "fantlabVoters": 40
+  },
+  {
+   "fantlabId": 36137,
+   "titleEn": "Sabbat Martyr",
+   "titleRu": "Мученики Саббат",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2003,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.74,
+   "fantlabVoters": 42
+  },
+  {
+   "fantlabId": 36146,
+   "titleEn": "Double Eagle",
+   "titleRu": "Двуглавый орел",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат",
+   "fantlabRating": 7.46,
+   "fantlabVoters": 143
+  },
+  {
+   "fantlabId": 36153,
+   "titleEn": "Traitor General",
+   "titleRu": "Генерал-предатель",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2004,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.82,
+   "fantlabVoters": 39
+  },
+  {
+   "fantlabId": 36156,
+   "titleEn": "The Armour of Contempt",
+   "titleRu": "Броня презрения",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2006,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.71,
+   "fantlabVoters": 35
+  },
+  {
+   "fantlabId": 55518,
+   "titleEn": "Only in Death",
+   "titleRu": "Лишь со смертью",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2007,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 7.84,
+   "fantlabVoters": 31
+  },
+  {
+   "fantlabId": 117907,
+   "titleEn": "Titanicus",
+   "titleRu": "Титаникус",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2008,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат",
+   "fantlabRating": 8.17,
+   "fantlabVoters": 135
+  },
+  {
+   "fantlabId": 739761,
+   "titleEn": "The Warmaster",
+   "titleRu": "Магистр войны",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2017,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 8.22,
+   "fantlabVoters": 18
+  },
+  {
+   "fantlabId": 1111928,
+   "titleEn": "The Anarch",
+   "titleRu": "Анарх",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2019,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Призраки Гаунта",
+   "fantlabRating": 8.16,
+   "fantlabVoters": 19
+  },
+  {
+   "fantlabId": 1439233,
+   "titleEn": "Urdesh: The Serpent and the Saint",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Matthew Farrer"
+   ],
+   "year": 2021,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат / Urdesh",
+   "fantlabRating": 0,
+   "fantlabVoters": 0
+  },
+  {
+   "fantlabId": 2016145,
+   "titleEn": "Interceptor City",
+   "titleRu": null,
+   "ru": null,
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2024,
+   "fantlabType": "novel",
+   "fantlabSeries": "Миры Саббат",
+   "fantlabRating": 7,
+   "fantlabVoters": 1
+  }
+ ]
+}

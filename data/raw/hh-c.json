@@ -1,0 +1,1164 @@
+{
+ "chunk": "hh-c",
+ "authors": {
+  "Guy Haley": "Гай Хейли",
+  "Graham McNeill": "Грэм Макнилл",
+  "Chris Wraight": "Крис Райт",
+  "Josh Reynolds": "Джош Рейнольдс",
+  "Gav Thorpe": "Гэв Торп",
+  "Ian St. Martin": "Иэн Сент-Мартин",
+  "John French": "Джон Френч",
+  "Dan Abnett": "Дэн Абнетт",
+  "Mike Brooks": "Майк Брукс",
+  "Aaron Dembski-Bowden": "Аарон Дембски-Боуден",
+  "James Swallow": "Джеймс Сваллоу"
+ },
+ "series": [
+  {
+   "id": "siege-of-terra",
+   "name": "Ересь Хоруса. Осада Терры",
+   "nameEn": "The Horus Heresy: Siege of Terra",
+   "setting": "hh"
+  },
+  {
+   "id": "primarchs",
+   "name": "Ересь Хоруса. Примархи",
+   "nameEn": "The Horus Heresy: Primarchs",
+   "setting": "hh"
+  }
+ ],
+ "books": [
+  {
+   "fantlabId": 915589,
+   "id": "perturabo-the-hammer-of-olympia",
+   "titleEn": "Perturabo: The Hammer of Olympia",
+   "titleRu": "Пертурабо. Молот Олимпии",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 4,
+   "format": "novella",
+   "factions": [
+    "iron-warriors",
+    "xenos"
+   ],
+   "era": "great-crusade",
+   "tl": 30004,
+   "tlLabel": "~004.M31",
+   "tlApprox": true,
+   "place": "Олимпия",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "tragedy",
+    "villain-pov",
+    "war"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Пертурабо",
+    "Даммекос"
+   ],
+   "desc": "Две жизни Пертурабо в одной книге. В юности он растёт на Олимпии при дворе тирана и строит машины, которых никто не понимает. Спустя два века он уже примарх Железных Воинов, воюет с хитрыми чужими-хрудами и узнаёт, что родной мир восстал. Холодная и горькая история о гении, которого никто не любил.",
+   "hook": "Как обиженный гений стал самым мрачным из примархов.",
+   "prereq": [],
+   "note": "Две линии: юность на Олимпии и конец Великого крестового похода."
+  },
+  {
+   "fantlabId": 908261,
+   "id": "magnus-the-red-master-of-prospero",
+   "titleEn": "Magnus the Red: Master of Prospero",
+   "titleRu": "Магнус Красный. Повелитель Просперо",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 3,
+   "format": "novella",
+   "factions": [
+    "thousand-sons",
+    "iron-warriors"
+   ],
+   "era": "great-crusade",
+   "tl": 29848,
+   "tlLabel": "ок. 850.M30",
+   "tlApprox": true,
+   "place": "Утренняя Звезда",
+   "segmentum": "many",
+   "tags": [
+    "sorcery",
+    "character",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Магнус",
+    "Пертурабо",
+    "Азек Ариман"
+   ],
+   "desc": "Великий крестовый поход идёт всего полвека. Магнус недавно нашёл своих сыновей и вместе с Пертурабо спасает гибнущий мир Утренняя Звезда. Планету рвут магнитные бури и безумные культы. Здесь видно, каким был Магнус до падения: любопытным, гордым и уверенным, что знание оправдывает всё.",
+   "hook": "Магнус и Пертурабо ещё братья, а не враги.",
+   "prereq": [],
+   "note": "Хорошо идёт в паре с «Тысячей сынов»."
+  },
+  {
+   "fantlabId": 873765,
+   "id": "leman-russ-the-great-wolf",
+   "titleEn": "Leman Russ: The Great Wolf",
+   "titleRu": "Леман Русс. Великий Волк",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 2,
+   "format": "novella",
+   "factions": [
+    "space-wolves",
+    "dark-angels"
+   ],
+   "era": "great-crusade",
+   "tl": 29950,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Дулан",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "war",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Леман Русс",
+    "Лев Эль'Джонсон"
+   ],
+   "desc": "Космические Волки и Тёмные Ангелы вместе усмиряют мятежную империю Дулан. Но два примарха не могут поделить эту войну, и спор Русса со Львом идёт к открытой драке. Рядом звучит тема проклятия Волков, о котором легион предпочитает молчать. Короткая и суровая книга о гордости и братстве.",
+   "hook": "Почему Русс и Лев так и не простили друг друга.",
+   "prereq": [],
+   "note": "Основной сюжет обрамлён сценами после Ереси."
+  },
+  {
+   "fantlabId": 943352,
+   "id": "fulgrim-the-palatine-phoenix",
+   "titleEn": "Fulgrim: The Palatine Phoenix",
+   "titleRu": "Фулгрим. Палатинский Феникс",
+   "ru": "official",
+   "authors": [
+    "Josh Reynolds"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 6,
+   "format": "novella",
+   "factions": [
+    "emperors-children"
+   ],
+   "era": "great-crusade",
+   "tl": 29870,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Двадцать Восемь Один (Бизас)",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "intrigue",
+    "adventure"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Фулгрим",
+    "Фабий"
+   ],
+   "desc": "Фулгрим недавно вернулся к отцу и хочет доказать, что он лучший из братьев. Он берётся присоединить к Империуму целый мир Бизас всего с семью воинами. Вместо осады тут балы, дуэли и заговоры знати. Это портрет Фулгрима до падения: блестящего, ловкого и опасно уверенного в себе.",
+   "hook": "Один примарх, семь бойцов и планета интриганов.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 942741,
+   "id": "lorgar-bearer-of-the-word",
+   "titleEn": "Lorgar: Bearer of the Word",
+   "titleRu": "Лоргар. Носитель Слова",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2017,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 5,
+   "format": "novella",
+   "factions": [
+    "word-bearers",
+    "chaos"
+   ],
+   "era": "great-crusade",
+   "tl": 29860,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Колхида",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "lore",
+    "sorcery",
+    "villain-pov"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Лоргар",
+    "Кор Фаэрон"
+   ],
+   "desc": "Юность Лоргара на Колхиде. Мальчика-пророка растит жрец Кор Фаэрон, и он же учит его верить и слушаться. Книга показывает, где начинается путь Несущих Слово к Хаосу. Войны легиона тут лишь мелькают: в центре вера, страх и сломанная душа ребёнка.",
+   "hook": "Первый еретик Империума начинал с молитвы.",
+   "prereq": [],
+   "note": "Больше про Кор Фаэрона и Колхиду, чем про легион."
+  },
+  {
+   "fantlabId": 988827,
+   "id": "jaghatai-khan-warhawk-of-chogoris",
+   "titleEn": "Jaghatai Khan: Warhawk of Chogoris",
+   "titleRu": "Джагатай-Хан. Боевой Ястреб Чогориса",
+   "ru": "official",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2018,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 8,
+   "format": "novella",
+   "factions": [
+    "white-scars",
+    "orks"
+   ],
+   "era": "great-crusade",
+   "tl": 29980,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Чогорис и фронты Крестового похода",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "lore",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Джагатай-хан",
+    "Есугэй"
+   ],
+   "desc": "Джагатай-хан встречает Императора и получает свой легион. Он учит воинов жить по законам степей Чогориса и держаться подальше от дворцовых игр. Но Крестовый поход всё равно втягивает его в спор примархов о псайкерах. Тихая и умная книга о самом вольном из сыновей Императора.",
+   "hook": "Свободный степной хан против тесноты Империума.",
+   "prereq": [],
+   "note": "Приквел к «Шрамам» того же автора."
+  },
+  {
+   "fantlabId": 1151569,
+   "id": "konrad-curze-the-night-haunter",
+   "titleEn": "Konrad Curze: The Night Haunter",
+   "titleRu": "Конрад Курц. Ночной Призрак",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 12,
+   "format": "novella",
+   "factions": [
+    "night-lords"
+   ],
+   "era": "great-crusade",
+   "tl": 30000,
+   "tlLabel": "~M30–M31",
+   "tlApprox": true,
+   "place": "Ностромо и Тсагуальса",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "villain-pov",
+    "horror",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": true,
+   "heroes": [
+    "Конрад Курц",
+    "Севатар"
+   ],
+   "desc": "Последний день Конрада Курца. Он ждёт свою смерть и вспоминает жизнь: Ностромо, где он был ночным палачом, встречу с отцом и войны, на которых его легион стал кошмаром. Книга собрана из коротких эпизодов и показывает больной разум изнутри. Страшно и очень грустно.",
+   "hook": "Безумный примарх знал свою судьбу и не смог её изменить.",
+   "prereq": [],
+   "note": "Рамка — последний день Курца после Ереси, остальное — воспоминания."
+  },
+  {
+   "fantlabId": 1127499,
+   "id": "angron-slave-of-nuceria",
+   "titleEn": "Angron: Slave of Nuceria",
+   "titleRu": "Ангрон. Раб Нуцерии",
+   "ru": "official",
+   "authors": [
+    "Ian St. Martin"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 11,
+   "format": "novella",
+   "factions": [
+    "world-eaters"
+   ],
+   "era": "great-crusade",
+   "tl": 29950,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Нуцерия и фронт Крестового похода",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "tragedy",
+    "villain-pov",
+    "war"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Ангрон"
+   ],
+   "desc": "Две нити одной судьбы. В прошлом Ангрон — раб-гладиатор на Нуцерии с машиной ярости в черепе. В настоящем он ведёт Пожирателей Миров, и легион решает, ставить ли себе такие же Гвозди Мясника. Книга заставляет то жалеть Ангрона, то бояться его.",
+   "hook": "Сломанный отец и сыновья, которые хотят стать как он.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1210026,
+   "id": "the-lost-and-the-damned",
+   "titleEn": "The Lost and the Damned",
+   "titleRu": "Заблудшие и проклятые",
+   "ru": "official",
+   "authors": [
+    "Guy Haley"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 2,
+   "format": "novel",
+   "factions": [
+    "guard",
+    "chaos",
+    "death-guard",
+    "thousand-sons"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, внешние укрепления Дворца",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "siege",
+    "survival",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Кацухиро",
+    "Мортарион",
+    "Хорус"
+   ],
+   "desc": "Предатели высаживаются на Терру. Огромные армии смертных, культистов и мутантов бьются о внешние стены Дворца. Мы смотрим на это глазами простого призывника Кацухиро, а на орбите Хорус всё глубже уходит во тьму. Грязная и страшная окопная война размером с целую планету.",
+   "hook": "Осада Терры глазами маленького человека в окопе.",
+   "prereq": [
+    "the-solar-war"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1097541,
+   "id": "the-solar-war",
+   "titleEn": "The Solar War",
+   "titleRu": "Солнечная война",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 1,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "imperial-fists",
+    "iron-warriors",
+    "navy"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Солнечная система",
+   "segmentum": "solar",
+   "tags": [
+    "space",
+    "war",
+    "epic",
+    "siege"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Абаддон",
+    "Пертурабо",
+    "Рогал Дорн"
+   ],
+   "desc": "Начало Осады Терры. Флот Хоруса входит в Солнечную систему, и Рогал Дорн встречает его каждым фортом и каждой луной. Абаддон и Пертурабо ломают оборону планету за планетой. Огромная космическая война, где любая ошибка стоит миллионов жизней.",
+   "hook": "Последний рубеж перед Террой — вся Солнечная система.",
+   "prereq": [
+    "galaxy-in-flames",
+    "the-buried-dagger"
+   ],
+   "note": "Первая книга финала Ереси. Нужно знать основную серию."
+  },
+  {
+   "fantlabId": 1252209,
+   "id": "the-first-wall",
+   "titleEn": "The First Wall",
+   "titleRu": "Первая стена",
+   "ru": "official",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2019,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 3,
+   "format": "novel",
+   "factions": [
+    "iron-warriors",
+    "imperial-fists",
+    "guard"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, космопорт Львиные Врата",
+   "segmentum": "solar",
+   "tags": [
+    "siege",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Пертурабо",
+    "Рогал Дорн",
+    "Сигизмунд"
+   ],
+   "desc": "Пертурабо получает приказ взять космопорт Львиные Врата. Против него стоят Имперские Кулаки и стены, которые возводил сам Дорн. Это первая настоящая схватка двух лучших мастеров осады. История идёт глазами многих героев: от простых солдат до примархов.",
+   "hook": "Строитель стен против разрушителя стен.",
+   "prereq": [
+    "the-lost-and-the-damned"
+   ],
+   "note": "Слабее соседей, но без неё не понять ход осады."
+  },
+  {
+   "fantlabId": 1302332,
+   "id": "saturnine",
+   "titleEn": "Saturnine",
+   "titleRu": "Под знаком Сатурна",
+   "ru": "official",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2020,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 4,
+   "format": "novel",
+   "factions": [
+    "imperial-fists",
+    "sons-of-horus",
+    "emperors-children",
+    "imperium"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Сатурнинские врата",
+   "segmentum": "solar",
+   "tags": [
+    "siege",
+    "war",
+    "epic",
+    "character"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Рогал Дорн",
+    "Гарвель Локен",
+    "Абаддон"
+   ],
+   "desc": "Хорус готовит удар, который может решить судьбу осады. Дорн должен угадать, где враг ударит, и не ошибиться. У Сатурнинских врат кипит огромный штурм, а под землёй малые отряды режутся с Сынами Хоруса в темноте. Абнетт пишет осаду и глазами полководца, и из грязи тоннелей.",
+   "hook": "Абнетт возвращается к Ереси и бьёт в полную силу.",
+   "prereq": [
+    "the-first-wall"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1345154,
+   "id": "the-fury-of-magnus",
+   "titleEn": "The Fury of Magnus",
+   "titleRu": "Ярость Магнуса",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2020,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "thousand-sons",
+    "imperium"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Императорский дворец",
+   "segmentum": "solar",
+   "tags": [
+    "sorcery",
+    "character",
+    "tragedy"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Магнус",
+    "Малкадор",
+    "Аливия Сурека"
+   ],
+   "desc": "Магнус с горсткой верных колдунов тайком пробирается во Дворец. Он ищет последний осколок своей души и хочет ещё раз увидеть отца. По пути его ждёт встреча с Малкадором. Тихая и печальная повесть, которая закрывает долгую историю Алого короля.",
+   "hook": "Падший сын идёт домой с войной в руках и тоской в сердце.",
+   "prereq": [
+    "a-thousand-sons",
+    "the-crimson-king"
+   ],
+   "note": "Повесть-ответвление. Финал линии Магнуса."
+  },
+  {
+   "fantlabId": 1252210,
+   "id": "sons-of-selenar",
+   "titleEn": "Sons of Selenar",
+   "titleRu": "Сыны Селенар",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2020,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "iron-hands",
+    "raven-guard",
+    "salamanders",
+    "imperium"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Луна",
+   "segmentum": "solar",
+   "tags": [
+    "adventure",
+    "lore",
+    "war"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Никона Шарроукин"
+   ],
+   "desc": "Корабль «Сизифей» с последними бойцами Разбитых легионов возвращается к Солнцу. Сигнал с Луны тянет их туда, где прячутся генные культы Селенар. Команда трещит по швам, но им надо уберечь от предателей опасную тайну. События идут параллельно «Солнечной войне».",
+   "hook": "Последний поход Разбитых легионов — к тайнам Луны.",
+   "prereq": [
+    "the-solar-war"
+   ],
+   "note": "Финал истории Разбитых легионов. Можно пропустить."
+  },
+  {
+   "fantlabId": 1445372,
+   "id": "warhawk",
+   "titleEn": "Warhawk",
+   "titleRu": "Боевой Ястреб",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2021,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 6,
+   "format": "novel",
+   "factions": [
+    "white-scars",
+    "death-guard",
+    "guard"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, космопорт Львиные Врата",
+   "segmentum": "solar",
+   "tags": [
+    "war",
+    "character",
+    "siege",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Джагатай-хан",
+    "Мортарион",
+    "Илья Раваллион"
+   ],
+   "desc": "Космопорт Львиные Врата в руках врага. Джагатай-хан и Белые Шрамы идут его отбивать, но вязнут в чумной трясине Гвардии Смерти. Вся книга тянется к встрече Хана и Мортариона. Быстрая, яркая и очень личная история о старом соперничестве.",
+   "hook": "Хан против Мортариона: давний спор решают клинки.",
+   "prereq": [
+    "mortis",
+    "the-path-of-heaven"
+   ],
+   "note": "Лучше заходит после «Шрамов» и «Пути Небес»."
+  },
+  {
+   "fantlabId": 1418589,
+   "id": "alpharius-head-of-the-hydra",
+   "titleEn": "Alpharius: Head of the Hydra",
+   "titleRu": "Альфарий. Голова Гидры",
+   "ru": "official",
+   "authors": [
+    "Mike Brooks"
+   ],
+   "year": 2021,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 14,
+   "format": "novella",
+   "factions": [
+    "alpha-legion"
+   ],
+   "era": "great-crusade",
+   "tl": 29960,
+   "tlLabel": "~M30",
+   "tlApprox": true,
+   "place": "Разные миры Крестового похода",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "mystery",
+    "intrigue",
+    "humor"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Альфарий",
+    "Омегон"
+   ],
+   "desc": "Альфарий сам рассказывает свою историю. Он вспоминает встречу с Императором, братьев-примархов и рождение своего легиона. Только верить рассказчику нельзя: он врёт, когда ему выгодно. Хитрая и смешная книга, которая играет с тем, что вы уже знаете об Альфа-Легионе.",
+   "hook": "Самый скрытный примарх говорит правду. Или нет.",
+   "prereq": [
+    "legion"
+   ],
+   "note": "Интереснее, если уже знаете Альфа-Легион по «Легиону»."
+  },
+  {
+   "fantlabId": 1419766,
+   "id": "mortis",
+   "titleEn": "Mortis",
+   "titleRu": "Мортис",
+   "ru": "official",
+   "authors": [
+    "John French"
+   ],
+   "year": 2021,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 5,
+   "format": "novel",
+   "factions": [
+    "mechanicus",
+    "iron-warriors",
+    "sons-of-horus",
+    "death-guard"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Императорский дворец",
+   "segmentum": "solar",
+   "tags": [
+    "siege",
+    "war",
+    "epic"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Пертурабо",
+    "Хорус",
+    "Джон Грамматикус"
+   ],
+   "desc": "Осада подходит к сердцу Дворца. Над стенами сходятся армии титанов, Пертурабо теряет терпение, а Хорус всё меньше похож на себя. Френч пишет войну богов и машин, в которой люди почти не видны. Мрачная, тяжёлая и местами медленная часть цикла.",
+   "hook": "Титаны идут на штурм, и стены Дворца трещат.",
+   "prereq": [
+    "saturnine"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1617261,
+   "id": "echoes-of-eternity",
+   "titleEn": "Echoes of Eternity",
+   "titleRu": "Отголоски Вечности",
+   "ru": "fan",
+   "authors": [
+    "Aaron Dembski-Bowden"
+   ],
+   "year": 2022,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 7,
+   "format": "novel",
+   "factions": [
+    "blood-angels",
+    "world-eaters",
+    "daemons"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Врата Вечности",
+   "segmentum": "solar",
+   "tags": [
+    "siege",
+    "tragedy",
+    "character",
+    "epic"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Сангвиний",
+    "Ангрон",
+    "Зефон"
+   ],
+   "desc": "Внешние стены пали, и враг подошёл к Вратам Вечности. Оборону держит Сангвиний, хотя знает, что ему грозит. Против него идут Ангрон и демоны. Дембски-Боуден пишет осаду как трагедию: про усталость, верность и цену надежды. Многие считают эту книгу лучшей в цикле.",
+   "hook": "Ангел у последних врат. Сердце всей «Осады Терры».",
+   "prereq": [
+    "warhawk"
+   ],
+   "note": null
+  },
+  {
+   "fantlabId": 1660163,
+   "id": "sanguinius-the-great-angel",
+   "titleEn": "Sanguinius: The Great Angel",
+   "titleRu": "Сангвиний. Великий Ангел",
+   "ru": "fan",
+   "authors": [
+    "Chris Wraight"
+   ],
+   "year": 2022,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 17,
+   "format": "novella",
+   "factions": [
+    "blood-angels"
+   ],
+   "era": "great-crusade",
+   "tl": 30000,
+   "tlLabel": "~000.M31",
+   "tlApprox": true,
+   "place": "Флот IX легиона",
+   "segmentum": "many",
+   "tags": [
+    "character",
+    "mystery",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": true,
+   "heroes": [
+    "Сангвиний"
+   ],
+   "desc": "Опальный летописец получает задание описать Сангвиния и его легион. Но Кровавые Ангелы прячут от чужих и свою родину, и свою тайну. Мы смотрим на примарха глазами обычного человека, а не воина. Светлая и тревожная книга о красоте, за которой прячется жажда.",
+   "hook": "Самый прекрасный из примархов и то, что он скрывает.",
+   "prereq": [],
+   "note": null
+  },
+  {
+   "fantlabId": 1613059,
+   "id": "rogal-dorn-the-emperors-crusader",
+   "titleEn": "Rogal Dorn: The Emperor’s Crusader",
+   "titleRu": "Рогал Дорн. Крестоносец Императора",
+   "ru": "fan",
+   "authors": [
+    "Gav Thorpe"
+   ],
+   "year": 2022,
+   "setting": "hh",
+   "series": "primarchs",
+   "seriesNo": 16,
+   "format": "novella",
+   "factions": [
+    "imperial-fists",
+    "dark-angels",
+    "xenos"
+   ],
+   "era": "great-crusade",
+   "tl": 29855,
+   "tlLabel": "ок. 850.M30",
+   "tlApprox": true,
+   "place": "Окклюда Ноктис",
+   "segmentum": "obscurus",
+   "tags": [
+    "character",
+    "war",
+    "mystery"
+   ],
+   "rec": 3,
+   "entry": true,
+   "heroes": [
+    "Рогал Дорн",
+    "Лев Эль'Джонсон"
+   ],
+   "desc": "Крестовому походу полвека. Дорна и Льва посылают за варп-шторм, в край, куда не достаёт свет Астрономикона. Там их ждёт враг, который ходит между звёздами без привычных путей. Примархи спорят, как вести эту войну. Сухая и короткая книга о характере Дорна.",
+   "hook": "Дорн в слепой тьме и Лев, с которым не договориться.",
+   "prereq": [],
+   "note": "Короткая. Многим не хватило размаха."
+  },
+  {
+   "fantlabId": 1692101,
+   "id": "the-end-and-the-death-volume-i",
+   "titleEn": "The End and the Death: Volume I",
+   "titleRu": "Конец и смерть. Том I",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2023,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 8,
+   "format": "novel",
+   "factions": [
+    "imperium",
+    "sons-of-horus",
+    "custodes",
+    "imperial-fists"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Императорский дворец",
+   "segmentum": "solar",
+   "tags": [
+    "epic",
+    "siege",
+    "lore",
+    "tragedy"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Император",
+    "Хорус",
+    "Олл Перссон"
+   ],
+   "desc": "Начало конца Ереси. Терра горит, Дворец почти пал, а флагман Хоруса висит прямо над планетой. Император понимает, что ждать помощи больше нельзя. Абнетт собирает героев всего цикла и медленно, страшно ведёт их к последнему выбору.",
+   "hook": "Финал Ереси Хоруса, которого ждали почти двадцать лет.",
+   "prereq": [
+    "echoes-of-eternity"
+   ],
+   "note": "Одна история в трёх томах. Читать подряд."
+  },
+  {
+   "fantlabId": 1797305,
+   "id": "the-end-and-the-death-volume-ii",
+   "titleEn": "The End and the Death: Volume II",
+   "titleRu": "Конец и смерть. Том II",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2023,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 9,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "blood-angels",
+    "custodes",
+    "daemons"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Флагман «Дух мщения»",
+   "segmentum": "solar",
+   "tags": [
+    "epic",
+    "sorcery",
+    "tragedy",
+    "lore"
+   ],
+   "rec": 2,
+   "entry": false,
+   "heroes": [
+    "Император",
+    "Сангвиний",
+    "Хорус"
+   ],
+   "desc": "Бой переходит на «Дух мщения». Флагман Хоруса стал лабиринтом, где варп путает время и место. Каждый из героев идёт своей дорогой, а в глубине корабля ждёт сам Хорус. Второй том самый странный в трилогии: меньше битв, больше видений и тьмы.",
+   "hook": "Путь сквозь корабль, который превратился в ад.",
+   "prereq": [
+    "the-end-and-the-death-volume-i"
+   ],
+   "note": "Средний том. Медленнее соседних, но пропускать нельзя."
+  },
+  {
+   "fantlabId": 1679010,
+   "id": "garro-knight-of-grey",
+   "titleEn": "Garro: Knight of Grey",
+   "titleRu": "Гарро. Рыцарь в сером",
+   "ru": "fan",
+   "authors": [
+    "James Swallow"
+   ],
+   "year": 2023,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": null,
+   "format": "novella",
+   "factions": [
+    "death-guard",
+    "grey-knights",
+    "imperium"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Терра, Императорский дворец",
+   "segmentum": "solar",
+   "tags": [
+    "character",
+    "war",
+    "siege"
+   ],
+   "rec": 3,
+   "entry": false,
+   "heroes": [
+    "Натаниэль Гарро",
+    "Эуфратия Киилер",
+    "Мортарион"
+   ],
+   "desc": "Натаниэль Гарро, бывший воин Гвардии Смерти, теперь служит Малкадору. Во время осады он пробивается через горящий Дворец и бережёт святую Эуфратию Киилер. А впереди его ждёт встреча с бывшим отцом — Мортарионом. Короткая повесть для тех, кто полюбил Гарро.",
+   "hook": "Верный рыцарь против падшего отца.",
+   "prereq": [
+    "garro",
+    "mortis"
+   ],
+   "note": "Действие между «Мортис» и «Боевым Ястребом»."
+  },
+  {
+   "fantlabId": 1824520,
+   "id": "the-end-and-the-death-volume-iii",
+   "titleEn": "The End and the Death: Volume III",
+   "titleRu": "Конец и смерть. Том III",
+   "ru": "fan",
+   "authors": [
+    "Dan Abnett"
+   ],
+   "year": 2024,
+   "setting": "hh",
+   "series": "siege-of-terra",
+   "seriesNo": 10,
+   "format": "novel",
+   "factions": [
+    "sons-of-horus",
+    "imperium",
+    "custodes",
+    "daemons"
+   ],
+   "era": "siege",
+   "tl": 30014,
+   "tlLabel": "014.M31",
+   "tlApprox": false,
+   "place": "Флагман «Дух мщения»",
+   "segmentum": "solar",
+   "tags": [
+    "epic",
+    "lore",
+    "tragedy",
+    "sorcery"
+   ],
+   "rec": 1,
+   "entry": false,
+   "heroes": [
+    "Император",
+    "Хорус"
+   ],
+   "desc": "Последний том Ереси. Император и Хорус наконец сходятся лицом к лицу, и решается судьба человечества. Абнетт закрывает истории, начатые ещё в «Возвышении Хоруса». Это книга о цене победы, после которой Империум уже не будет прежним.",
+   "hook": "Отец и сын. Последний бой, с которого начался мрачный Империум.",
+   "prereq": [
+    "the-end-and-the-death-volume-ii"
+   ],
+   "note": null
+  }
+ ],
+ "paths": [
+  {
+   "id": "path-siege-of-terra",
+   "name": "Осада Терры по порядку",
+   "about": "Весь финал Ереси от первого выстрела до последней дуэли, с повестями на своих местах.",
+   "steps": [
+    {
+     "id": "the-solar-war",
+     "note": "Флот Хоруса прорывается к Терре. С этого всё начинается."
+    },
+    {
+     "id": "sons-of-selenar",
+     "note": "Идёт параллельно «Солнечной войне». Можно пропустить."
+    },
+    {
+     "id": "the-lost-and-the-damned",
+     "note": "Высадка на Терру глазами простых солдат."
+    },
+    {
+     "id": "the-first-wall",
+     "note": "Бой за космопорт. Слабее, но важен для сюжета."
+    },
+    {
+     "id": "saturnine",
+     "note": "Одна из вершин цикла."
+    },
+    {
+     "id": "the-fury-of-magnus",
+     "note": "Боковая линия Магнуса. По желанию."
+    },
+    {
+     "id": "mortis",
+     "note": "Титаны и перелом в осаде."
+    },
+    {
+     "id": "garro-knight-of-grey",
+     "note": "Повесть про Гарро. Её события идут перед «Боевым Ястребом»."
+    },
+    {
+     "id": "warhawk",
+     "note": "Хан отбивает космопорт."
+    },
+    {
+     "id": "echoes-of-eternity",
+     "note": "Сангвиний у Врат Вечности. Многие считают её лучшей в цикле."
+    },
+    {
+     "id": "the-end-and-the-death-volume-i",
+     "note": "Финал начинается."
+    },
+    {
+     "id": "the-end-and-the-death-volume-ii",
+     "note": "Путь на «Дух мщения»."
+    },
+    {
+     "id": "the-end-and-the-death-volume-iii",
+     "note": "Император против Хоруса."
+    }
+   ]
+  },
+  {
+   "id": "path-fallen-primarchs",
+   "name": "Как падали примархи",
+   "about": "Короткие книги о сыновьях Императора, которые потом его предали. Видно, где у каждого началась трещина.",
+   "steps": [
+    {
+     "id": "lorgar-bearer-of-the-word",
+     "note": "С чего началась вера, которая привела к Хаосу."
+    },
+    {
+     "id": "angron-slave-of-nuceria",
+     "note": "Рабство, которое Ангрон так и не простил."
+    },
+    {
+     "id": "perturabo-the-hammer-of-olympia",
+     "note": "Обида, которая копилась двести лет."
+    },
+    {
+     "id": "konrad-curze-the-night-haunter",
+     "note": "Безумие изнутри. Одна из самых высоких оценок серии на FantLab."
+    },
+    {
+     "id": "magnus-the-red-master-of-prospero",
+     "note": "Магнус ещё верит, что знание всегда во благо."
+    },
+    {
+     "id": "fulgrim-the-palatine-phoenix",
+     "note": "Гордость Фулгрима, пока она ещё красива."
+    },
+    {
+     "id": "alpharius-head-of-the-hydra",
+     "note": "Финал с подвохом: рассказчику верить нельзя."
+    }
+   ]
+  }
+ ],
+ "fixes": [
+  "«Sons of Selenar»: официальное английское название — «Sons of the Selenar». titleEn оставлен как во входе, чтобы совпал ключ fantlabId+titleEn.",
+  "«The Fury of Magnus»: у Black Library книга обычно называется просто «Fury of Magnus». titleEn оставлен как во входе.",
+  "Повести «Осады Терры» (Sons of the Selenar, Fury of Magnus, Garro: Knight of Grey) у Black Library не нумеруются, поэтому seriesNo = null. Их место в порядке чтения задано в пути path-siege-of-terra.",
+  "Нумерация «Примархов» по Black Library: Russ 2, Magnus 3, Perturabo 4, Lorgar 5, Fulgrim 6, Jaghatai 8, Angron 11, Curze 12, Alpharius 14, Rogal Dorn 16, Sanguinius 17 (15 — Mortarion, нет во входе).",
+  "Konrad Curze: The Night Haunter: рамка — последний день Курца после Ереси, но почти всё действие — воспоминания о Ностромо и Крестовом походе, поэтому setting hh, era great-crusade, tlApprox."
+ ]
+}
