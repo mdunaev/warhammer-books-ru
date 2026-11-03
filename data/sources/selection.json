@@ -1115,6 +1115,98 @@
   },
   "pages": 384,
   "ruYear": 2012,
+  "contents": [
+   {
+    "fantlabId": 356677,
+    "ru": "Правила боя",
+    "en": "Rules of Engagement",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 356678,
+    "ru": "Вклад лжеца",
+    "en": "Liar's Due",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Джеймс Сваллоу"
+    ]
+   },
+   {
+    "fantlabId": 356679,
+    "ru": "Забытые сыны",
+    "en": "Forgotten Sons",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 356681,
+    "ru": "Последний летописец",
+    "en": "The Last Remembrancer",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 356682,
+    "ru": "Возрождение",
+    "en": "Rebirth",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 356683,
+    "ru": "Лик предательства",
+    "en": "The Face of Treachery",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 356684,
+    "ru": "Маленький Хорус",
+    "en": "Little Horus",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Дэн Абнетт"
+    ]
+   },
+   {
+    "fantlabId": 356685,
+    "ru": "Железо внутри",
+    "en": "The Iron Within",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   },
+   {
+    "fantlabId": 356686,
+    "ru": "Жестокое оружие",
+    "en": "Savage Weapons",
+    "kind": "story",
+    "year": 2011,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   }
+  ],
   "authorsEn": [
    "Christian Dunn"
   ],
@@ -1327,6 +1419,78 @@
   },
   "pages": 384,
   "ruYear": 2013,
+  "contents": [
+   {
+    "fantlabId": 458258,
+    "ru": "Багровый кулак",
+    "en": "The Crimson Fist",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 74832,
+    "ru": "Тёмный Король",
+    "en": "The Dark King",
+    "kind": "story",
+    "year": 2007,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 74833,
+    "ru": "Башня Молний",
+    "en": "The Lightning Tower",
+    "kind": "story",
+    "year": 2007,
+    "authors": [
+     "Дэн Абнетт"
+    ]
+   },
+   {
+    "fantlabId": 308697,
+    "ru": "Проект «Каба»",
+    "en": "The Kaban Project",
+    "kind": "story",
+    "year": 2010,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 458259,
+    "ru": "Полёт ворона",
+    "en": "Raven's Flight",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 458260,
+    "ru": "Смерть серебряных дел мастера",
+    "en": "Death of a Silversmith",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 458261,
+    "ru": "Вороний принц",
+    "en": "Prince of Crows",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   }
+  ],
   "authorsEn": [
    "Christian Dunn",
    "Nick Kyme"
@@ -1927,6 +2091,48 @@
   },
   "pages": 256,
   "ruYear": 2016,
+  "contents": [
+   {
+    "fantlabId": 989155,
+    "ru": "Талларн. Очевидец",
+    "en": "Tallarn: Witness",
+    "kind": "micro",
+    "year": 2015,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 777965,
+    "ru": "Талларн. «Палач»",
+    "en": "Tallarn: Executioner",
+    "kind": "novella",
+    "year": 2013,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 989156,
+    "ru": "Талларн. Сирена",
+    "en": "Tallarn: Siren",
+    "kind": "story",
+    "year": 2016,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 908613,
+    "ru": "Талларн. Броненосец",
+    "en": "Tallarn: Ironclad",
+    "kind": "novella",
+    "year": 2015,
+    "authors": [
+     "Джон Френч"
+    ]
+   }
+  ],
   "authorsEn": [
    "John French"
   ],
@@ -2924,11 +3130,11 @@
   "why": "оценки",
   "ru": "official",
   "covers": {
-   "ru": "https://fantlab.ru/images/editions/big/306728",
+   "ru": null,
    "en": "https://fantlab.ru/images/editions/big/42606",
    "any": null
   },
-  "pages": 624,
+  "pages": 318,
   "ruYear": 2016,
   "authorsEn": [
    "Graham McNeill"
@@ -8945,6 +9151,78 @@
   },
   "pages": 448,
   "ruYear": 2011,
+  "contents": [
+   {
+    "fantlabId": 283136,
+    "ru": "Кровавые игры",
+    "en": "Blood Games",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Дэн Абнетт"
+    ]
+   },
+   {
+    "fantlabId": 283137,
+    "ru": "Волк у ворот",
+    "en": "Wolf at the Door",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Майк Ли"
+    ]
+   },
+   {
+    "fantlabId": 283138,
+    "ru": "Отпрыски бури",
+    "en": "Scions of the Storm",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Энтони Рейнольдс"
+    ]
+   },
+   {
+    "fantlabId": 283139,
+    "ru": "Голос",
+    "en": "The Voice",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Джеймс Сваллоу"
+    ]
+   },
+   {
+    "fantlabId": 283140,
+    "ru": "По зову льва",
+    "en": "Call of the Lion",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 283141,
+    "ru": "Последний храм",
+    "en": "The Last Church",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 283142,
+    "ru": "После Деш'эа",
+    "en": "After Desh'ea",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Мэтью Фаррер"
+    ]
+   }
+  ],
   "authorsEn": [
    "Nick Kyme",
    "Lindsey Priestley"
@@ -8984,6 +9262,48 @@
   },
   "pages": 416,
   "ruYear": 2013,
+  "contents": [
+   {
+    "fantlabId": 458717,
+    "ru": "Расколотое отражение",
+    "en": "The Reflection Crack'd",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 458718,
+    "ru": "Прочность железа",
+    "en": "Feat of Iron",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 458719,
+    "ru": "Лев",
+    "en": "The Lion",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 458720,
+    "ru": "Притаившийся змей",
+    "en": "The Serpent Beneath",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   }
+  ],
   "authorsEn": [
    "Christian Dunn",
    "Nick Kyme"
@@ -9129,6 +9449,88 @@
   },
   "pages": 448,
   "ruYear": 2016,
+  "contents": [
+   {
+    "fantlabId": 757234,
+    "ru": "Эребовы осколки",
+    "en": "The Shards of Erebus",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 757235,
+    "ru": "Былой Калт",
+    "en": "Calth That Was",
+    "kind": "novella",
+    "year": 2013,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 757236,
+    "ru": "Тёмное сердце",
+    "en": "Dark Heart",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Энтони Рейнольдс"
+    ]
+   },
+   {
+    "fantlabId": 757237,
+    "ru": "Странник",
+    "en": "The Traveller",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Дэвид Аннандейл"
+    ]
+   },
+   {
+    "fantlabId": 757238,
+    "ru": "Темнее тьмы",
+    "en": "A Deeper Darkness",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   },
+   {
+    "fantlabId": 710410,
+    "ru": "Подземная война",
+    "en": "The Underworld War",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 757240,
+    "ru": "Атам",
+    "en": "Athame",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 632287,
+    "ru": "Неотмеченный",
+    "en": "Unmarked",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Дэн Абнетт"
+    ]
+   }
+  ],
   "authorsEn": [
    "Laurie Goulding"
   ],
@@ -9165,6 +9567,198 @@
   },
   "pages": 480,
   "ruYear": 2017,
+  "contents": [
+   {
+    "fantlabId": 777901,
+    "ru": "Братство Бури",
+    "en": "Brotherhood of the Storm",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 801173,
+    "ru": "Змей",
+    "en": "Serpent",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 801174,
+    "ru": "Луна охотника",
+    "en": "Hunter's Moon",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 801175,
+    "ru": "«Веритас феррум»",
+    "en": "Veritas Ferrum",
+    "kind": "micro",
+    "year": 2012,
+    "authors": [
+     "Дэвид Аннандейл"
+    ]
+   },
+   {
+    "fantlabId": 801176,
+    "ru": "Рассеченный",
+    "en": "Riven",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 801177,
+    "ru": "Бей и отступай",
+    "en": "Strike and Fade",
+    "kind": "micro",
+    "year": 2012,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 801178,
+    "ru": "Почести павшим",
+    "en": "Honour to the Dead",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 543971,
+    "ru": "Гвозди Мясника",
+    "en": "Butcher's Nails",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 801181,
+    "ru": "Магистр войны",
+    "en": "Warmaster",
+    "kind": "micro",
+    "year": 2012,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 801182,
+    "ru": "Криптос",
+    "en": "Kryptos",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 777909,
+    "ru": "Коготь волка",
+    "en": "Wolf's Claw",
+    "kind": "micro",
+    "year": 2014,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 801183,
+    "ru": "Вор откровений",
+    "en": "Thief of Revelations",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 801179,
+    "ru": "Слово Божие",
+    "en": "The Divine Word",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 801184,
+    "ru": "Люций. Вечный клинок",
+    "en": "Lucius: The Eternal Blade",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 801185,
+    "ru": "Восьмеричный путь",
+    "en": "Khârn: The Eightfold Path",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Энтони Рейнольдс"
+    ]
+   },
+   {
+    "fantlabId": 801180,
+    "ru": "Хранитель порядка",
+    "en": "Cypher: Guardian of Order",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 710411,
+    "ru": "Сердце «Завоевателя»",
+    "en": "Heart of the Conqueror",
+    "kind": "micro",
+    "year": 2014,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 801186,
+    "ru": "Порицание",
+    "en": "Censure",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 777903,
+    "ru": "Одинокий волк",
+    "en": "Bjorn: Lone Wolf",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Крис Райт"
+    ]
+   }
+  ],
   "authorsEn": [
    "Laurie Goulding"
   ],
@@ -9201,6 +9795,218 @@
   },
   "pages": 608,
   "ruYear": 2017,
+  "contents": [
+   {
+    "fantlabId": 914459,
+    "ru": "Возлюбленная супруга",
+    "en": "The Devine Adoratrice",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 710413,
+    "ru": "Вой Родного Мира",
+    "en": "Howl of the Hearthworld",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 914461,
+    "ru": "Владыка Красных Песков",
+    "en": "Lord of the Red Sands",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 859994,
+    "ru": "Артефакты",
+    "en": "Artefacts",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 914462,
+    "ru": "Десницы Императора",
+    "en": "Hands of the Emperor",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   },
+   {
+    "fantlabId": 859997,
+    "ru": "Фениксиец",
+    "en": "The Phoenician",
+    "kind": "micro",
+    "year": 2013,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 914463,
+    "ru": "Проповедь исхода",
+    "en": "Sermon of Exodus",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Дэвид Аннандейл"
+    ]
+   },
+   {
+    "fantlabId": 914464,
+    "ru": "По приказу Льва",
+    "en": "By the Lion's Command",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 914465,
+    "ru": "Вспарывание",
+    "en": "The Harrowing",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   },
+   {
+    "fantlabId": 819181,
+    "ru": "Это всё, что останется...",
+    "en": "All That Remains",
+    "kind": "story",
+    "year": 2013,
+    "authors": [
+     "Джеймс Сваллоу"
+    ]
+   },
+   {
+    "fantlabId": 778006,
+    "ru": "Прицел",
+    "en": "Gunsight",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Джеймс Сваллоу"
+    ]
+   },
+   {
+    "fantlabId": 777911,
+    "ru": "Верность",
+    "en": "Allegiance",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 777912,
+    "ru": "Демонология",
+    "en": "Daemonology",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 914468,
+    "ru": "Черное Око",
+    "en": "Black Oculus",
+    "kind": "micro",
+    "year": 2015,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 778418,
+    "ru": "Добродетели сынов",
+    "en": "Virtue of the Sons",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Энди Смайлли"
+    ]
+   },
+   {
+    "fantlabId": 914470,
+    "ru": "Венок непокорности",
+    "en": "The Laurel of Defiance",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 778420,
+    "ru": "Укромный уголок",
+    "en": "A Safe and Shadowed Place",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 778419,
+    "ru": "Несовершенный",
+    "en": "Imperfect",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 859995,
+    "ru": "Хирургеон",
+    "en": "Chirurgeon",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 914475,
+    "ru": "Кривой",
+    "en": "Twisted",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 914478,
+    "ru": "Волчица",
+    "en": "Wolf Mother",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   }
+  ],
   "authorsEn": [
    "Laurie Goulding"
   ],
@@ -9237,6 +10043,168 @@
   },
   "pages": 464,
   "ruYear": 2018,
+  "contents": [
+   {
+    "fantlabId": 942719,
+    "ru": "Волк из пепла и огня",
+    "en": "The Wolf of Ash and Fire",
+    "kind": "story",
+    "year": 2016,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 710412,
+    "ru": "Аврелиан",
+    "en": "Aurelian",
+    "kind": "novella",
+    "year": 2011,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 942720,
+    "ru": "Резня",
+    "en": "Massacre",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 942722,
+    "ru": "Братство Луны",
+    "en": "Brotherhood of the Moon",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 942723,
+    "ru": "Наследник",
+    "en": "Inheritor",
+    "kind": "story",
+    "year": 2016,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 942724,
+    "ru": "Воракс",
+    "en": "Vorax",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Мэтью Фаррер"
+    ]
+   },
+   {
+    "fantlabId": 942725,
+    "ru": "Железный огонь",
+    "en": "Ironfire",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Роб Сандерс"
+    ]
+   },
+   {
+    "fantlabId": 859996,
+    "ru": "Отмеченные красным",
+    "en": "Red-Marked",
+    "kind": "story",
+    "year": 2016,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 942728,
+    "ru": "Повелитель первого",
+    "en": "Master of the First",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 942729,
+    "ru": "Стратагема",
+    "en": "Stratagem",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 942730,
+    "ru": "Долгая ночь",
+    "en": "The Long Night",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Аарон Дембски-Боуден"
+    ]
+   },
+   {
+    "fantlabId": 942731,
+    "ru": "Грехи отца",
+    "en": "Sins of the Father",
+    "kind": "micro",
+    "year": 2014,
+    "authors": [
+     "Энди Смайлли"
+    ]
+   },
+   {
+    "fantlabId": 942732,
+    "ru": "Орлиный коготь",
+    "en": "The Eagle's Talon",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 942733,
+    "ru": "Железные трупы",
+    "en": "Iron Corpses",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Дэвид Аннандейл"
+    ]
+   },
+   {
+    "fantlabId": 942735,
+    "ru": "Окончательное согласие Шестьдесят три Четырнадцать",
+    "en": "The Final Compliance of Sixty-Three Fourteen",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 942737,
+    "ru": "Герольд Сангвиния",
+    "en": "The Herald of Sanguinius",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Энди Смайлли"
+    ]
+   }
+  ],
   "authorsEn": [
    "Laurie Goulding"
   ],
@@ -9273,6 +10241,118 @@
   },
   "pages": 512,
   "ruYear": 2018,
+  "contents": [
+   {
+    "fantlabId": 989161,
+    "ru": "Медузон",
+    "en": "Meduson",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Дэн Абнетт"
+    ]
+   },
+   {
+    "fantlabId": 989162,
+    "ru": "Без единства",
+    "en": "Unforged",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 989163,
+    "ru": "Долг бессмертных",
+    "en": "Immortal Duty",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 989164,
+    "ru": "Эсминец «Серый Коготь»",
+    "en": "Grey Talon",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 989165,
+    "ru": "Ключи Хель",
+    "en": "The Keys of Hel",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Джон Френч"
+    ]
+   },
+   {
+    "fantlabId": 989167,
+    "ru": "Деяния вечны",
+    "en": "Deeds Endured",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Гэв Торп"
+    ]
+   },
+   {
+    "fantlabId": 989166,
+    "ru": "Смертельная петля",
+    "en": "The Noose",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Дэвид Аннандейл"
+    ]
+   },
+   {
+    "fantlabId": 989168,
+    "ru": "Без голоса",
+    "en": "Unspoken",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Гай Хейли"
+    ]
+   },
+   {
+    "fantlabId": 908612,
+    "ru": "Седьмой змей",
+    "en": "The Seventh Serpent",
+    "kind": "novella",
+    "year": 2014,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 989170,
+    "ru": "Избранная длань",
+    "en": "The Hand Elect",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Крис Райт"
+    ]
+   },
+   {
+    "fantlabId": 989169,
+    "ru": "Другой",
+    "en": "The Either",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   }
+  ],
   "authorsEn": [
    "Laurie Goulding"
   ],
@@ -9309,8 +10389,166 @@
   },
   "pages": 536,
   "ruYear": 2019,
+  "contents": [
+   {
+    "fantlabId": 777959,
+    "ru": "Солнце Прометея",
+    "en": "Promethean Sun",
+    "kind": "novella",
+    "year": 2011,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 777960,
+    "ru": "Выжженная земля",
+    "en": "Scorched Earth",
+    "kind": "novella",
+    "year": 2013,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 859994,
+    "ru": "Артефакты",
+    "en": "Artefacts",
+    "kind": "story",
+    "year": 2014,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 989163,
+    "ru": "Долг бессмертных",
+    "en": "Immortal Duty",
+    "kind": "story",
+    "year": 2015,
+    "authors": [
+     "Ник Кайм"
+    ]
+   },
+   {
+    "fantlabId": 908617,
+    "ru": "Сыны кузни",
+    "en": "Sons of the Forge",
+    "kind": "novella",
+    "year": 2016,
+    "authors": [
+     "Ник Кайм"
+    ]
+   }
+  ],
   "authorsEn": [
    "Nick Kyme"
+  ],
+  "chunk": "extras"
+ },
+ {
+  "fantlabId": 1212585,
+  "universe": "40k",
+  "type": "anthology",
+  "titleRu": "Железные воины",
+  "titleEn": "Iron Warriors",
+  "year": 2012,
+  "authorsRu": [
+   "Грэм Макнилл"
+  ],
+  "authorIds": [
+   861
+  ],
+  "rating": 7.5,
+  "voters": 2,
+  "series": [],
+  "seriesAlt": [],
+  "notFinished": false,
+  "preparing": false,
+  "why": "просили читатели",
+  "extra": true,
+  "ru": "official",
+  "covers": {
+   "ru": "https://fantlab.ru/images/editions/big/190125",
+   "en": null,
+   "any": null
+  },
+  "pages": 608,
+  "ruYear": 2016,
+  "contents": [
+   {
+    "fantlabId": 36295,
+    "ru": "Железный шторм",
+    "en": "Storm of Iron",
+    "kind": "novel",
+    "year": 2002,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 36308,
+    "ru": "Враг моего врага",
+    "en": "The Enemy of My Enemy",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 348163,
+    "ru": "Эффект Гераклита",
+    "en": "The Heraclitus Effect",
+    "kind": "story",
+    "year": 2008,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 348164,
+    "ru": "Жатва черепов",
+    "en": "The Skull Harvest",
+    "kind": "story",
+    "year": 2009,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 348161,
+    "ru": "Железный Воин",
+    "en": "Iron Warrior",
+    "kind": "novella",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 790742,
+    "ru": "Железо снаружи",
+    "en": "The Iron Without",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   },
+   {
+    "fantlabId": 804241,
+    "ru": "Калтский зверь",
+    "en": "The Beast of Calth",
+    "kind": "story",
+    "year": 2012,
+    "authors": [
+     "Грэм Макнилл"
+    ]
+   }
+  ],
+  "authorsEn": [
+   "Graham McNeill"
   ],
   "chunk": "extras"
  },

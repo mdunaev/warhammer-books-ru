@@ -38,6 +38,7 @@
   // Байесовская оценка: мало голосов — тянем к среднему
   const C = 7.5, M = 25;
   const bayes = (r, v) => (r && v ? (v / (v + M)) * r + (M / (v + M)) * C : null);
+  const norm = (str) => String(str || "").toLowerCase().replace(/ё/g, "е");
 
   const BOOKS = (window.BOOKS || []).map((b) => {
     const fac = factions[b.factions[0]] || factions.imperium;
@@ -56,8 +57,11 @@
       eraIdx: eraOrder[b.era] ?? 99,
       score: bayes(b.rating, b.voters)
     });
-    x.search = [b.titleRu, b.titleEn, ...authorsRu, ...b.authors, ...(b.heroes || []), b.place, s?.name, s?.nameEn, ...b.factions.map((f) => factions[f]?.name)]
-      .filter(Boolean).join(" ").toLowerCase().replace(/ё/g, "е");
+    x.searchOwn = norm([b.titleRu, b.titleEn, ...authorsRu, ...b.authors, ...(b.heroes || []), b.place, s?.name, s?.nameEn, ...b.factions.map((f) => factions[f]?.name)]
+      .filter(Boolean).join(" "));
+    // Сборник находится и по рассказам внутри: по названию и автору
+    (b.contents || []).forEach((c) => { c.search = norm([c.t, c.en, c.a].filter(Boolean).join(" ")); });
+    x.search = [x.searchOwn, ...(b.contents || []).map((c) => c.search)].join(" ");
     return x;
   });
   const byId = new Map(BOOKS.map((b) => [b.id, b]));
@@ -92,12 +96,21 @@
     return b.cover.ru || b.cover.en || null;
   }
 
+  // Поиск нашёл сборник по рассказу внутри: какой это рассказ (для подсказки на карточке)
+  function storyMatch(b, query) {
+    if (!b.contents) return null;
+    const words = norm(query).trim().split(/\s+/).filter(Boolean);
+    const missing = words.filter((w) => !b.searchOwn.includes(w));
+    if (!missing.length) return null;
+    return b.contents.find((c) => missing.every((w) => c.search.includes(w))) || null;
+  }
+
   // ----------------------------------------------------------- Фильтры
   const DEFAULT_LIB = { q: "", setting: [], era: [], fac: [], tag: [], rec: [], entry: false, ru: [], fmt: [], seg: [], status: "", author: "", series: "", y1: null, y2: null, sort: "rec", dir: 1, group: "none", view: "grid" };
 
   function filterBooks(f, list = BOOKS) {
     const S = A.store;
-    const q = (f.q || "").trim().toLowerCase().replace(/ё/g, "е");
+    const q = norm(f.q).trim();
     const facSet = f.fac.length ? new Set(f.fac.flatMap(descendants)) : null;
     return list.filter((b) => {
       if (q && !q.split(/\s+/).every((w) => b.search.includes(w))) return false;
@@ -210,6 +223,6 @@
     META, CONFIG, BOOKS, byId, byN, factions, eras, tags, groups, segmenta, settings, formats, series, seriesBooks,
     AUTHORS: AUTHORS_LIST, authorMap, AUTH, SORTS, sortById, GROUPS, groupById, PATHS, GROUP_COLOR, GROUP_HEX,
     YEAR_MIN, YEAR_MAX, DEFAULT_LIB, descendants, topFaction, children,
-    filterBooks, sortBooks, reshuffle, groupBooks, coverMode, coverUrl, links
+    filterBooks, storyMatch, sortBooks, reshuffle, groupBooks, coverMode, coverUrl, links
   };
 })(window.App);

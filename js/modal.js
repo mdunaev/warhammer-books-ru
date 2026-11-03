@@ -74,6 +74,22 @@
       <div class="pin" style="left:${pos}%"></div></div>`;
   }
 
+  // Состав сборника. Произведения, которые есть в каталоге отдельной книгой, открываются по клику.
+  const KIND = { novel: "роман", novella: "повесть", story: "рассказ", micro: "микрорассказ" };
+  function contentsHTML(b) {
+    if (!b.contents?.length) return "";
+    const own = b.authorsRu.join(", ");
+    const many = new Set(b.contents.map((c) => c.a)).size > 1;
+    return `<div class="sect-title">Что внутри · ${b.contents.length} ${u.plural(b.contents.length, "произведение", "произведения", "произведений")}</div>
+      <ol class="contents">${b.contents.map((c) => {
+        const by = many || (c.a && c.a !== own) ? `<span class="ca">${u.esc(c.a)}</span>` : "";
+        const name = c.id && D.byId.has(c.id)
+          ? `<a class="ct" data-open="${u.esc(c.id)}" tabindex="0" role="button">${u.esc(c.t)}</a>`
+          : `<span class="ct">${u.esc(c.t)}</span>`;
+        return `<li>${name}${by}<span class="ck">${u.esc(KIND[c.k] || "")}${c.y ? ", " + c.y : ""}</span></li>`;
+      }).join("")}</ol>`;
+  }
+
   function bookHTML(b) {
     const read = S.isRead(b.id), want = S.isWant(b.id), my = S.rating(b.id);
     const sBooks = b.series ? D.seriesBooks[b.series] : null;
@@ -129,6 +145,8 @@
           ${b.tags.map((t) => `<a class="chip" href="#/?tag=${t}">${u.esc(D.tags[t]?.name)}</a>`).join("")}
         </div>
         ${b.heroes?.length ? `<p style="color:var(--text-2);margin:12px 0 0;font-size:15px">Герои: ${b.heroes.map(u.esc).join(", ")}</p>` : ""}
+
+        ${contentsHTML(b)}
 
         ${sBooks && sBooks.length > 1 ? `
           <div class="sect-title">Серия «${u.esc(b.seriesName)}» · ${idx + 1} из ${sBooks.length}</div>

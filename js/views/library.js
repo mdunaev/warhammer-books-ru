@@ -205,20 +205,23 @@
       return `<div class="rows"><div class="row rows-head"><span></span><span>Книга</span><span class="hide-m">Автор</span><span class="hide-m num">Год</span><span class="hide-m">Когда</span><span class="num">Оценка</span><span class="hide-m"></span></div>
         ${groups.map((g, i) => groupHead(g, i) + g.books.map(rowHTML).join("")).join("")}</div>`;
     }
-    return `<div class="grid">${groups.map((g, i) => groupHead(g, i) + g.books.map((b) => ui.cardHTML(b, { meta: sort.meta })).join("")).join("")}</div>`;
+    return `<div class="grid">${groups.map((g, i) => groupHead(g, i) + g.books.map((b) => ui.cardHTML(b, { meta: sort.meta, inside: inside(b) })).join("")).join("")}</div>`;
   }
+
+  // Сборник найден по рассказу внутри — какому именно
+  function inside(b) { return st.q ? D.storyMatch(b, st.q)?.t || null : null; }
 
   function spineHTML(b) {
     const p = b.pages || 380;
     const w = Math.round(u.clamp(18 + p / 18, 24, 58));
     const h = Math.round(180 + (u.hash(b.id) % 50));
-    return `<div class="spine${S.isRead(b.id) ? " is-read" : ""}" data-bid="${b.id}" data-flip="${b.id}" style="--c:${b.color};--w:${w}px;--h:${h}px" title="${u.esc(b.title)}" tabindex="0" role="button" aria-label="${u.esc(b.title)}">
+    return `<div class="spine${S.isRead(b.id) ? " is-read" : ""}" data-bid="${b.id}" data-flip="${b.id}" style="--c:${b.color};--w:${w}px;--h:${h}px" title="${u.esc(b.title + (inside(b) ? ` — внутри: «${inside(b)}»` : ""))}" tabindex="0" role="button" aria-label="${u.esc(b.title)}">
       <span class="sp-no">${b.fac.num || (b.seriesNo ? u.roman(b.seriesNo) : "")}</span><span class="sp-title">${u.esc(b.title)}</span><span class="sp-no">${b.rec === 1 ? "✦" : ""}</span></div>`;
   }
   function rowHTML(b) {
     const read = S.isRead(b.id), want = S.isWant(b.id);
     return `<div class="row" data-bid="${b.id}" data-flip="${b.id}" tabindex="0" role="button" aria-label="${u.esc(b.title)}">${ui.coverHTML(b)}
-      <div class="rt"><b>${u.esc(b.title)}</b><span>${b.titleRu ? u.esc(b.titleEn) + " · " : ""}${u.esc(b.fac.name)}</span></div>
+      <div class="rt"><b>${u.esc(b.title)}</b><span>${inside(b) ? `<em class="row-inside">внутри: «${u.esc(inside(b))}»</em> · ` : ""}${b.titleRu ? u.esc(b.titleEn) + " · " : ""}${u.esc(b.fac.name)}</span></div>
       <span class="muted hide-m">${u.esc(b.authorsRu.join(", "))}</span>
       <span class="num hide-m">${b.year}</span>
       <span class="muted hide-m">${u.esc(b.tlLabel)}</span>

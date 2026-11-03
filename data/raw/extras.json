@@ -8,7 +8,8 @@
     "Christian Dunn": "Кристиан Данн",
     "Gav Thorpe": "Гэв Торп",
     "Justin D. Hill": "Джастин Д. Хилл",
-    "Laurie Goulding": "Лори Голдинг"
+    "Laurie Goulding": "Лори Голдинг",
+    "Graham McNeill": "Грэм Макнилл"
   },
   "series": [
     {
@@ -40,6 +41,12 @@
       "name": "Ересь Хоруса",
       "nameEn": "The Horus Heresy",
       "setting": "hh"
+    },
+    {
+      "id": "iron-warriors",
+      "name": "Железные Воины",
+      "nameEn": "Iron Warriors",
+      "setting": "40k"
     }
   ],
   "books": [
@@ -677,6 +684,49 @@
         "fulgrim"
       ],
       "note": "Сборник для фанатов Саламандр. Многое уже выходило отдельно."
+    },
+    {
+      "fantlabId": 1212585,
+      "id": "iron-warriors",
+      "titleEn": "Iron Warriors",
+      "titleRu": "Железные воины",
+      "ru": "official",
+      "authors": [
+        "Graham McNeill"
+      ],
+      "year": 2012,
+      "setting": "40k",
+      "series": "iron-warriors",
+      "seriesNo": null,
+      "format": "anthology",
+      "factions": [
+        "iron-warriors",
+        "ultramarines",
+        "guard"
+      ],
+      "era": "dark-millennium",
+      "tl": 40998,
+      "tlLabel": "ок. 990–999.M41",
+      "tlApprox": true,
+      "place": "Гидра Кордатус, Медренгард, Калт",
+      "segmentum": "many",
+      "tags": [
+        "villain-pov",
+        "war",
+        "siege",
+        "character"
+      ],
+      "rec": 2,
+      "entry": false,
+      "heroes": [
+        "Хонсу"
+      ],
+      "desc": "Почти всё, что Грэм Макнилл написал о Железных Воинах 41-го тысячелетия: роман «Железный шторм», повесть «Железный Воин» и пять рассказов. Главный герой — Хонсу, полукровка, которого презирают свои же. Он берёт крепости, выжигает миры и копит злобу на Ультрамаринов.",
+      "hook": "Хонсу и его Железные Воины: осады, месть и ни капли жалости.",
+      "prereq": [
+        "dead-sky-black-sun"
+      ],
+      "note": "По-русски «Железный шторм» выходил только в этом сборнике. Рассказы о мести Хонсу лучше читать после романов об Ультрамаринах."
     }
   ],
   "paths": [],
@@ -686,6 +736,7 @@
     "The Primarchs: во входе составители Christian Dunn и Nick Kyme; Википедия называет только Christian Dunn. Оставлено как во входе.",
     "Другие пачки: примечания у the-armour-of-contempt, the-warmaster (guard-a) и throne-of-light (modern-misc) говорят, что His Last Command / Blood Pact / Salvation’s Reach / The Wolftime «нет в списке» — теперь они есть, примечания стоит обновить.",
     "hive-part-one (inquisition): segmentum = beyond для города-улья выглядит странно; для второй части взяты те же место и дата ради единообразия.",
-    "Vainglorious: дата ~940.M41 → ок. 992.M41 (Lexicanum: 487.992.M41)."
+    "Vainglorious: дата ~940.M41 → ок. 992.M41 (Lexicanum: 487.992.M41).",
+    "Добавлен сборник «Железные воины» (Fantlab 1212585) по просьбе читателей: в нём рассказы «Эффект Гераклита», «Жатва черепов», «Калтский зверь»."
   ]
 }

@@ -58,6 +58,26 @@ for (const t of EXTRAS) {
   else if (!b) console.warn("нет на Fantlab:", t);
 }
 
+// 3б. Сборники, которых нет в выгрузке циклов. Берём по номеру Fantlab. Идут в пачку «extras».
+const EXTRA_IDS = [
+  1212585 // «Железные воины» Грэма Макнилла: «Железный шторм», повесть и рассказы о Хонсу (просили читатели)
+];
+const TYPES = { "роман": "novel", "повесть": "novella", "сборник": "anthology", "антология": "anthology" };
+const cyr = (s) => /[а-яё]/i.test(s || "");
+for (const id of EXTRA_IDS) {
+  if (picked.has(id)) continue;
+  const w = await fantlab("work", id);
+  if (!w) throw new Error(`Fantlab не ответил по работе ${id}. Повторите позже.`);
+  const authors = (w.authors || []).filter((a) => a.type === "autor");
+  picked.set(id, {
+    fantlabId: id, universe: "40k", type: TYPES[String(w.work_type).toLowerCase()] || "anthology",
+    titleRu: cyr(w.work_name) ? w.work_name : null, titleEn: w.work_name_orig || null, year: w.work_year || null,
+    authorsRu: authors.map((a) => a.name), authorIds: authors.map((a) => a.id),
+    rating: Number(w.val_midmark) || null, voters: Number(w.val_voters) || 0,
+    series: [], seriesAlt: [], notFinished: false, preparing: false, why: "просили читатели", extra: true
+  });
+}
+
 const books = [...picked.values()];
 
 // 3. Подробности с Fantlab: перевод, обложка, число страниц
@@ -75,6 +95,10 @@ const allEditions = (w) => Object.values(w.editions_blocks || {}).flatMap((x) =>
 const editionUse = new Map();
 for (const w of works.values()) for (const e of allEditions(w)) editionUse.set(e.edition_id, (editionUse.get(e.edition_id) || 0) + 1);
 const normName = (s) => String(s || "").toLowerCase().replace(/ё/g, "е").replace(/[^a-zа-я0-9]+/g, " ").trim();
+// Названия сборников каталога. Их издания не относятся к отдельным книгам, которые в них входят.
+const anthologyNames = new Set(books.filter((b) => b.type === "anthology").flatMap((b) => [b.titleRu, b.titleEn]).map(normName).filter(Boolean));
+// Состав сборника: роман, повесть, рассказ, микрорассказ
+const KIND = { "роман": "novel", "повесть": "novella", "рассказ": "story", "микрорассказ": "micro" };
 
 for (const b of books) {
   const w = works.get(b.fantlabId);
@@ -90,11 +114,14 @@ for (const b of books) {
   b.ru = ruPaper.length || ruEbook.length ? "official" : (ruFan.length || (b.titleRu && ruTranslation)) ? "fan" : null;
   if (!b.ru) b.titleRu = null;
 
-  // Сборник (омнибус): издание общее у нескольких книг каталога или очень толстое с другим названием.
-  // Его обложка и толщина к отдельной книге не относятся.
+  // Сборник (омнибус): издание общее у нескольких книг каталога, издание сборника из каталога
+  // или очень толстое с другим названием. Его обложка и толщина к отдельной книге не относятся.
+  // Исключение: у самого сборника его собственное издание.
   const titles = [b.titleRu, b.titleEn].map(normName).filter(Boolean);
   const sameName = (e) => titles.some((t) => normName(e.name).includes(t) || t.includes(normName(e.name)));
-  const omnibus = (e) => (editionUse.get(e.edition_id) || 0) > 1 || ((Number(e.pages) || 0) >= 760 && !sameName(e));
+  const own = (e) => b.type === "anthology" && sameName(e);
+  const omnibus = (e) => !own(e) && ((editionUse.get(e.edition_id) || 0) > 1 ||
+    (anthologyNames.has(normName(e.name)) && !sameName(e)) || ((Number(e.pages) || 0) >= 760 && !sameName(e)));
   const single = (arr) => arr.filter((e) => !omnibus(e));
   const pic = (e) => (e && e.pic_num > 0 ? `https://fantlab.ru/images/editions/big/${e.edition_id}` : null);
   const newestPic = (arr) => pic(single(arr).filter((e) => e.pic_num > 0).sort((x, y) => (y.year || 0) - (x.year || 0))[0]);
@@ -111,6 +138,16 @@ for (const b of books) {
   const pp = pr.length ? pr : pe;
   b.pages = pp.length ? pp[Math.floor(pp.length / 2)] : null;
   b.ruYear = ruPaper.length ? Math.min(...ruPaper.map((e) => e.year || 9999)) : null;
+  // Что внутри сборника: только названия, тип, год и авторы (аннотации Fantlab не берём)
+  if (b.type === "anthology") {
+    b.contents = (w.children || []).filter((c) => KIND[c.work_type]).map((c) => ({
+      fantlabId: c.work_id,
+      ru: cyr(c.work_name) ? c.work_name : null,
+      en: c.work_name_orig || (!cyr(c.work_name) ? c.work_name : null),
+      kind: KIND[c.work_type], year: c.work_year || null,
+      authors: (c.authors || []).map((a) => a.name)
+    }));
+  }
 }
 
 // 4. Английские имена авторов

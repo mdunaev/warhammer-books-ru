@@ -97,6 +97,7 @@
       <div class="card-body">
         <h3 class="card-title">${u.esc(b.title)}</h3>
         <div class="card-meta">${opts.metaHTML ? opts.metaHTML(b) : `<span class="k">${u.esc(meta)}</span>`}</div>
+        ${opts.inside ? `<div class="card-inside">внутри: «${u.esc(opts.inside)}»</div>` : ""}
       </div>
     </article>`;
   }

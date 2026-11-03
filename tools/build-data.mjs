@@ -128,6 +128,20 @@ if (entryList) {
   for (const b of books) b.entry = set.has(b.id);
 }
 
+// Состав сборников: что внутри. Если произведение есть в каталоге отдельной книгой — ссылка на неё.
+const idByFantlab = new Map(books.filter((b) => b.fantlabId != null).map((b) => [b.fantlabId, b.id]));
+books.forEach((b, i) => {
+  const list = selection[i].contents;
+  if (!list?.length) return;
+  b.contents = list.map((c) => {
+    const item = { t: clean(c.ru || c.en), k: c.kind, y: c.year, a: c.authors.join(", ") };
+    if (c.ru && c.en) item.en = clean(c.en);
+    const id = idByFantlab.get(c.fantlabId);
+    if (id && id !== b.id) item.id = id;
+    return item;
+  });
+});
+
 const nSeen = new Set();
 for (const b of books) { if (nSeen.has(b.n)) throw new Error(`повтор кода книги n=${b.n} (${b.id})`); nSeen.add(b.n); }
 

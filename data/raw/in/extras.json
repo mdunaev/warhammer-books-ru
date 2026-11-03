@@ -8,7 +8,8 @@
   "Christian Dunn": "Кристиан Данн",
   "Gav Thorpe": "Гэв Торп",
   "Justin D. Hill": "Джастин Д. Хилл",
-  "Laurie Goulding": "Лори Голдинг"
+  "Laurie Goulding": "Лори Голдинг",
+  "Graham McNeill": "Грэм Макнилл"
  },
  "books": [
   {
@@ -222,6 +223,20 @@
    "fantlabSeries": "Ересь Хоруса",
    "fantlabRating": 7.37,
    "fantlabVoters": 46
+  },
+  {
+   "fantlabId": 1212585,
+   "titleEn": "Iron Warriors",
+   "titleRu": "Железные воины",
+   "ru": "official",
+   "authors": [
+    "Graham McNeill"
+   ],
+   "year": 2012,
+   "fantlabType": "anthology",
+   "fantlabSeries": "",
+   "fantlabRating": 7.5,
+   "fantlabVoters": 2
   }
  ]
 }

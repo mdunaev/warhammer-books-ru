@@ -121,9 +121,9 @@
   "pages": 480
  },
  "36295": {
-  "ru": "https://fantlab.ru/images/editions/big/306728",
+  "ru": null,
   "en": "https://fantlab.ru/images/editions/big/42606",
-  "pages": 624
+  "pages": 318
  },
  "36303": {
   "ru": "https://fantlab.ru/images/editions/big/11831",
@@ -1147,6 +1147,13 @@
   "pages": 432,
   "olOk": true,
   "olUrl": "https://covers.openlibrary.org/b/id/10225719-L.jpg"
+ },
+ "1212585": {
+  "ru": "https://fantlab.ru/images/editions/big/190125",
+  "en": "https://covers.openlibrary.org/b/id/10193072-L.jpg",
+  "olOk": true,
+  "olUrl": "https://covers.openlibrary.org/b/id/10193072-L.jpg",
+  "pages": 608
  },
  "1219199": {
   "ru": "https://fantlab.ru/images/editions/big/309644",
