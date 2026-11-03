@@ -7,5 +7,5 @@
 window.CONFIG = {
   realCovers: true,
   defaultCovers: "ru",
-  publicUrl: ""
+  publicUrl: "https://mdunaev.github.io/warhammer-books-ru/"
 };
